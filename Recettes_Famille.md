@@ -139,23 +139,36 @@ Carnet familial — recettes, proportions et repères de cuisine.
 <a id="proportions"></a>
 ### Proportions
 
-Pour nous 4
+Pour **4 portions adultes** : 2 adultes et 2 adolescents de 14 et 16 ans. Les poids indiqués sont ceux des aliments secs ou crus.
 
-| Ingrédient | Accompagnement / plat principal | Préparation | Temps total |
-| :---- | :---- | :---- | :---- |
-| Pâtes | 400 g/500 g |  |  |
-| Riz | /300 g | 2x leur volume en eau |  |
-| Frites | /600 g |  |  |
-| Semoule de Blé | 100 g / 200 g | 5 dl d’eau par 100 g |  |
-| Pois chiche |  | Tremper 12 h et cuire 1 h | Nuit  + 1 h |
-| Quinoa Val-de-Ruz |  |  |  |
-| Graines de millet |  |  |  |
-| Graines d’engrain | / 350 g |  | Nuit + 1 h |
-| Haricots rouge sec |  |  |  |
-| Lentilles |  | 25 min dans eau bouillante salée | 30 min |
-| Polenta d’amidonnier |  |  |  |
-| Raclette | 800 g de from, 600 g patates |  |  |
-| Fondue | >800 g de fromage |  |  |
+| Aliment | Accompagnement pour 4 | Plat principal pour 4 | Préparation / repère |
+|---|---:|---:|---|
+| Pâtes sèches | 320–400 g | 440–500 g |  |
+| Riz sec | 280–320 g | 360–400 g | Environ 2 fois son volume d’eau pour une cuisson par absorption. |
+| Pommes de terre | 800 g–1 kg | 1,2–1,4 kg |  |
+| Pommes de terre pour frites | 800 g–1 kg | 1,2–1,4 kg |  |
+| Semoule de blé sèche | 240–300 g | 360–400 g | Environ 1 volume d’eau bouillante pour 1 volume de semoule ; ajuster selon le paquet. |
+| Pois chiches secs | 240–300 g | 320–400 g | Tremper 12 h, puis cuire environ 1 h. |
+| Quinoa sec | 240–280 g | 320–360 g | Rincer avant cuisson. |
+| Millet sec | 240–280 g | 320–360 g |  |
+| Engrain sec | 280–320 g | 360–400 g | Tremper une nuit, puis cuire environ 1 h. |
+| Haricots rouges secs | 250–300 g | 350–400 g | Tremper une nuit avant cuisson. |
+| Lentilles sèches | 250–300 g | 350–400 g | Cuire environ 25 min dans l’eau, puis saler selon la variété. |
+| Polenta sèche | 250–300 g | 350–400 g | Adapter le liquide à la consistance souhaitée et aux indications du paquet. |
+| Légumes | 800 g–1 kg | 1,2–1,6 kg | Prévoir davantage si le légume constitue l’essentiel du repas. |
+| Viande ou volaille désossée | 600–800 g | 800 g–1 kg | Poids cru. |
+| Poisson en filets | 600–800 g | 800 g–1 kg | Poids cru. |
+| Œufs | 6–8 | 8–12 | Selon la garniture et l’appétit. |
+| Soupe | 1–1,5 l | 1,5–2 l | Environ 250–350 ml en entrée ou 400–500 ml en repas. |
+| Raclette | — | 800–900 g de fromage + 1–1,2 kg de pommes de terre |  |
+| Fondue | — | 800–900 g de fromage + 700–900 g de pain |  |
+
+**Ajustement rapide**
+
+- Choisir le bas de la fourchette avec une entrée, beaucoup de légumes ou un dessert.
+- Choisir le haut pour un plat unique ou de gros appétits.
+- Ajouter environ 10 % si l’on souhaite volontairement des restes.
+- Conserver les quantités d’une recette familiale déjà testée : ce tableau sert de repère, pas de règle de conversion automatique.
 
 <a id="2-riz"></a>
 ## 2. Riz
