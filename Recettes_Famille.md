@@ -1,99 +1,126 @@
 # Recettes de famille
 
+Carnet familial — recettes, proportions et repères de cuisine.
+
+## Table des recettes
+
+### Riz
+
+| Recette | Recette |
+|---|---|
+| [Arborio à la cocotte minute](#arborio-a-la-cocotte-minute) | [Risotto au safran](#risotto-au-safran) |
+| [Paella](#paella) |  |
+
+### Pâtes et préparations de base
+
+| Recette | Recette |
+|---|---|
+| [Focaccia](#focaccia) | [À pâte](#a-pate) |
+| [À pizza](#a-pizza) | [À pizza de blé](#a-pizza-de-ble) |
+| [À crêpes (BBQ)](#a-crepes-bbq) | [À tortillas](#a-tortillas) |
+| [Feuilletée escargot](#feuilletee-escargot) | [Nouilles / Ramen](#nouilles-ramen) |
+
+### Sauces et jus
+
+| Recette | Recette |
+|---|---|
+| [Bouillons](#bouillons) | [Au fromage](#au-fromage) |
+| [Pesto](#pesto) | [Cœur d’artichaut](#coeur-d-artichaut) |
+| [Citron](#citron) | [Béarnaise](#bearnaise) |
+| [À la carbonara](#a-la-carbonara) | [Caesar](#caesar) |
+| [Beurre d’ail (BBQ)](#beurre-d-ail-bbq) | [Marinade citron miel thym (BBQ)](#marinade-citron-miel-thym-bbq) |
+
+### Pains et accompagnements
+
+| Recette | Recette |
+|---|---|
+| [Soda Bread](#soda-bread) | [Popovers](#popovers) |
+| [Frites](#frites) |  |
+
+### Soupes
+
+| Recette | Recette |
+|---|---|
+| [Soupe à la tomate](#soupe-a-la-tomate) | [Soupe du Chalet](#soupe-du-chalet) |
+| [Soupe de lentilles & Co façon JB](#soupe-de-lentilles-co-facon-jb) |  |
+
+### Volailles
+
+| Recette | Recette |
+|---|---|
+| [Poulet saumuré](#poulet-saumure) | [Poulet Thomas Keller](#poulet-thomas-keller) |
+| [Poulet Marbella 48 h](#poulet-marbella-48-h) | [Poulet piripiri crapaudine](#poulet-piripiri-crapaudine) |
+| [Poulet rôti Alice Waters](#poulet-roti-alice-waters) |  |
+
+### Plats principaux
+
+| Recette | Recette |
+|---|---|
+| [Saumon au chou frisé façon Elysée simplifié](#saumon-au-chou-frise-facon-elysee-simplifie) | [Lasagnes au four](#lasagnes-au-four) |
+| [Vitello Tonnato](#vitello-tonnato) | [↳ Tonnato](#tonnato) |
+| [Tortilla de patatas](#tortilla-de-patatas) | [Saucisson en brioche](#saucisson-en-brioche) |
+| [OnePot Pasta](#onepot-pasta) | [Tourtière](#tourtiere) |
+| [Tajine d'épaule d’agneau](#tajine-d-epaule-d-agneau) | [Compotée de joue de boeuf (ou paleron ou gîte ou plat de côte ou macreuse)](#compotee-de-joue-de-boeuf-ou-paleron-ou-gite-ou-plat-de-cote-ou-macreuse) |
+| [Tarte tatin betterave](#tarte-tatin-betterave) | [Tarte aux oignons](#tarte-aux-oignons) |
+| [Boulettes de viande (BBQ)](#boulettes-de-viande-bbq) | [Taboulé](#taboule) |
+
+### Terrines
+
+| Recette | Recette |
+|---|---|
+| [Terrine de foie de volaille](#terrine-de-foie-de-volaille) | [Terrine de volaille 2024](#terrine-de-volaille-2024) |
+| [Terrine de campagne](#terrine-de-campagne) | [Terrine de poisson](#terrine-de-poisson) |
+
+### Cakes salés
+
+| Recette | Recette |
+|---|---|
+| [Cake olives/fêta](#cake-olives-feta) | [Cake olives/lardons](#cake-olives-lardons) |
+| [Cake Vaudois](#cake-vaudois) |  |
+
+### Apéritifs
+
+| Recette | Recette |
+|---|---|
+| [Tartare de tomate](#tartare-de-tomate) | [Sablés olives parmesan](#sables-olives-parmesan) |
+| [Mousse de thon au Mascarpone](#mousse-de-thon-au-mascarpone) | [Gougères](#gougeres) |
+| [Houmous](#houmous) | [Sangria blanche](#sangria-blanche) |
+| [Thin oatcakes](#thin-oatcakes) | [Encas énergie](#encas-energie) |
+| [Poivron façon Peperoni con bagna caoda](#poivron-facon-peperoni-con-bagna-caoda) | [Citrons confits](#citrons-confits) |
+| [Limoncello](#limoncello) |  |
+
+### Desserts
+
+| Recette | Recette |
+|---|---|
+| [Choux](#choux) | [Gelée au thé](#gelee-au-the) |
+| [Pancakes](#pancakes) | [Panna Cotta](#panna-cotta) |
+| [Fondants au chocolat noir](#fondants-au-chocolat-noir) | [Mousse au choc au siphon](#mousse-au-choc-au-siphon) |
+| [Crumble pommes](#crumble-pommes) | [Riz au lait](#riz-au-lait) |
+| [Flan pâtissier sans pâte](#flan-patissier-sans-pate) | [Caramel liquide](#caramel-liquide) |
+
 ## Sommaire
 
-- [Tares](#tares)
-- [Proportions](#proportions)
-- [Riz](#riz)
-  - [Arborio à la cocotte minute](#arborio-a-la-cocotte-minute)
-  - [Risotto au safran](#risotto-au-safran)
-  - [Paella](#paella)
-- [Pâte](#pate)
-  - [Focaccia](#focaccia)
-  - [À pâte](#a-pate)
-  - [À pizza](#a-pizza)
-  - [À pizza de blé](#a-pizza-de-ble)
-  - [À crêpes (BBQ)](#a-crepes-bbq)
-  - [À tortillas](#a-tortillas)
-  - [Feuilletée escargot](#feuilletee-escargot)
-  - [Nouilles / Ramen](#nouilles-ramen)
-- [Sauces / Jus](#sauces-jus)
-  - [Bouillons](#bouillons)
-  - [Au fromage](#au-fromage)
-  - [Pesto](#pesto)
-  - [Cœur d’artichaut](#coeur-d-artichaut)
-  - [Citron](#citron)
-  - [Béarnaise](#bearnaise)
-  - [À la carbonara](#a-la-carbonara)
-  - [Caesar](#caesar)
-  - [Beurre d’ail (BBQ)](#beurre-d-ail-bbq)
-  - [Marinade citron miel thym (BBQ)](#marinade-citron-miel-thym-bbq)
-- [Pains](#pains)
-  - [Soda Bread](#soda-bread)
-  - [Popovers](#popovers)
-- [Frites](#frites)
-- [Soupes](#soupes)
-  - [Soupe à la tomate](#soupe-a-la-tomate)
-  - [Soupe du Chalet](#soupe-du-chalet)
-  - [Soupe de lentilles & Co façon JB](#soupe-de-lentilles-co-facon-jb)
-- [Poulets](#poulets)
-  - [Poulet saumuré](#poulet-saumure)
-  - [Poulet Thomas Keller](#poulet-thomas-keller)
-  - [Poulet Marbella 48 h](#poulet-marbella-48-h)
-  - [Poulet piripiri crapaudine](#poulet-piripiri-crapaudine)
-  - [Poulet rôti Alice Waters](#poulet-roti-alice-waters)
-- [Recettes](#recettes)
-  - [Saumon au chou frisé façon Elysée simplifié](#saumon-au-chou-frise-facon-elysee-simplifie)
-  - [Lasagnes au four](#lasagnes-au-four)
-  - [Vitello Tonnato](#vitello-tonnato)
-    - [Tonnato](#tonnato)
-  - [Tortilla de patatas](#tortilla-de-patatas)
-  - [Saucisson en brioche](#saucisson-en-brioche)
-  - [OnePot Pasta](#onepot-pasta)
-  - [Tourtière](#tourtiere)
-  - [Tajine d'épaule d’agneau](#tajine-d-epaule-d-agneau)
-  - [Compotée de joue de boeuf (ou paleron ou gîte ou plat de côte ou macreuse)](#compotee-de-joue-de-boeuf-ou-paleron-ou-gite-ou-plat-de-cote-ou-macreuse)
-  - [Tarte tatin betterave](#tarte-tatin-betterave)
-  - [Tarte aux oignons](#tarte-aux-oignons)
-  - [Boulettes de viande (BBQ)](#boulettes-de-viande-bbq)
-  - [Taboulé](#taboule)
-- [Terrines](#terrines)
-  - [Terrine de foie de volaille](#terrine-de-foie-de-volaille)
-  - [Terrine de volaille 2024](#terrine-de-volaille-2024)
-  - [Terrine de campagne](#terrine-de-campagne)
-  - [Terrine de poisson](#terrine-de-poisson)
-- [Cakes](#cakes)
-  - [Cake olives/fêta](#cake-olives-feta)
-  - [Cake olives/lardons](#cake-olives-lardons)
-  - [Cake Vaudois](#cake-vaudois)
-- [Apéritifs](#aperitifs)
-  - [Tartare de tomate](#tartare-de-tomate)
-  - [Sablés olives parmesan](#sables-olives-parmesan)
-  - [Mousse de thon au Mascarpone](#mousse-de-thon-au-mascarpone)
-  - [Gougères](#gougeres)
-  - [Houmous](#houmous)
-  - [Sangria blanche](#sangria-blanche)
-  - [Thin oatcakes](#thin-oatcakes)
-  - [Encas énergie](#encas-energie)
-  - [Poivron façon Peperoni con bagna caoda](#poivron-facon-peperoni-con-bagna-caoda)
-  - [Citrons confits](#citrons-confits)
-  - [Limoncello](#limoncello)
-- [Desserts](#desserts)
-  - [Choux](#choux)
-  - [Gelée au thé](#gelee-au-the)
-  - [Pancakes](#pancakes)
-  - [Panna Cotta](#panna-cotta)
-  - [Fondants au chocolat noir](#fondants-au-chocolat-noir)
-  - [Mousse au choc au siphon](#mousse-au-choc-au-siphon)
-  - [Crumble pommes](#crumble-pommes)
-  - [Riz au lait](#riz-au-lait)
-  - [Flan pâtissier sans pâte](#flan-patissier-sans-pate)
-  - [Caramel liquide](#caramel-liquide)
+1. [Repères familiaux](#1-reperes-familiaux)
+2. [Riz](#2-riz)
+3. [Pâtes et préparations de base](#3-pates-et-preparations-de-base)
+4. [Sauces et jus](#4-sauces-et-jus)
+5. [Pains et accompagnements](#5-pains-et-accompagnements)
+6. [Soupes](#6-soupes)
+7. [Volailles](#7-volailles)
+8. [Plats principaux](#8-plats-principaux)
+9. [Terrines](#9-terrines)
+10. [Cakes salés](#10-cakes-sales)
+11. [Apéritifs](#11-aperitifs)
+12. [Desserts](#12-desserts)
 
 ---
 
+<a id="1-reperes-familiaux"></a>
+## 1. Repères familiaux
+
 <a id="tares"></a>
-## Tares
+### Tares
 
 | Récipient | Tare |
 |---|---:|
@@ -110,7 +137,7 @@
 | Transparent 350 ml | 36 g |
 
 <a id="proportions"></a>
-## Proportions
+### Proportions
 
 Pour nous 4
 
@@ -130,8 +157,8 @@ Pour nous 4
 | Raclette | 800 g de from, 600 g patates |  |  |
 | Fondue | >800 g de fromage |  |  |
 
-<a id="riz"></a>
-## Riz
+<a id="2-riz"></a>
+## 2. Riz
 
 <a id="arborio-a-la-cocotte-minute"></a>
 ### Arborio à la cocotte minute
@@ -190,8 +217,8 @@ Pour 100 g de riz,
 3. Mettre le riz laisser reposer.
 4. Mettre le safran à la fin.
 
-<a id="pate"></a>
-## Pâte
+<a id="3-pates-et-preparations-de-base"></a>
+## 3. Pâtes et préparations de base
 
 <a id="focaccia"></a>
 ### Focaccia
@@ -311,8 +338,8 @@ Tout doit rester le plus froid possible pour que le beurre ne fonde pas.
 
 Pour 2 œufs ⅛ cup soja et ⅛ cup mirin → 12 h - Cuisson 5-6 min
 
-<a id="sauces-jus"></a>
-## Sauces / Jus
+<a id="4-sauces-et-jus"></a>
+## 4. Sauces et jus
 
 <a id="bouillons"></a>
 ### Bouillons
@@ -420,8 +447,8 @@ Huile de colza, 1 jaune d'œuf, 1/2 jus de citron, 1 cuillère à café de mouta
 1. Thym et mixer le tout.
 2. Cuire les steaks avec branche de romarin.
 
-<a id="pains"></a>
-## Pains
+<a id="5-pains-et-accompagnements"></a>
+## 5. Pains et accompagnements
 
 <a id="soda-bread"></a>
 ### Soda Bread
@@ -468,7 +495,7 @@ Huile de colza, 1 jaune d'œuf, 1/2 jus de citron, 1 cuillère à café de mouta
 5. Faites cuire 30 min à 190 °C SANS OUVRIR !
 
 <a id="frites"></a>
-## Frites
+### Frites
 
 **Préparation**
 
@@ -477,8 +504,8 @@ Huile de colza, 1 jaune d'œuf, 1/2 jus de citron, 1 cuillère à café de mouta
 3. 3-4 min dans huile >180 °C.
 4. Peut attendre entre les deux cuissons.
 
-<a id="soupes"></a>
-## Soupes
+<a id="6-soupes"></a>
+## 6. Soupes
 
 <a id="soupe-a-la-tomate"></a>
 ### Soupe à la tomate
@@ -524,8 +551,8 @@ Sel, poivre, pâte de bouillon pour assaisonner
 2. Ajouter 150 g de **lentille** (Beluga), 100 g **haricots rouge**, 100 g **engrain**, 50 g **pois chiche**, 20 g **chia**,.
 3. Bien mélanger, déglacer avec 1.5 L d’eau, fermer et cuire sous pression.
 
-<a id="poulets"></a>
-## Poulets
+<a id="7-volailles"></a>
+## 7. Volailles
 
 <a id="poulet-saumure"></a>
 ### Poulet saumuré
@@ -583,8 +610,8 @@ Sel, poivre, pâte de bouillon pour assaisonner
 2. 1 h avant température ambiante.
 3. Four 210 °C  (1 h pour 1.5 kg) ⅓ dos, ⅓ poitinre, ⅓ dos. Laisser reposer bien 10-15 min.
 
-<a id="recettes"></a>
-## Recettes
+<a id="8-plats-principaux"></a>
+## 8. Plats principaux
 
 <a id="saumon-au-chou-frise-facon-elysee-simplifie"></a>
 ### Saumon au chou frisé façon Elysée simplifié
@@ -767,8 +794,8 @@ Pour **1 kg d’épaule**, rincer, sécher, inciser la peau, badigeonner d’ép
 
 1. Bien rincer boulgour, faire cuire avec le double de son volume en eau salée 10 min. Laisser refroidir/absorber remuer.
 
-<a id="terrines"></a>
-## Terrines
+<a id="9-terrines"></a>
+## 9. Terrines
 
 <a id="terrine-de-foie-de-volaille"></a>
 ### Terrine de foie de volaille
@@ -835,8 +862,8 @@ Pour **1 kg d’épaule**, rincer, sécher, inciser la peau, badigeonner d’ép
 Cuisson 140 °C au bain marie pour un 60 °C à cœur.
 Mascarpone/œuf pour la farce fine, génial...
 
-<a id="cakes"></a>
-## Cakes
+<a id="10-cakes-sales"></a>
+## 10. Cakes salés
 
 <a id="cake-olives-feta"></a>
 ### Cake olives/fêta
@@ -862,8 +889,8 @@ Mascarpone/œuf pour la farce fine, génial...
 1. Saucisson dans l’eau 75 °C 30 min, éplucher puis couper en dés.
 2. Cuire 1 h à 180 °C.
 
-<a id="aperitifs"></a>
-## Apéritifs
+<a id="11-aperitifs"></a>
+## 11. Apéritifs
 
 <a id="tartare-de-tomate"></a>
 ### Tartare de tomate
@@ -993,8 +1020,8 @@ An ethanol content of **28-32 % is considered optimal for Limoncello** [[http://
 12.2016: 4.5 dl, 1 l eau, 333 g sucre
 02.2017: 4.6 dl, 1 l eau, 333 g sucre - Citrons Bio Sicile (livraison couple Yverdon)
 
-<a id="desserts"></a>
-## Desserts
+<a id="12-desserts"></a>
+## 12. Desserts
 
 <a id="choux"></a>
 ### Choux

@@ -20,23 +20,3 @@ Ce document recense des améliorations possibles pour [Recettes_Famille.md](Rece
 | [Panna Cotta](Recettes_Famille.md#panna-cotta) | Les ingrédients parlent de crème et de chocolat blanc, mais l’étape dit « lait et choc ». | Confirmer qu’il s’agit bien de crème et préciser le rendement. |
 | [Flan pâtissier sans pâte](Recettes_Famille.md#flan-patissier-sans-pate) | La variante « VJB » contient plusieurs alternatives et « beurre !? ». | Confirmer la version à conserver comme recette de référence. |
 
-## Organisation appliquée
-
-- [x] Le [Poulet Thomas Keller](Recettes_Famille.md#poulet-thomas-keller) est une recette autonome.
-- [x] Le [Tajine d’épaule d’agneau](Recettes_Famille.md#tajine-d-epaule-d-agneau) est une recette autonome.
-- [x] « Tonnato » reste une sous-recette de « Vitello Tonnato ».
-- [x] Les blocs d’ingrédients identifiables sont présentés en listes et les méthodes en étapes numérotées, sans changer les quantités.
-- [x] Les tares sont organisées en tableau lisible, sans modifier les valeurs.
-- [x] Les deux images du Limoncello sont extraites dans le dossier `images/`, sans changer leur contenu.
-
-## Corrections éditoriales appliquées
-
-Appliquées après validation :
-
-- « Foccacia » → « Focaccia » ;
-- « Coeur » → « Cœur » ;
-- « A la Carbonara » → « À la carbonara » ;
-- « Apéritives » → « Apéritifs » ;
-- uniformiser les espaces et unités (`300 g`, `5 dl`, `180 °C`, `20 min`) ;
-- uniformiser `c. à c.`, `c. à s.`, `œuf`, les majuscules et la ponctuation ;
-- retirer le caractère de contrôle invisible présent dans l’en-tête du tableau « Proportions ».
