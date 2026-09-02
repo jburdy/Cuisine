@@ -282,7 +282,7 @@ Les sauces sont volontairement proposées en quantités compatibles avec le gran
 
 Mixer en V2 à V3 pendant 30 à 45 secondes. Servir avec des crudités et du pain complet.
 
-### 11. Baba ganoush — Quotidien
+### 11. Baba ganoush (aubergine) — Quotidien
 
 **Ingrédients**
 
@@ -296,21 +296,6 @@ Mixer en V2 à V3 pendant 30 à 45 secondes. Servir avec des crudités et du pai
 **Préparation**
 
 Mixer par impulsions courtes pour garder un peu de texture. Ne jamais carboniser les aliments ; rechercher une chair rôtie et fumée, non brûlée.
-
-### 12. Guacamole texturé — Quotidien
-
-**Ingrédients**
-
-- 4 avocats mûrs
-- Jus de 2 citrons verts
-- 1/2 oignon rouge grossièrement haché
-- 1 petite tomate épépinée
-- Coriandre fraîche
-- Piment et sel au goût
-
-**Préparation**
-
-Donner 4 à 6 impulsions courtes. Servir immédiatement. Pour une texture plus rustique, l’écrasement à la fourchette reste préférable.
 
 ### 13. Romesco — Quotidien
 
