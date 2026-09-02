@@ -78,6 +78,16 @@ Guide familial pour **4 personnes** — cuisine maison, variée, saine et gourma
 | [Compote pomme-poire](#r-compote) | 🟢 |
 | [Frozen yogourt aux fruits rouges](#r-frozen-yogourt) | 🟠 |
 
+### Saveurs suisses
+
+| Canton | Recette | Profil |
+|---|---|:---:|
+| Grisons | [Crème de châtaignes du Val Bregaglia](#r-creme-chataignes-bregaglia) | 🟠 |
+| Valais | [Sorbet aux abricots du Valais et romarin](#r-sorbet-abricots-valais) | 🟢 |
+| Vaud | [Velouté de poireaux à L’Etivaz AOP](#r-veloute-poireaux-etivaz) | 🟠 |
+| Fribourg | [Crème de Poire à Botzi AOP et vin cuit](#r-creme-poire-botzi) | 🟠 |
+| Genève | [Velouté de cardon épineux genevois AOP](#r-veloute-cardon-geneve) | 🟢 |
+
 ### Préparations pour sportifs d’endurance
 
 | Recette | Profil et moment conseillé |
@@ -102,9 +112,10 @@ Guide familial pour **4 personnes** — cuisine maison, variée, saine et gourma
 6. [Pâtes et appareils](#6-pâtes-et-appareils)
 7. [Petits-déjeuners et boissons](#7-petits-déjeuners-et-boissons)
 8. [Desserts et goûters](#8-desserts-et-goûters)
-9. [Préparations pour sportifs d’endurance](#9-préparations-pour-sportifs-dendurance)
-10. [Nettoyage et dépannage](#10-nettoyage-et-dépannage)
-11. [Sources et contrôle de véracité](#11-sources-et-contrôle-de-véracité)
+9. [Saveurs suisses](#9-saveurs-suisses)
+10. [Préparations pour sportifs d’endurance](#10-préparations-pour-sportifs-dendurance)
+11. [Nettoyage et dépannage](#11-nettoyage-et-dépannage)
+12. [Sources et contrôle de véracité](#12-sources-et-contrôle-de-véracité)
 
 ---
 
@@ -209,7 +220,7 @@ Les recettes très sucrées, très salées ou riches en beurre, crème ou fromag
 Toutes les recettes font environ 4 bols. Pour une soupe chaude, laisser les ingrédients redescendre à **60 °C ou moins** avant de mixer.
 
 <a id="r-veloute-legumes"></a>
-### Velouté de légumes de saison · 🟢 Quotidien
+### Velouté de légumes de saison
 
 Une base souple pour transformer les légumes disponibles en soupe familiale onctueuse.
 
@@ -227,7 +238,7 @@ Une base souple pour transformer les légumes disponibles en soupe familiale onc
 3. Ajouter un peu de bouillon si nécessaire et mixer brièvement en vitesse lente.
 
 <a id="r-potimarron-chataignes"></a>
-### Potimarron et châtaignes · 🟢 Quotidien
+### Potimarron et châtaignes
 
 Un velouté automnal doux et généreux, relevé de muscade.
 
@@ -244,7 +255,7 @@ Un velouté automnal doux et généreux, relevé de muscade.
 Mixer avec `SOUP`. Une peau dure, abîmée ou fibreuse doit être retirée ; le blender ne rend pas comestible une partie qui ne l’est pas.
 
 <a id="r-butternut-coco"></a>
-### Butternut, coco et gingembre · 🟢 Quotidien
+### Butternut, coco et gingembre
 
 Une soupe veloutée aux notes chaudes, fraîches et légèrement exotiques.
 
@@ -261,7 +272,7 @@ Une soupe veloutée aux notes chaudes, fraîches et légèrement exotiques.
 Mixer tous les ingrédients sauf le citron vert avec `SOUP`. Ajouter le jus après mixage et rectifier l’assaisonnement.
 
 <a id="r-chou-fleur-haricots"></a>
-### Chou-fleur et haricots blancs · 🟢 Quotidien
+### Chou-fleur et haricots blancs
 
 Les haricots blancs rendent ce velouté nourrissant et crémeux sans excès de crème.
 
@@ -278,7 +289,7 @@ Les haricots blancs rendent ce velouté nourrissant et crémeux sans excès de c
 Mixer avec `SOUP`. Les haricots apportent du corps, des fibres et des protéines végétales sans nécessiter beaucoup de crème.
 
 <a id="r-lentilles-corail"></a>
-### Lentilles corail, tomate et cumin · 🟢 Quotidien
+### Lentilles corail, tomate et cumin
 
 Une soupe complète et parfumée qui met les légumineuses au menu simplement.
 
@@ -296,7 +307,7 @@ Une soupe complète et parfumée qui met les légumineuses au menu simplement.
 Mixer avec `SOUP`. Servir avec du pain complet et une cuillerée de yaourt nature.
 
 <a id="r-gaspacho"></a>
-### Gaspacho andalou · 🟢 Quotidien
+### Gaspacho andalou
 
 Une soupe froide vive et rafraîchissante pour profiter des tomates bien mûres.
 
@@ -318,7 +329,7 @@ Une soupe froide vive et rafraîchissante pour profiter des tomates bien mûres.
 3. Réfrigérer au moins 2 heures. Ajuster avec un peu d’eau froide si nécessaire.
 
 <a id="r-soupe-courgette"></a>
-### Soupe froide courgette, chèvre et menthe · 🟢 Quotidien
+### Soupe froide courgette, chèvre et menthe
 
 Une entrée estivale fraîche où le chèvre apporte juste assez d’onctuosité.
 
@@ -336,7 +347,7 @@ Une entrée estivale fraîche où le chèvre apporte juste assez d’onctuosité
 Mixer avec `SMOOTHIE`, puis réfrigérer. Goûter avant de saler : le fromage l’est déjà.
 
 <a id="r-ajo-blanco"></a>
-### Ajo blanco · 🟠 Gourmand
+### Ajo blanco
 
 Une soupe froide andalouse riche et soyeuse à base d’amandes et de pain.
 
@@ -355,7 +366,7 @@ Une soupe froide andalouse riche et soyeuse à base d’amandes et de pain.
 Mixer avec `SOUP` ou en V4 pendant 45 à 60 secondes. Réfrigérer et servir en petite portion avec du raisin ou du concombre.
 
 <a id="r-veloute-petits-pois"></a>
-### Velouté de petits pois, menthe et citron · 🟢 Quotidien
+### Velouté de petits pois, menthe et citron
 
 Un velouté vert et frais dont le mixage puissant affine la peau des petits pois.
 
@@ -377,7 +388,7 @@ Un velouté vert et frais dont le mixage puissant affine la peau des petits pois
 3. Ajouter le yogourt, le citron et l’huile, puis mixer 15 secondes en V2. Servir chaud ou froid.
 
 <a id="r-creme-champignons"></a>
-### Crème de champignons et haricots blancs · 🟢 Quotidien
+### Crème de champignons et haricots blancs
 
 Une soupe très onctueuse où les haricots blancs remplacent avantageusement la crème.
 
@@ -404,7 +415,7 @@ Une soupe très onctueuse où les haricots blancs remplacent avantageusement la 
 Les sauces sont volontairement proposées en quantités compatibles avec le grand bol. Pour une demi-recette, le mini-bol est généralement plus adapté.
 
 <a id="r-houmous"></a>
-### Houmous crémeux · 🟢 Quotidien
+### Houmous crémeux
 
 Une tartinade de pois chiches citronnée, idéale avec des crudités et du pain complet.
 
@@ -425,7 +436,7 @@ Une tartinade de pois chiches citronnée, idéale avec des crudités et du pain 
 3. Utiliser la spatule et ajouter un peu d’eau si nécessaire.
 
 <a id="r-tartinade-haricots"></a>
-### Tartinade de haricots blancs au romarin · 🟢 Quotidien
+### Tartinade de haricots blancs au romarin
 
 Une alternative douce au houmous, fraîche et riche en légumineuses.
 
@@ -444,7 +455,7 @@ Une alternative douce au houmous, fraîche et riche en légumineuses.
 Mixer en V2 à V3 pendant 30 à 45 secondes. Servir avec des crudités et du pain complet.
 
 <a id="r-baba-ganoush"></a>
-### Baba ganoush (aubergine) · 🟢 Quotidien
+### Baba ganoush (aubergine)
 
 Une crème d’aubergine rôtie au goût fumé, citronné et légèrement relevé.
 
@@ -462,7 +473,7 @@ Une crème d’aubergine rôtie au goût fumé, citronné et légèrement relev�
 Mixer par impulsions courtes pour garder un peu de texture. Ne jamais carboniser les aliments ; rechercher une chair rôtie et fumée, non brûlée.
 
 <a id="r-romesco"></a>
-### Romesco · 🟢 Quotidien
+### Romesco
 
 Une sauce catalane aux poivrons rôtis et aux amandes, parfaite avec légumes ou poisson.
 
@@ -481,7 +492,7 @@ Une sauce catalane aux poivrons rôtis et aux amandes, parfaite avec légumes ou
 Mixer en V3 pendant 25 à 35 secondes. La sauce doit rester légèrement granuleuse.
 
 <a id="r-pesto"></a>
-### Pesto de basilic · 🟠 Gourmand
+### Pesto de basilic
 
 Une sauce très parfumée à employer en petite quantité sur pâtes, légumes ou tartines.
 
@@ -499,7 +510,7 @@ Une sauce très parfumée à employer en petite quantité sur pâtes, légumes o
 Mixer par impulsions courtes, puis 10 à 15 secondes en V2. Arrêter dès que la texture convient afin de limiter l’échauffement. Goûter avant de saler.
 
 <a id="r-chimichurri"></a>
-### Chimichurri · 🟢 Quotidien
+### Chimichurri
 
 Un condiment herbacé et acidulé qui réveille légumes grillés, viandes ou poissons.
 
@@ -517,7 +528,7 @@ Un condiment herbacé et acidulé qui réveille légumes grillés, viandes ou po
 Donner 5 à 7 impulsions : le résultat doit rester haché, non réduit en purée.
 
 <a id="r-sauce-cacahuete"></a>
-### Sauce cacahuète et citron vert · 🟠 Gourmand
+### Sauce cacahuète et citron vert
 
 Une sauce crémeuse d’inspiration asiatique pour bols de céréales, légumes ou brochettes.
 
@@ -534,7 +545,7 @@ Une sauce crémeuse d’inspiration asiatique pour bols de céréales, légumes 
 Mixer en V3 pendant 30 secondes. Allonger avec un peu d’eau selon l’usage.
 
 <a id="r-mayonnaise"></a>
-### Mayonnaise maison · 🟠 Gourmand
+### Mayonnaise maison
 
 Une émulsion classique à préparer fraîche et à servir sans attendre.
 
@@ -554,7 +565,7 @@ Une émulsion classique à préparer fraîche et à servir sans attendre.
 3. Réfrigérer immédiatement et consommer le jour même ; jeter les restes. Pour les personnes vulnérables, utiliser des œufs pasteurisés.
 
 <a id="r-sauce-tomate"></a>
-### Sauce tomate rôtie · 🟢 Quotidien
+### Sauce tomate rôtie
 
 Une sauce polyvalente au goût concentré pour pâtes, légumes, pizza ou gratins.
 
@@ -571,7 +582,7 @@ Une sauce polyvalente au goût concentré pour pâtes, légumes, pizza ou gratin
 Rôtir ou mijoter tous les ingrédients, laisser redescendre à 60 °C maximum, puis mixer en V2 à V4 selon la texture souhaitée. Refaire bouillir en casserole avant une mise en bocaux ; ce guide ne fournit pas de procédé de stérilisation.
 
 <a id="r-sauce-tomate-lentilles"></a>
-### Sauce tomate aux légumes et lentilles · 🟢 Quotidien
+### Sauce tomate aux légumes et lentilles
 
 Une sauce pour les pâtes, riche en légumes et légumineuses mais parfaitement lisse.
 
@@ -593,7 +604,7 @@ Une sauce pour les pâtes, riche en légumes et légumineuses mais parfaitement 
 3. Mixer avec `SOUP` ou en augmentant progressivement de V1 à V4. Réchauffer en casserole avant de servir.
 
 <a id="r-sauce-curry-cajou"></a>
-### Sauce curry aux noix de cajou · 🟠 Gourmand
+### Sauce curry aux noix de cajou
 
 Une sauce très lisse et parfumée pour accompagner légumes, tofu, poulet ou riz.
 
@@ -614,7 +625,7 @@ Une sauce très lisse et parfumée pour accompagner légumes, tofu, poulet ou ri
 3. Verser dans une casserole et laisser frémir 5 minutes avant de servir.
 
 <a id="r-creme-poivrons-feta"></a>
-### Crème de poivrons rôtis et féta · 🟠 Gourmand
+### Crème de poivrons rôtis et féta
 
 Une sauce colorée, douce et salée à servir avec pâtes, légumes ou pain grillé.
 
@@ -638,7 +649,7 @@ Mixer 30 à 40 secondes en V3, avec la spatule si nécessaire. Goûter avant de 
 Pour éviter de développer trop de gluten, mixer juste assez pour incorporer la farine. Les petits grumeaux des pancakes et muffins sont normaux.
 
 <a id="r-crepes"></a>
-### Pâte à crêpes · 🟠 Gourmand
+### Pâte à crêpes
 
 Une pâte rapide et lisse pour un repas salé, un goûter ou un dessert familial.
 
@@ -656,7 +667,7 @@ Une pâte rapide et lisse pour un repas salé, un goûter ou un dessert familial
 Verser le lait, les œufs et la matière grasse, puis ajouter la farine. Mixer 10 secondes en V3 puis 20 secondes en V4. Laisser reposer 30 minutes si possible.
 
 <a id="r-blinis"></a>
-### Blinis au yaourt · 🟠 Gourmand
+### Blinis au yaourt
 
 De petits blinis moelleux à garnir de fromage frais, poisson ou légumes.
 
@@ -673,7 +684,7 @@ De petits blinis moelleux à garnir de fromage frais, poisson ou légumes.
 Mixer le yaourt et les œufs en V2, ajouter la farine, la levure et le sel, puis mixer 10 à 15 secondes seulement. Cuire sans attendre.
 
 <a id="r-pancakes"></a>
-### Pancakes au yogourt · 🟠 Gourmand
+### Pancakes au yogourt
 
 Des pancakes épais et moelleux préparés avec du yogourt nature facile à trouver en Suisse.
 
@@ -693,7 +704,7 @@ Des pancakes épais et moelleux préparés avec du yogourt nature facile à trou
 Mixer les liquides en V2. Ajouter les poudres et donner 4 à 5 impulsions courtes. Laisser reposer 10 minutes.
 
 <a id="r-gaufres"></a>
-### Gaufres peu sucrées · 🟠 Gourmand
+### Gaufres peu sucrées
 
 Des gaufres légères en sucre, à compléter de fruits frais plutôt que de nappages très sucrés.
 
@@ -712,7 +723,7 @@ Des gaufres légères en sucre, à compléter de fruits frais plutôt que de nap
 Mixer 20 à 30 secondes en V3. Laisser reposer 20 minutes avant cuisson.
 
 <a id="r-clafoutis"></a>
-### Clafoutis aux fruits · 🟠 Gourmand
+### Clafoutis aux fruits
 
 Un dessert simple où une pâte légère met en valeur les fruits de saison.
 
@@ -731,7 +742,7 @@ Un dessert simple où une pâte légère met en valeur les fruits de saison.
 Mixer l’appareil 30 secondes en V3. Verser sur les fruits dans un plat beurré et cuire environ 35 minutes à 180 °C, selon le four et le fruit.
 
 <a id="r-quiche"></a>
-### Quiche sans pâte aux légumes · 🟢 Quotidien
+### Quiche sans pâte aux légumes
 
 Un plat familial pratique pour associer œufs, lait, fromage et légumes déjà cuits.
 
@@ -749,7 +760,7 @@ Un plat familial pratique pour associer œufs, lait, fromage et légumes déjà 
 Mixer les cinq premiers ingrédients 25 secondes en V3. Verser sur les légumes et cuire 35 à 45 minutes à 180 °C, jusqu’à prise complète.
 
 <a id="r-muffins"></a>
-### Appareil à muffins · 🟠 Gourmand
+### Appareil à muffins
 
 Une base peu sucrée à personnaliser avec des fruits sans trop travailler la pâte.
 
@@ -769,7 +780,7 @@ Une base peu sucrée à personnaliser avec des fruits sans trop travailler la p�
 Mixer les liquides en V2. Ajouter les poudres et donner 4 à 5 impulsions seulement. Incorporer les fruits à la spatule, hors du blender. Cuire 18 à 22 minutes à 180 °C.
 
 <a id="r-galettes-lentilles"></a>
-### Galettes de lentilles corail · 🟢 Quotidien
+### Galettes de lentilles corail
 
 Des galettes riches en légumineuses, préparées directement à partir de lentilles trempées.
 
@@ -792,7 +803,7 @@ Des galettes riches en légumineuses, préparées directement à partir de lenti
 4. Cuire de petites galettes huilées 3 à 4 minutes par face, jusqu’à ce que le centre soit entièrement cuit.
 
 <a id="r-pancakes-banane"></a>
-### Pancakes banane, avoine et yogourt · 🟢 Quotidien
+### Pancakes banane, avoine et yogourt
 
 Des pancakes sans sucre ajouté où le blender transforme les flocons en pâte homogène.
 
@@ -818,7 +829,7 @@ Des pancakes sans sucre ajouté où le blender transforme les flocons en pâte h
 ## 7. Petits-déjeuners et boissons
 
 <a id="r-smoothie-vert"></a>
-### Smoothie vert doux · 🟢 Quotidien
+### Smoothie vert doux
 
 Un smoothie frais et végétal dont la banane adoucit naturellement les épinards.
 
@@ -837,7 +848,7 @@ Un smoothie frais et végétal dont la banane adoucit naturellement les épinard
 Lancer `SMOOTHIE`. Le mixage conserve l’essentiel des fibres présentes dans les ingrédients, mais ne transforme pas la boisson en équivalent parfait d’un fruit entier. Ne pas mixer les trognons ni les pépins de pomme.
 
 <a id="r-smoothie-fruits-rouges"></a>
-### Smoothie fruits rouges, avoine et yaourt · 🟢 Quotidien
+### Smoothie fruits rouges, avoine et yaourt
 
 Une boisson épaisse et rassasiante, adaptée au petit-déjeuner ou au goûter.
 
@@ -854,7 +865,7 @@ Une boisson épaisse et rassasiante, adaptée au petit-déjeuner ou au goûter.
 Mettre le liquide et le yaourt en premier, puis le reste. Lancer `SMOOTHIE`. Servir en quatre portions ; aucun sucre ajouté n’est généralement nécessaire.
 
 <a id="r-smoothie-cafe"></a>
-### Smoothie café, banane et cacao · 🟠 Gourmand
+### Smoothie café, banane et cacao
 
 Une boisson glacée énergisante réservée aux adultes amateurs de café.
 
@@ -871,7 +882,7 @@ Une boisson glacée énergisante réservée aux adultes amateurs de café.
 Lancer `SMOOTHIE`. Réserver aux adultes et tenir compte de la caféine consommée dans la journée.
 
 <a id="r-boisson-avoine"></a>
-### Boisson à l’avoine · 🟢 Quotidien
+### Boisson à l’avoine
 
 Une boisson végétale maison économique, douce et rapide à filtrer.
 
@@ -887,7 +898,7 @@ Une boisson végétale maison économique, douce et rapide à filtrer.
 Mixer en V4 pendant 20 à 30 secondes, puis filtrer. Réfrigérer dans un récipient propre et consommer rapidement. Cette boisson maison n’est généralement pas enrichie en calcium, iode ou vitamines comme peuvent l’être certains produits du commerce ; elle ne remplace pas une préparation infantile.
 
 <a id="r-boisson-amandes"></a>
-### Boisson aux amandes · 🟢 Quotidien
+### Boisson aux amandes
 
 Une boisson végétale délicate obtenue avec des amandes trempées puis filtrées.
 
@@ -903,7 +914,7 @@ Une boisson végétale délicate obtenue avec des amandes trempées puis filtré
 Jeter l’eau de trempage, rincer les amandes, puis mixer avec l’eau propre en V4 pendant 60 secondes. Filtrer, réfrigérer immédiatement et consommer rapidement. Même remarque nutritionnelle que pour la boisson à l’avoine.
 
 <a id="r-lait-or"></a>
-### Lait d’or · 🟠 Gourmand
+### Lait d’or
 
 Une boisson chaude et épicée aux notes de curcuma, gingembre et cannelle.
 
@@ -920,7 +931,7 @@ Une boisson chaude et épicée aux notes de curcuma, gingembre et cannelle.
 Mixer en V1 puis augmenter jusqu’à V4 pendant 30 secondes, sans `PULSE`. Cette boisson est aromatique ; elle ne doit pas être présentée comme un traitement médical.
 
 <a id="r-cafe-froid"></a>
-### Café froid mousseux · 🟠 Gourmand
+### Café froid mousseux
 
 Un café glacé aéré, rafraîchissant et simple, sans prétendre être un véritable nitro.
 
@@ -939,7 +950,7 @@ Mixer en V4 pendant 20 à 30 secondes. Le résultat est un café froid aéré et
 ## 8. Desserts et goûters
 
 <a id="r-sorbet-mangue"></a>
-### Sorbet mangue et citron vert · 🟢 Quotidien
+### Sorbet mangue et citron vert
 
 Un dessert minute fruité et acidulé, généralement assez doux sans sucre ajouté.
 
@@ -955,7 +966,7 @@ Un dessert minute fruité et acidulé, généralement assez doux sans sucre ajou
 Lancer `DESSERT` en utilisant la spatule. Ajouter juste assez d’eau pour entraîner les morceaux. Servir immédiatement.
 
 <a id="r-nice-cream"></a>
-### Nice cream banane-cacahuète · 🟠 Gourmand
+### Nice cream banane-cacahuète
 
 Une glace minute crémeuse où la banane rencontre la richesse de la cacahuète.
 
@@ -971,7 +982,7 @@ Une glace minute crémeuse où la banane rencontre la richesse de la cacahuète.
 Lancer `DESSERT` avec la spatule. La capacité officielle est de 300 g de fruits surgelés ; ne pas mettre 400 ou 500 g en une seule fois.
 
 <a id="r-granite"></a>
-### Granité café ou citron · 🟠 Gourmand
+### Granité café ou citron
 
 Des cristaux glacés et rafraîchissants à parfumer au café ou au citron.
 
@@ -985,7 +996,7 @@ Des cristaux glacés et rafraîchissants à parfumer au café ou au citron.
 Utiliser `ICE` pour une neige fine. Pour des cristaux plus grossiers, travailler 100 à 150 g à la fois avec de courtes impulsions `PULSE`.
 
 <a id="r-mousse-chocolat"></a>
-### Mousse chocolat et tofu soyeux · 🟠 Gourmand
+### Mousse chocolat et tofu soyeux
 
 Une crème chocolatée ferme et soyeuse, sans œufs ni crème.
 
@@ -1001,7 +1012,7 @@ Une crème chocolatée ferme et soyeuse, sans œufs ni crème.
 Mixer 30 à 45 secondes en V4, répartir dans quatre ramequins et réfrigérer au moins 3 heures. La texture dépend du tofu et du chocolat : elle sera crémeuse et ferme, pas nécessairement identique à une mousse aux œufs.
 
 <a id="r-creme-chocolat"></a>
-### Crème chocolat-noisette · 🟠 Gourmand
+### Crème chocolat-noisette
 
 Une crème dessert onctueuse au chocolat noir et à la purée de noisette.
 
@@ -1020,7 +1031,7 @@ Une crème dessert onctueuse au chocolat noir et à la purée de noisette.
 3. Hors du feu, ajouter le chocolat et la purée de noisette. Mélanger au fouet.
 
 <a id="r-lemon-curd"></a>
-### Lemon curd · 🟠 Gourmand
+### Lemon curd
 
 Une crème au citron vive et beurrée pour tartines, crêpes ou fonds de tarte.
 
@@ -1037,7 +1048,7 @@ Une crème au citron vive et beurrée pour tartines, crêpes ou fonds de tarte.
 Mixer les œufs, le sucre, le jus et les zestes 20 secondes en V3. Cuire en casserole à feu doux en remuant jusqu’à épaississement, sans cesser de surveiller. Hors du feu, incorporer le beurre au fouet. Réfrigérer rapidement dans un récipient propre.
 
 <a id="r-pate-tartiner"></a>
-### Pâte à tartiner chocolat-noisette · 🟠 Gourmand
+### Pâte à tartiner chocolat-noisette
 
 Une pâte maison intense, moins sucrée que de nombreuses versions industrielles.
 
@@ -1053,7 +1064,7 @@ Une pâte maison intense, moins sucrée que de nombreuses versions industrielles
 Mixer 15 à 20 secondes en V2. L’emploi d’une purée déjà prête évite de faire travailler longuement le moteur avec une masse très dense. Ne pas verser de chocolat à plus de 60 °C.
 
 <a id="r-compote"></a>
-### Compote pomme-poire · 🟢 Quotidien
+### Compote pomme-poire
 
 Une compote douce sans sucre ajouté, à mixer plus ou moins finement selon les goûts.
 
@@ -1069,7 +1080,7 @@ Une compote douce sans sucre ajouté, à mixer plus ou moins finement selon les 
 Mixer en V1 puis V3, avec la spatule, jusqu’à la texture voulue. Aucun sucre ajouté n’est généralement nécessaire. Procéder en deux fois si le mélange dépasse le repère maximal du bol.
 
 <a id="r-frozen-yogourt"></a>
-### Frozen yogourt aux fruits rouges · 🟠 Gourmand
+### Frozen yogourt aux fruits rouges
 
 Un dessert glacé acidulé et crémeux qui exploite pleinement le programme automatique dédié.
 
@@ -1089,7 +1100,123 @@ Un dessert glacé acidulé et crémeux qui exploite pleinement le programme auto
 
 ---
 
-## 9. Préparations pour sportifs d’endurance
+## 9. Saveurs suisses
+
+Cette sélection utilise des produits emblématiques de cinq cantons. Lorsqu’une recette est une création adaptée au blender plutôt qu’une spécialité traditionnelle codifiée, cela est indiqué explicitement.
+
+<a id="r-creme-chataignes-bregaglia"></a>
+### Crème de châtaignes du Val Bregaglia
+
+Une crème dessert inspirée de la tourte aux châtaignes du Val Bregaglia, spécialité du sud des Grisons.
+
+**Ingrédients**
+
+- 400 g de châtaignes pelées, cuites et refroidies
+- 450 ml de lait
+- 150 ml de crème entière
+- 50 à 70 g de sucre, selon le goût
+- 1 c. à c. d’extrait de vanille
+- 1 pincée de sel
+- Cacao non sucré ou chocolat râpé pour servir, facultatif
+
+**Préparation**
+
+1. Verser le lait et la crème dans le bol, puis ajouter les châtaignes, le sucre, la vanille et le sel.
+2. Mixer en V1 puis en V3 pendant 40 à 50 secondes, avec la spatule si nécessaire.
+3. Répartir dans quatre verrines et réfrigérer au moins 2 heures. Servir avec un peu de cacao ou de chocolat râpé.
+
+> **Origine :** création pour le blender inspirée de la *Bergeller Kastanientorte* ; ce n’est pas la recette traditionnelle de la tourte.
+
+<a id="r-sorbet-abricots-valais"></a>
+### Sorbet aux abricots du Valais et romarin
+
+Un dessert minute qui met en valeur l’acidité des abricots valaisans et le parfum discret du romarin.
+
+**Ingrédients**
+
+- 300 g d’abricots du Valais dénoyautés, congelés en morceaux de 2 cm
+- 100 g de yogourt nature bien froid
+- 40 à 60 ml d’infusion de romarin froide
+- 1 c. à s. de jus de citron
+- 1 c. à s. de miel, facultatif
+
+**Préparation**
+
+1. Préparer une infusion légère avec un petit brin de romarin, puis la laisser refroidir complètement.
+2. Verser le yogourt, 40 ml d’infusion et le citron dans le bol, puis ajouter les abricots et le miel éventuel.
+3. Lancer `DESSERT` avec la spatule. Ajouter un peu d’infusion si la masse ne circule pas et servir immédiatement.
+
+> **Origine :** adaptation au programme `DESSERT`, inspirée des desserts aux abricots et au romarin proposés par Valais/Wallis Promotion.
+
+<a id="r-veloute-poireaux-etivaz"></a>
+### Velouté de poireaux à L’Etivaz AOP
+
+Une création d’inspiration vaudoise où le fromage d’alpage apporte profondeur et notes de noisette.
+
+**Ingrédients**
+
+- 650 g de poireaux cuits et bien égouttés
+- 200 g de haricots blancs cuits, rincés et égouttés
+- 450 ml de bouillon peu salé
+- 80 g de L’Etivaz AOP fraîchement râpé
+- 1 c. à s. d’huile de colza ou de beurre
+- Muscade et poivre
+
+**Préparation**
+
+1. Laisser les poireaux et le bouillon redescendre à 60 °C maximum.
+2. Verser le bouillon dans le bol, puis ajouter les poireaux, les haricots, le fromage et l’assaisonnement.
+3. Lancer `SOUP`, puis réchauffer doucement en casserole sans faire bouillir. Goûter avant de saler.
+
+> **Origine :** création pour le blender autour de L’Etivaz AOP ; elle ne doit pas être confondue avec une recette vaudoise traditionnelle.
+
+<a id="r-creme-poire-botzi"></a>
+### Crème de Poire à Botzi AOP et vin cuit
+
+Un dessert fribourgeois d’inspiration contemporaine, fruité et doucement épicé.
+
+**Ingrédients**
+
+- 600 g de Poires à Botzi AOP cuites, froides et égouttées
+- 250 g de yogourt nature
+- 40 à 60 ml de vin cuit
+- 1 c. à s. de jus de citron
+- 1 pincée de cannelle
+- 80 ml de jus de cuisson des poires ou d’eau, si nécessaire
+
+**Préparation**
+
+1. Mettre le yogourt, 40 ml de vin cuit, le citron et les poires dans le bol.
+2. Mixer en V3 pendant 30 à 40 secondes. Ajouter un peu de jus de cuisson si la crème est trop épaisse.
+3. Goûter avant d’ajouter davantage de vin cuit, puis réfrigérer et servir en verrines.
+
+> **Origine :** création pour le blender inspirée des associations fribourgeoises entre Poire à Botzi AOP, vin cuit et produits laitiers.
+
+<a id="r-veloute-cardon-geneve"></a>
+### Velouté de cardon épineux genevois AOP
+
+Un velouté hivernal qui exploite la puissance du blender pour affiner ce légume genevois fibreux.
+
+**Ingrédients**
+
+- 600 g de cardon épineux genevois AOP déjà cuit, rincé et égoutté
+- 240 g de haricots blancs cuits, rincés et égouttés
+- 450 ml de bouillon peu salé
+- 100 ml de lait
+- 1 c. à s. d’huile d’olive
+- Muscade et poivre
+
+**Préparation**
+
+1. Laisser tous les ingrédients redescendre à 60 °C maximum.
+2. Verser le bouillon et le lait dans le bol, puis ajouter le cardon, les haricots et l’assaisonnement.
+3. Lancer `SOUP`. Si des fibres restent perceptibles, passer le velouté au tamis fin avant de le réchauffer en casserole.
+
+> **Origine :** le cardon est un produit emblématique de Genève et son usage en velouté est attesté ; cette formulation précise est adaptée au Blender Power 4.
+
+---
+
+## 10. Préparations pour sportifs d’endurance
 
 Ces recettes donnent **4 portions**, mais une portion sportive n’est jamais une dose universelle : elle dépend du gabarit, de la durée et de l’intensité de l’effort, du délai avant la séance et de la tolérance digestive.
 
@@ -1100,7 +1227,7 @@ Ces recettes donnent **4 portions**, mais une portion sportive n’est jamais un
 - En cas de diabète, de maladie rénale, de troubles digestifs ou de suivi médical, demander un conseil individualisé.
 
 <a id="r-creme-riz-sport"></a>
-### Crème de riz, banane et vanille · 🟢 Quotidien · 🔵 Avant l’effort
+### Crème de riz, banane et vanille
 
 Une préparation douce et pauvre en graisse pour faire le plein de glucides avant une longue séance.
 
@@ -1120,7 +1247,7 @@ Une préparation douce et pauvre en graisse pour faire le plein de glucides avan
 3. Consommer environ 2 à 3 heures avant l’effort, en adaptant la portion à l’appétit et à la tolérance.
 
 <a id="r-smoothie-pre-effort"></a>
-### Smoothie pré-effort mangue-banane · 🟢 Quotidien · 🔵 Avant l’effort
+### Smoothie pré-effort mangue-banane
 
 Un smoothie riche en glucides et peu gras pour les jours où un repas solide passe moins bien.
 
@@ -1140,7 +1267,7 @@ Un smoothie riche en glucides et peu gras pour les jours où un repas solide pas
 3. Consommer 1 à 2 heures avant l’effort seulement si cette texture et cette quantité ont déjà été bien tolérées à l’entraînement.
 
 <a id="r-puree-energetique"></a>
-### Purée énergétique pomme-banane-érable · 🟠 Gourmand · 🔵 Pendant l’effort
+### Purée énergétique pomme-banane-érable
 
 Une purée souple à transporter en flasque alimentaire pendant une sortie prolongée.
 
@@ -1159,7 +1286,7 @@ Une purée souple à transporter en flasque alimentaire pendant une sortie prolo
 3. Transporter au frais et consommer le jour même. Tester d’abord une petite quantité pendant l’entraînement et compléter avec d’autres aliments selon le plan prévu.
 
 <a id="r-smoothie-recuperation"></a>
-### Smoothie de récupération cacao-banane · 🟢 Quotidien · 🔵 Après l’effort
+### Smoothie de récupération cacao-banane
 
 Une grande boisson associant glucides, protéines et liquide après une séance exigeante.
 
@@ -1179,7 +1306,7 @@ Une grande boisson associant glucides, protéines et liquide après une séance 
 3. Consommer après l’effort, particulièrement lorsqu’un repas complet n’est pas prévu rapidement.
 
 <a id="r-veloute-recuperation"></a>
-### Velouté de récupération patate douce, maïs et haricots blancs · 🟢 Quotidien · 🔵 Après l’effort
+### Velouté de récupération patate douce, maïs et haricots blancs
 
 Un vrai repas liquide réunissant féculent, légumineuses, légumes et bouillon.
 
@@ -1201,7 +1328,7 @@ Un vrai repas liquide réunissant féculent, légumineuses, légumes et bouillon
 3. Ajouter le citron après mixage. Servir avec du pain si la séance a été longue ou particulièrement exigeante.
 
 <a id="r-shake-energetique"></a>
-### Shake énergétique avoine, banane et cacahuète · 🟠 Gourmand · 🔵 Charge élevée
+### Shake énergétique avoine, banane et cacahuète
 
 Une collation dense pour les périodes où le volume d’entraînement rend les besoins difficiles à couvrir.
 
@@ -1222,7 +1349,7 @@ Une collation dense pour les périodes où le volume d’entraînement rend les 
 
 ---
 
-## 10. Nettoyage et dépannage
+## 11. Nettoyage et dépannage
 
 ### Rinçage immédiat
 
@@ -1255,7 +1382,7 @@ Mettre le sélecteur sur 0, débrancher l’appareil et attendre environ 30 minu
 
 ---
 
-## 11. Sources et contrôle de véracité
+## 12. Sources et contrôle de véracité
 
 ### Sources principales
 
@@ -1266,6 +1393,11 @@ Mettre le sélecteur sur 0, débrancher l’appareil et attendre environ 30 minu
 5. [Academy of Nutrition and Dietetics, Dietitians of Canada et ACSM — Nutrition and Athletic Performance](https://pubmed.ncbi.nlm.nih.gov/26891166/) : adaptation des apports avant, pendant et après l’exercice aux besoins et à la tolérance de l’athlète.
 6. [Comité international olympique — Consensus sur les aliments et compléments sportifs](https://pmc.ncbi.nlm.nih.gov/articles/PMC5867441/) : rôle des aliments riches en glucides et en protéines autour des efforts prolongés.
 7. [Hoffman et Stuempfle — Hydratation pendant l’ultra-endurance](https://pubmed.ncbi.nlm.nih.gov/30601394/) : prévention de la déshydratation comme de la surhydratation et intérêt d’une stratégie individualisée.
+8. [Graubünden Ferien — Tourte aux châtaignes du Val Bregaglia](https://www.graubuenden.ch/de/graubuenden/allgemeine-informationen/kulinarik/rezepte/kastanientorte) : origine grisonne de l’inspiration aux châtaignes.
+9. [Valais/Wallis Promotion — Glace aux abricots du Valais](https://www.valais.ch/fr/savourer/specialites-du-valais/recettes/glace-aux-abricots-du-valais) : association des abricots valaisans, du yogourt et du romarin.
+10. [Vaud Tourisme — L’Etivaz AOP](https://www.vaud.ch/tourisme/activites/letivaz-aop/) : origine et fabrication vaudoises de ce fromage d’alpage.
+11. [Terroir Fribourg — Poire à Botzi AOP](https://fribourg.ch/fr/all/produits-du-terroir/chutney-de-poires-a-botzi-aop/) : ancrage fribourgeois et usage culinaire de la poire cuite.
+12. [Genève Terroir — Cardon épineux genevois AOP](https://www.geneveterroir.ch/de/node/5282) : origine genevoise, statut AOP et caractère emblématique du cardon.
 
 ### Principales corrections apportées au document d’origine
 
@@ -1284,4 +1416,4 @@ Mettre le sélecteur sur 0, débrancher l’appareil et attendre environ 30 minu
 
 ### Portée des recettes
 
-Les capacités et les règles d’utilisation sont issues de Magimix. Les recettes de ce guide sont des formulations familiales cohérentes avec ces limites, mais elles ne sont pas toutes des recettes officielles Magimix. Le rendement varie selon la taille, la maturité et la teneur en eau des ingrédients. Goûter, ajuster l’assaisonnement et ne jamais dépasser les repères du bol. Les recettes d’endurance donnent des idées alimentaires, pas une prescription : les besoins en énergie, glucides, protéines, eau et sodium sont individuels.
+Les capacités et les règles d’utilisation sont issues de Magimix. Les recettes de ce guide sont des formulations familiales cohérentes avec ces limites, mais elles ne sont pas toutes des recettes officielles Magimix. Le rendement varie selon la taille, la maturité et la teneur en eau des ingrédients. Goûter, ajuster l’assaisonnement et ne jamais dépasser les repères du bol. Les recettes suisses signalées comme « créations » s’inspirent de produits ou d’associations régionales authentiques sans prétendre reproduire une recette traditionnelle. Les recettes d’endurance donnent des idées alimentaires, pas une prescription : les besoins en énergie, glucides, protéines, eau et sodium sont individuels.
