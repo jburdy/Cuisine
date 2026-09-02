@@ -1,187 +1,105 @@
-# 
-
-[Tares](#tares)
-
-[Proportions](#proportions)
-
-[Riz](#riz)
-
-[Arborio à la cocotte minute](#arborio-à-la-cocotte-minute)
-
-[Risotto au safran](#risotto-au-safran)
-
-[Paella](#paella)
-
-[Pâte](#pâte)
-
-[Foccacia](#foccacia)
-
-[à pâte](#à-pâte)
-
-[à pizza](#à-pizza)
-
-[à pizza de blé](#à-pizza-de-blé)
-
-[à crêpes (BBQ)](#à-crêpes-\(bbq\))
-
-[à Tortillas](#à-tortillas)
-
-[Feuilletée escargot](#feuilletée-escargot)
-
-[Nouilles / Ramen](#nouilles-/-ramen)
-
-[Sauces / Jus](#sauces-/-jus)
-
-[Bouillons](#bouillons)
-
-[Au fromage](#au-fromage)
-
-[Pesto](#pesto)
-
-[Coeur d’artichaut](#coeur-d’artichaut)
-
-[Citron](#citron)
-
-[Béarnaise](#béarnaise)
-
-[A la Carbonara](#a-la-carbonara)
-
-[Caesar](#caesar)
-
-[Beurre d’ail (BBQ)](#beurre-d’ail-\(bbq\))
-
-[Marinade citron miel thym (BBQ)](#marinade-citron-miel-thym-\(bbq\))
-
-[Pains](#pains)
-
-[Soda Bread](#soda-bread)
-
-[Popovers](#popovers)
-
-[Frites](#frites)
-
-[Soupes](#soupes)
-
-[Soupe à la tomate](#soupe-à-la-tomate)
-
-[Soupe du Chalet](#soupe-du-chalet)
-
-[Soupe de lentilles & Co façon JB](#soupe-de-lentilles-&-co-façon-jb)
-
-[Poulets](#poulets)
-
-[Poulet saumuré](#poulet-saumuré)
-
-[Poulet Thomas Keller](#poulet-thomas-keller)
-
-[Poulet Marbella 48h](#poulet-marbella-48h)
-
-[Poulet piripiri crapaudine](#poulet-piripiri-crapaudine)
-
-[Poulet rôti Alice Waters](#poulet-rôti-alice-waters)
-
-[Recettes](#recettes)
-
-[Saumon au chou frisé façon Elysée simplifié](#saumon-au-chou-frisé-façon-elysée-simplifié)
-
-[Lasagnes au four](#lasagnes-au-four)
-
-[Vitello Tonnato](#vitello-tonnato)
-
-[Tonnato](#tonnato)
-
-[Tortilla de patatas](#tortilla-de-patatas)
-
-[Saucisson en brioche](#saucisson-en-brioche)
-
-[OnePot Pasta](#onepot-pasta)
-
-[Tourtière](#tourtière)
-
-[Tajine d'épaule d’agneau](#tajine-d'épaule-d’agneau)
-
-[Compotée de joue de boeuf (ou paleron ou gîte ou plat de côte ou macreuse)](#compotée-de-joue-de-boeuf-\(ou-paleron-ou-gîte-ou-plat-de-côte-ou-macreuse\))
-
-[Tarte tatin betterave](#tarte-tatin-betterave)
-
-[Tarte aux oignons](#tarte-aux-oignons)
-
-[Boulettes de viande (BBQ)](#boulettes-de-viande-\(bbq\))
-
-[Taboulé](#taboulé)
-
-[Terrines](#terrines)
-
-[Terrine de foie de volaille](#terrine-de-foie-de-volaille)
-
-[Terrine de volaille 2024](#terrine-de-volaille-2024)
-
-[Terrine de campagne](#terrine-de-campagne)
-
-[Terrine de poisson](#terrine-de-poisson)
-
-[Cakes](#cakes)
-
-[Cake olives/fêta](#cake-olives/fêta)
-
-[Cake olives/lardons](#cake-olives/lardons)
-
-[Cake Vaudois](#cake-vaudois)
-
-[Apéritives](#apéritives)
-
-[Tartare de tomate](#tartare-de-tomate)
-
-[Sablés olives parmesan](#sablés-olives-parmesan)
-
-[Mousse de thon au Mascarpone](#mousse-de-thon-au-mascarpone)
-
-[Gougères](#gougères)
-
-[Houmous](#houmous)
-
-[Sangria blanche](#sangria-blanche)
-
-[Thin oatcakes](#thin-oatcakes)
-
-[Encas énergie](#encas-énergie)
-
-[Poivron façon Peperoni con bagna caoda](#poivron-façon-peperoni-con-bagna-caoda)
-
-[Citrons confits](#citrons-confits)
-
-[Limoncello](#limoncello)
-
-[Desserts](#desserts)
-
-[Choux](#choux)
-
-[Gelée au thé](#gelée-au-thé)
-
-[Pancakes](#pancakes)
-
-[Panna Cotta](#panna-cotta)
-
-[Fondants au chocolat noir](#fondants-au-chocolat-noir)
-
-[Mousse au choc au siphon](#mousse-au-choc-au-siphon)
-
-[Crumble pommes](#crumble-pommes)
-
-[Riz au lait](#riz-au-lait)
-
-[Flan pâtissier sans pâte](#flan-pâtissier-sans-pâte)
-
-[Caramel liquide](#caramel-liquide)
-
-# 
-
-# Tares
+# Recettes de famille
+
+## Sommaire
+
+- [Tares](#tares)
+- [Proportions](#proportions)
+- [Riz](#riz)
+  - [Arborio à la cocotte minute](#arborio-a-la-cocotte-minute)
+  - [Risotto au safran](#risotto-au-safran)
+  - [Paella](#paella)
+- [Pâte](#pate)
+  - [Foccacia](#foccacia)
+  - [à pâte](#a-pate)
+  - [à pizza](#a-pizza)
+  - [à pizza de blé](#a-pizza-de-ble)
+  - [à crêpes (BBQ)](#a-crepes-bbq)
+  - [à Tortillas](#a-tortillas)
+  - [Feuilletée escargot](#feuilletee-escargot)
+  - [Nouilles / Ramen](#nouilles-ramen)
+- [Sauces / Jus](#sauces-jus)
+  - [Bouillons](#bouillons)
+  - [Au fromage](#au-fromage)
+  - [Pesto](#pesto)
+  - [Coeur d’artichaut](#coeur-d-artichaut)
+  - [Citron](#citron)
+  - [Béarnaise](#bearnaise)
+  - [A la Carbonara](#a-la-carbonara)
+  - [Caesar](#caesar)
+  - [Beurre d’ail (BBQ)](#beurre-d-ail-bbq)
+  - [Marinade citron miel thym (BBQ)](#marinade-citron-miel-thym-bbq)
+- [Pains](#pains)
+  - [Soda Bread](#soda-bread)
+  - [Popovers](#popovers)
+- [Frites](#frites)
+- [Soupes](#soupes)
+  - [Soupe à la tomate](#soupe-a-la-tomate)
+  - [Soupe du Chalet](#soupe-du-chalet)
+  - [Soupe de lentilles & Co façon JB](#soupe-de-lentilles-co-facon-jb)
+- [Poulets](#poulets)
+  - [Poulet saumuré](#poulet-saumure)
+    - [Poulet Thomas Keller](#poulet-thomas-keller)
+  - [Poulet Marbella 48h](#poulet-marbella-48h)
+  - [Poulet piripiri crapaudine](#poulet-piripiri-crapaudine)
+  - [Poulet rôti Alice Waters](#poulet-roti-alice-waters)
+- [Recettes](#recettes)
+  - [Saumon au chou frisé façon Elysée simplifié](#saumon-au-chou-frise-facon-elysee-simplifie)
+  - [Lasagnes au four](#lasagnes-au-four)
+  - [Vitello Tonnato](#vitello-tonnato)
+    - [Tonnato](#tonnato)
+  - [Tortilla de patatas](#tortilla-de-patatas)
+  - [Saucisson en brioche](#saucisson-en-brioche)
+  - [OnePot Pasta](#onepot-pasta)
+  - [Tourtière](#tourtiere)
+    - [Tajine d'épaule d’agneau](#tajine-d-epaule-d-agneau)
+  - [Compotée de joue de boeuf (ou paleron ou gîte ou plat de côte ou macreuse)](#compotee-de-joue-de-boeuf-ou-paleron-ou-gite-ou-plat-de-cote-ou-macreuse)
+  - [Tarte tatin betterave](#tarte-tatin-betterave)
+  - [Tarte aux oignons](#tarte-aux-oignons)
+  - [Boulettes de viande (BBQ)](#boulettes-de-viande-bbq)
+  - [Taboulé](#taboule)
+- [Terrines](#terrines)
+  - [Terrine de foie de volaille](#terrine-de-foie-de-volaille)
+  - [Terrine de volaille 2024](#terrine-de-volaille-2024)
+  - [Terrine de campagne](#terrine-de-campagne)
+  - [Terrine de poisson](#terrine-de-poisson)
+- [Cakes](#cakes)
+  - [Cake olives/fêta](#cake-olives-feta)
+  - [Cake olives/lardons](#cake-olives-lardons)
+  - [Cake Vaudois](#cake-vaudois)
+- [Apéritives](#aperitives)
+  - [Tartare de tomate](#tartare-de-tomate)
+  - [Sablés olives parmesan](#sables-olives-parmesan)
+  - [Mousse de thon au Mascarpone](#mousse-de-thon-au-mascarpone)
+  - [Gougères](#gougeres)
+  - [Houmous](#houmous)
+  - [Sangria blanche](#sangria-blanche)
+  - [Thin oatcakes](#thin-oatcakes)
+  - [Encas énergie](#encas-energie)
+  - [Poivron façon Peperoni con bagna caoda](#poivron-facon-peperoni-con-bagna-caoda)
+  - [Citrons confits](#citrons-confits)
+  - [Limoncello](#limoncello)
+- [Desserts](#desserts)
+  - [Choux](#choux)
+  - [Gelée au thé](#gelee-au-the)
+  - [Pancakes](#pancakes)
+  - [Panna Cotta](#panna-cotta)
+  - [Fondants au chocolat noir](#fondants-au-chocolat-noir)
+  - [Mousse au choc au siphon](#mousse-au-choc-au-siphon)
+  - [Crumble pommes](#crumble-pommes)
+  - [Riz au lait](#riz-au-lait)
+  - [Flan pâtissier sans pâte](#flan-patissier-sans-pate)
+  - [Caramel liquide](#caramel-liquide)
+
+---
+
+<a id="tares"></a>
+## Tares
 
 | Saladiers / bols Jamie: Petit 200g ; Moyen 300g ; Grand 440g Kenwood 1.6kg (10g de moins pour être précis) Petits bols de travail inox 86g Grand blanc haut : 450g Saladier en verre 740g | Doseurs Tup jaune 5dl \= 107g ; 1l \= 180g Transparent couvercle rouge 0.5l \= 70g (sans couvercle) Transparent 350ml 36g  |
 | :---- | :---- |
 
-# Proportions
+<a id="proportions"></a>
+## Proportions
 
 Pour nous 4
 
@@ -201,16 +119,19 @@ Pour nous 4
 | Raclette | 800g de from, 600g patates |  |  |
 | Fondue | \>800g de fromage |  |  |
 
-# Riz
+<a id="riz"></a>
+## Riz
 
-## Arborio à la cocotte minute
+<a id="arborio-a-la-cocotte-minute"></a>
+### Arborio à la cocotte minute
 
 Pour 100g de riz,  
 Le griller avec huile, oignons…  
 Ajouter bien 200g de liquide (moitié tomate, jus), un tbsp de paprika…  
 Fermer faire monter la pression, puis couper le feu et laisser descendre...
 
-## Risotto au safran
+<a id="risotto-au-safran"></a>
+### Risotto au safran
 
 Pour 4 Personnes.  
 320 g Riz Carnaroli  
@@ -233,7 +154,8 @@ Mélangez énergiquement avec une cuillère en bois, ajoutez, si nécessaire, un
 
 Dressez dans une assiette plate en fine couche.
 
-## Paella
+<a id="paella"></a>
+### Paella
 
 4 personnes  
 400g de riz  
@@ -246,9 +168,11 @@ Faire cuire doucement 30min
 Mettre le riz laisser reposer  
 Mettre le safran à la fin
 
-# Pâte
+<a id="pate"></a>
+## Pâte
 
-## Foccacia
+<a id="foccacia"></a>
+### Foccacia
 
 750g farine  
 500g eau tiède  
@@ -266,11 +190,13 @@ Huiler une plaque propre, étaler la pâte et **laisser lever**
 Ajouter huile et faire trou, ajouter gros sel et romarin  
 Préchauffer four mode pizza, puis gril...
 
-## à pâte
+<a id="a-pate"></a>
+### à pâte
 
 1 oeuf pour 100g de farine, sel
 
-## à pizza
+<a id="a-pizza"></a>
+### à pizza
 
 **Levain**: 500g farine, 10g sel, 2.6dl eau, 30g huile d’olive, 100g de levain  
 Reposer 48h température fraîche.  
@@ -281,12 +207,14 @@ Reposer 48h température fraîche.
 **Levure**: 400g farine, 2g sel, 2.4dl eau 8cl d'huile, 30g levure (ou 2 sachets).  
 Reposer 1-2h minimum à min 24°C
 
-## à pizza de blé
+<a id="a-pizza-de-ble"></a>
+### à pizza de blé
 
 100g de blé, 0.5L d’eau sel, herbes...  
 Faire bouillir l’eau salée, verser la semoule en remuant... 
 
-## à crêpes (BBQ)
+<a id="a-crepes-bbq"></a>
+### à crêpes (BBQ)
 
 *rectifiée le 26.05.2013 pour faire un mix avec cette de CM. Quantité OK pour famille.*  
 **300g de farine**  
@@ -296,7 +224,8 @@ Faire bouillir l’eau salée, verser la semoule en remuant...
 **40g beurre fondu**   
 mélanger en ajoutant progressivement **5dl de liquide** (lait-eau). 
 
-## à Tortillas
+<a id="a-tortillas"></a>
+### à Tortillas
 
 pour 12 pièces  
 \-300g farine maïs  
@@ -306,7 +235,8 @@ pour 12 pièces
 Laisser reposer 1h au frais  
 Après cuisson, garder au four 100°C dans de l’alu
 
-## Feuilletée escargot
+<a id="feuilletee-escargot"></a>
+### Feuilletée escargot
 
 * 150g farine **froide**  
 * 150g beurre en cube **congelé**   
@@ -319,7 +249,8 @@ Tout regrouper sur toile en silicone, faire une boule (main froide, ne pas chauf
 Aplatir la boule puis la plier en bande de 3-4 cm, la rouler en escargot, mettre en papier protecteur au frigo min 3h.  
 Abaisser l’escargot depuis le haut (il serait tentant de le faire de côté mais surtout pas).
 
-## Nouilles / Ramen
+<a id="nouilles-ramen"></a>
+### Nouilles / Ramen
 
 240g de farine (2 cups)  
 ½ cup d’eau tiède mélangée à 2tsp de [baked baking soda](https://gingerandscotch.com/baked-baking-soda-alkaline-noodles/) (baking soda 1h à 120°C)  
@@ -327,14 +258,17 @@ Mélanger à la main pour former un boule, laisser reposer min 1h (une nuit tamp
 
 Pour 2 œufs ⅛ cup soja et ⅛ cup mirin \-\> 12h \- Cuisson 5-6min
 
-# Sauces / Jus
+<a id="sauces-jus"></a>
+## Sauces / Jus
 
-## Bouillons
+<a id="bouillons"></a>
+### Bouillons
 
 8g sel par litre  
 **Cocotte:** poulet recouvert à max \=  \~3L de bouillon
 
-## Au fromage
+<a id="au-fromage"></a>
+### Au fromage
 
 200g de from  
 100g d’eau  
@@ -342,19 +276,23 @@ Pour 2 œufs ⅛ cup soja et ⅛ cup mirin \-\> 12h \- Cuisson 5-6min
 
 Dissoudre le citrate dans l’eau froide puis faire bouillir. Ajouter petit à petit le fromage en mixant (mixeur plongeur).
 
-## Pesto
+<a id="pesto"></a>
+### Pesto
 
 Griller 50g de pignons, parmesan, basilic, huile d’olive 
 
-## Coeur d’artichaut
+<a id="coeur-d-artichaut"></a>
+### Coeur d’artichaut
 
 Faire griller les **coeurs** coupé en deux dans une poêle très chaude, déglacer au **vin blanc**, baisser la température puis mettre de **parmesan** et de la **crème**.
 
-## Citron
+<a id="citron"></a>
+### Citron
 
 couper finement le zeste d’un citron le faire revenir dans du beurre. Ajouter un verre de blanc. Faire réduire, saler poivrer. A la fin ajouter de la crème.
 
-## Béarnaise
+<a id="bearnaise"></a>
+### Béarnaise
 
 Couper deux **échalotes**, un bouquet d’**estragon** (en garder un peu) et un de **cerfeuil**. Faire bouillir/réduire avec 2dl de **vin blanc**, 5cl **vinaigre** et du poivre en remuant. 
 
@@ -369,7 +307,8 @@ poivre
 1dl vinaigre  
 250g beurre
 
-## A la Carbonara
+<a id="a-la-carbonara"></a>
+### A la Carbonara
 
 * Cuire les pâtes  
 * Faire griller les lardons  
@@ -379,11 +318,13 @@ poivre
 * Mélanger pâtes, lardon, jambon faire bien chauffer  
 * Ajouter le mélange oeuf en remuant et servir
 
-## Caesar
+<a id="caesar"></a>
+### Caesar
 
 Huile de colza, 1 jaune d'oeuf, 1/2 jus de citron, 1 cuillère à café de moutarde, 1/2 gousse d'ail pressée, 1 cuillère à café de vinaigre de xérès, 5 cuillères à soupe de parmesan, 1 cuillère à soupe de crème fraîche (ou de fromage blanc), poivre, sel.
 
-## Beurre d’ail (BBQ)
+<a id="beurre-d-ail-bbq"></a>
+### Beurre d’ail (BBQ)
 
 250g de beurre doux \- 80g d’ail \- 1 petite échalote \- ½ bouquet de persil  
 Blanchir l’ail (eau bouillante, arrêt dès reprise de l'ébullition, rafraîchir)  
@@ -391,7 +332,8 @@ Mixer le persil grossièrement
 Mixer finement l’ail et l’échalote avec un peu d’huile  
 Ramollir le beurre et bien mélanger le tout (poivrer).
 
-## Marinade citron miel thym (BBQ)
+<a id="marinade-citron-miel-thym-bbq"></a>
+### Marinade citron miel thym (BBQ)
 
 Pour 6 steaks  
 20g citron  
@@ -400,9 +342,11 @@ Pour 6 steaks
 Thym et mixer le tout  
 Cuire les steaks avec branche de romarin. 
 
-# Pains
+<a id="pains"></a>
+## Pains
 
-## Soda Bread
+<a id="soda-bread"></a>
+### Soda Bread
 
 Mélanger 500g de farine avec tsp de bicarbonate et tsp de sel.  
 Ajouter 400ml de liquide et qqch d’acide (citron pour cailler le lait ou vinaigre ?)  
@@ -421,7 +365,8 @@ mélanger
 
 15min
 
-## Popovers
+<a id="popovers"></a>
+### Popovers
 
 * 3 œufs  
 * 50 g de beurre  
@@ -439,21 +384,25 @@ Versez dans les moules à ras bord.
 
 Faites cuire 30 mn à 190°C SANS OUVRIR \!
 
-# Frites
+<a id="frites"></a>
+## Frites
 
 Couper tremper eau froide  
 5-6 min dans huile 150°C  
 3-4 min dans huile \>180°C   
 peut attendre entre les deux cuissons
 
-# Soupes
+<a id="soupes"></a>
+## Soupes
 
-## Soupe à la tomate
+<a id="soupe-a-la-tomate"></a>
+### Soupe à la tomate
 
 3dl de bouillon de légume pour 1kg de tomate. échalote, ail, thym.  
 Faire revenir l'échalote dans du beurre, ajouter l’ail, le thym et les tomates, mijoter 20min, ajouter le bouillon, mijoter 20min, mixer le tout puis tamiser, continuer la cuisson.
 
-## Soupe du Chalet
+<a id="soupe-du-chalet"></a>
+### Soupe du Chalet
 
 200 g, Poireaux, en fine julienne   
 200 g, Carottes, en fine julienne   
@@ -475,27 +424,32 @@ Sel, poivre, pâte de bouillon pour assaisonner
 4\. Rajouter le fromage et laisser fondre sur feux doux   
 5\. Finir avec la crème, ne plus cuire, contrôler l'assaisonnement.
 
-## Soupe de lentilles & Co façon JB
+<a id="soupe-de-lentilles-co-facon-jb"></a>
+### Soupe de lentilles & Co façon JB
 
 Saisir 100g de **lardons** dans cocotte pression. Ajouter une **carotte** coupée en dés, un **oignon** et une **gousse d’ail**.  
 Ajouter 150g de **lentille** (Beluga), 100g **haricots rouge**, 100g **engrain**, 50g **pois chiche**, 20g **chia**,.  
 Bien mélanger, déglacer avec 1.5L d’eau, fermer et cuire sous pression. 
 
-# Poulets
+<a id="poulets"></a>
+## Poulets
 
-## Poulet saumuré
+<a id="poulet-saumure"></a>
+### Poulet saumuré
 
 50g sel par litre, sucre  
 170°C
 
-### Poulet Thomas Keller
+<a id="poulet-thomas-keller"></a>
+#### Poulet Thomas Keller
 
 1. Sortir le poulet **plusieurs** heures avant qu’il sèche et soit à température ambiante (très important).  
 2. Au dernier moment, lui mettre beaucoup de sel dans le q (4-5 cs), le poser dans une cocotte (sans couvercle) et saler la peau (2-3cs). Il doit être bien ficelé.  
 3. L’enfourner à 250°C température à coeur attendue \>65°C (40-60min).  
 4. Couper puis laisser reposer au four 5min.
 
-## Poulet Marbella 48h
+<a id="poulet-marbella-48h"></a>
+### Poulet Marbella 48h
 
 Faire mariner 1-2 jours **1.5-2kg de cuisses de poulet** avec **5 gousses d’ail** écrasées, **15g d’origan frais**, **3 tbsp de vinaigre de vin rouge, 3 tbsp d’huile d’olive, 100g d’olives vertes** (sans noyau c’est mieux), min **60g de (gros) câpres** et 2 tbsp de leur jus, **120g de dattes Medjool** (ou pruneaux) dénoyauté et coupé en deux, **2 feuilles de laurier**, ¾ tsp de sel et un bon coup de poivre noir.
 
@@ -505,7 +459,8 @@ Cuisson cocotte (avec des **patates**) pression puis placer doucement dans un pl
 Ou  
 Cuisson au four à 160°C \- 2h (poulet température ambiante).... en arrosant régulièrement.
 
-## Poulet piripiri crapaudine
+<a id="poulet-piripiri-crapaudine"></a>
+### Poulet piripiri crapaudine
 
 Couper le poulet en crapaudine (couper par la poitrine)  
 L’écraser, le badigeonner de marinade (vin blanc, huile, **paprika fumé, ail, piripiri**)  
@@ -515,15 +470,18 @@ Cuire dans la poêle 5min puis la mettre au four 15min
 Retourner le poulet et remettre au four.  
 Attendre 5min et couper le four.
 
-## Poulet rôti Alice Waters
+<a id="poulet-roti-alice-waters"></a>
+### Poulet rôti Alice Waters
 
 1-2 jours avant, sel…  
 1h avant température ambiante  
 Four 210°C  (1h pour 1.5 kg) ⅓ dos, ⅓ poitinre, ⅓ dos. Laisser reposer bien 10-15min
 
-# Recettes
+<a id="recettes"></a>
+## Recettes
 
-## Saumon au chou frisé façon Elysée simplifié
+<a id="saumon-au-chou-frise-facon-elysee-simplifie"></a>
+### Saumon au chou frisé façon Elysée simplifié
 
 \- saumon frais  
 \- chou frisé  
@@ -533,26 +491,30 @@ coupe le saumon en tranche
 prendre une cocotte en fonte, faire brunir des oignons dans du beurre puis poser le montage.  
 baisser la température, fermer la cocotte et laisser cuire doucement 10-20min ?
 
-## Lasagnes au four
+<a id="lasagnes-au-four"></a>
+### Lasagnes au four
 
 Pour le grand plat (8 personnes):  
 1kg de viande, une btl de sauce tomate et un demi tube de triple concentré de tomate (+de quoi faire une bolo)  
 300g de farine, 3 oeufs, une bonne cuillère à soupe d’huile d’olive pour faire 3 couche de pâte (essayer d’aller jusqu’au réglage 5\)  
 Parmigiano sous chaque couche de pâte \+ sur le dessus. Une bonne heure de cuisson 170°C
 
-## Vitello Tonnato
+<a id="vitello-tonnato"></a>
+### Vitello Tonnato
 
 [https://stefangourmet.com/2012/11/11/amazing-sous-vide-vitello-tonnato/](https://stefangourmet.com/2012/11/11/amazing-sous-vide-vitello-tonnato/)  
 Cuisson Noix de porc saisie puis 60°C \~4h...
 
-### Tonnato
+<a id="tonnato"></a>
+#### Tonnato
 
 Huile du thon complété d’huile normale pour avoir 3dl  
 1 oeuf entier  
 \-\> faire une mayo au mixeur plongeur  
 Puis mélanger au thon émietté (petit boite), câpre (2cs), légumes de cuisson et anchois hachés…
 
-## Tortilla de patatas
+<a id="tortilla-de-patatas"></a>
+### Tortilla de patatas
 
 Dans une petite poêle \!\!\!  
 Peler un **oignon** et **400g de pdt** en rondelle de 2mm.  
@@ -560,15 +522,18 @@ Cuire les pdts avec du sel et de l'huile 5min dans la poele puis l'oignon 2min
 Battre **4 oeufs** en omelette, ajouter, laisser cuire \~15min à feu doux couvert.  
 Retourner (technique de l'assiette) et cuire \~5min
 
-## Saucisson en brioche
+<a id="saucisson-en-brioche"></a>
+### Saucisson en brioche
 
 Faire recette CrocMenu :) avec 3x la pâte on fait 4 saucisson. 150g d’huile en tout à la place du beurre. 
 
-## OnePot Pasta
+<a id="onepot-pasta"></a>
+### OnePot Pasta
 
 Pour 100g de pâtes, 300g d’eau et 1g de sel. 
 
-## Tourtière
+<a id="tourtiere"></a>
+### Tourtière
 
 * 400g de pâte à foncer (oeuf entier)  
 * 1.5 kg de ragout  
@@ -582,7 +547,8 @@ Faire la pâte et faire mariner la viande 24h à l’avance. Marinade: 5 gousses
 
 Déposer la pâte dans la cocotte (pas besoin d’en mettre au fond) puis ajouter des légume et du sel (15g/kg viande) à la marinade puis mettre dans la cocotte. Refermer avec la pâte. Enfourner couvercle fermé 1h à 200°C puis 5-6h à 120°C ouvrir les 45 dernière minutes.
 
-### Tajine d'épaule d’agneau
+<a id="tajine-d-epaule-d-agneau"></a>
+#### Tajine d'épaule d’agneau
 
 Faire tremper pois chiche plus de 24h avant. Commencer 4h avant le repas.
 
@@ -596,7 +562,8 @@ Après les 2h sortir la viande du plat, déglacer/gratter le fond avec le jus de
 
 Servire avec la **coriandre**, **piment rouge frais**, 500g de **yaourte**, une salade de **concombre/carotte**….
 
-## Compotée de joue de boeuf (ou paleron ou gîte ou plat de côte ou macreuse)
+<a id="compotee-de-joue-de-boeuf-ou-paleron-ou-gite-ou-plat-de-cote-ou-macreuse"></a>
+### Compotée de joue de boeuf (ou paleron ou gîte ou plat de côte ou macreuse)
 
 Bien mélanger dans une cocotte **1cs de paprika fumé**, **1cs de gingembre**, **1cs de cumin**, **1cc de sel**, **1cc de cardamome**, **1cc de poivre**. Couper **1kg viande** en morceau de 5cm et mettre dans cocotte, bien mélanger. Ajouter **1 oignons rouge** coupé, **4 pruneaux**, **2cs de concentré de tomate**, **1cs de vinaigre balsamique** et mélanger. Ajouter 250ml d’eau.
 
@@ -605,7 +572,8 @@ Bien mélanger dans une cocotte **1cs de paprika fumé**, **1cs de gingembre**, 
 
 Si possible après, retirer la viande (attention elle est fragile) et faire réduire la sauce...
 
-## Tarte tatin betterave
+<a id="tarte-tatin-betterave"></a>
+### Tarte tatin betterave
 
 Faire une pâte brisée (200g farine).  
 Faire caraméliser **40g de sucre brut**, retirer du feu, y ajouter **50g de beurre** et une cuillère de **miel**. Ajouter du **thym** et saler/poivrer. Le couler au fond d’une plaque à tarte.  
@@ -614,7 +582,8 @@ Abaisser la pâte et la déposer sur la betterave. Bien appuyer sur les bords.
 Faire cuire 25min à 190°C  
 Sortir de du four, retourner, ajouter de la fleur de sel et manger avec du **chèvre frais**.
 
-## Tarte aux oignons
+<a id="tarte-aux-oignons"></a>
+### Tarte aux oignons
 
 200g (farine) de pate brisée  
 1kg d’oignons  
@@ -625,7 +594,8 @@ Couper les oignons les faires revenir doucement avec du sel (20min) ajouter les 
 étaler la pâte, ajouter le mélange ajouter la crème tasser.  
 Cuire 30min 200°C
 
-## Boulettes de viande (BBQ)
+<a id="boulettes-de-viande-bbq"></a>
+### Boulettes de viande (BBQ)
 
 1kg de viande  
 250g de pain sec  
@@ -636,7 +606,8 @@ Cuire 30min 200°C
 4cc de sel  
 poivre
 
-## Taboulé
+<a id="taboule"></a>
+### Taboulé
 
 \-50g de boulgour pp  
 \-persil plat  
@@ -647,9 +618,11 @@ poivre
 \-huile d’olive  
 Bien rincer boulgour, faire cuire avec le double de son volume en eau salée 10min. Laisser refroidir/absorber remuer.
 
-# Terrines
+<a id="terrines"></a>
+## Terrines
 
-## Terrine de foie de volaille
+<a id="terrine-de-foie-de-volaille"></a>
+### Terrine de foie de volaille
 
 \- 500g de foie de volaille  
 \- 200g de lard frais haché (autre?)    
@@ -659,7 +632,8 @@ Bien rincer boulgour, faire cuire avec le double de son volume en eau salée 10m
 mélanger presser dans la terrine. poser du **thym**, **laurier** sur le dessus puis la presse. laisser reposer une nuit dans un bain-marie dans le four. Programmer le four pour 2h 200°C.  
 Récupérer le jus, enlever la presse. Ajouter un peu d’eau et porter le jus à ébullition avec un **sachet de gelée (2.5dl)**. Verser sur la terrine et laisser reposer plusieurs jours (le temps qu’elle refroidisse bien puis un frigo).
 
-## Terrine de volaille 2024
+<a id="terrine-de-volaille-2024"></a>
+### Terrine de volaille 2024
 
 \- 333g de foie (+ un peu de foie gras?)  
 \- 666g de blanc  
@@ -671,7 +645,8 @@ Récupérer le jus, enlever la presse. Ajouter un peu d’eau et porter le jus �
 
 Bien tout mélanger, ne pas trop hacher, cuisson **au bain marie** pour 70°C à cœur avec un four 140°C \!
 
-## Terrine de campagne
+<a id="terrine-de-campagne"></a>
+### Terrine de campagne
 
 \- 200g de foie  
 \- 400g de porc (gras-maigre, le cou va bien)   
@@ -689,31 +664,38 @@ Récupérer le jus, enlever la presse. Ajouter un peu d’eau et porter le jus �
 \-- Technique août 2019 super bonne chanterelles  
 démarrage four à froid pour chaleur tournante 170°C. Arrêt quand température à cœur 70°C. Puis 5dl de gelé bouillante, dès que possible mais en 2x.
 
-## Terrine de poisson
+<a id="terrine-de-poisson"></a>
+### Terrine de poisson
 
 Cuisson 140°C au bain marie pour un 60°C à cœur.  
 Mascarpone/oeuf pour la farce fine, génial...
 
-# Cakes
+<a id="cakes"></a>
+## Cakes
 
-## Cake olives/fêta
+<a id="cake-olives-feta"></a>
+### Cake olives/fêta
 
 4 oeufs, 500g fêta, crème fraîche, basilic, tomate séchée, poivron à l'huile, bicarbonate, vin, farine (200h?)
 
-## Cake olives/lardons
+<a id="cake-olives-lardons"></a>
+### Cake olives/lardons
 
 4-6per  
 200 g de farine, 1 levure pâtissière, 3 oeufs, 1 sel,10 cl d'huile (faut pas déconner\!?) , 10 cl de lait chaud, 100g de gruyère, 200 g de lardons, 150 g d'olives: griller lardons, tout mélanger mettre dans moule graissé, 45min four 200°C
 
-## Cake Vaudois
+<a id="cake-vaudois"></a>
+### Cake Vaudois
 
 1 saucisson vaudois (voir 2?), 200g de gruyère râpé, 2dl de bière (ou blanc) *1dl d’huile*, 4 oeufs, levure chimique. 250g farine.   
 Saucisson dans l’eau 75°C 30min, éplucher puis couper en dés.  
 Cuire 1h à 180°C
 
-# Apéritives
+<a id="aperitives"></a>
+## Apéritives
 
-## Tartare de tomate
+<a id="tartare-de-tomate"></a>
+### Tartare de tomate
 
 Un bocal tomate séchées  
 1cs câpres  
@@ -722,29 +704,34 @@ Un bocal tomate séchées
 1 oignon  
 Sauce tomate pour la texture
 
-## Sablés olives parmesan
+<a id="sables-olives-parmesan"></a>
+### Sablés olives parmesan
 
 Faire ramollir **100g de beurre** (Cooking chef?) haché **85g d’olive égouttées** et ajouter avec **100g de farine** et 1**30g de parmesan**.  
 Bien mélanger, former un boudin mettre 1h au frigo.  
 Préchauffer le four à 180°C, couper le boudin en rondelle et cuire 15min  
 Laisser refroidir avant de décoller et manger
 
-## Mousse de thon au Mascarpone
+<a id="mousse-de-thon-au-mascarpone"></a>
+### Mousse de thon au Mascarpone
 
  ⅓  de Mascarpone 
 
-## Gougères
+<a id="gougeres"></a>
+### Gougères
 
 Four à 220°, ébullition 100g de beurre et 2.5dl d’eau, 150g de farine d’un coup, couper le feu, bien sécher (sur le feu), quand pâte ok,  ajouter 4-5 oeuf un par un... poivrer/saler ajouter 150g de fromage, 30min au four, laisser refroidir porte ouverte.
 
-## Houmous
+<a id="houmous"></a>
+### Houmous
 
 Griller fortement des graine de sésame (15g)  puis les mixer avec de l’huile d’olive (tahiné). Faire tremper longtemps les pois-chiche (150g), rincer l’eau puis faire cuire longtemps.    
 Garder l’eau de cuisson, enlever la peau d’un max de pois, puis mixer les autres en ajoutant ce qu’il faut de jus de cuisson et le tahiné, jus de citron et une gousse d’ail.    
 Ajouter les pois sans peau et écraser grossièrement.   
 Laisser reposer 24h puis assaisonner si besoin. 
 
-## Sangria blanche
+<a id="sangria-blanche"></a>
+### Sangria blanche
 
 Pour 2-3 litres  
 Porter à ébullition une btle de vin blanc sec avec 150g de sucre, un bâton de cannelle, un clou de girofle, deux gousses de vanille. Couper le feu laisser infuser 1h.  
@@ -752,7 +739,8 @@ Dans un autre récipient (genre 3L) verser une autre btle de vin blanc puis y me
 Après une heure, verser l’infusion en la filtrant dans le récipient à fruits. Faire macérer 2-3 jours.  
 Servir très frais en allongeant de limonade.
 
-## Thin oatcakes
+<a id="thin-oatcakes"></a>
+### Thin oatcakes
 
 200g avoine  
 50g farine (engrain très bien)  
@@ -767,7 +755,8 @@ Etaler avec rouleau à pâte
 Découper   
 Cuire 30min à 180°C
 
-## Encas énergie
+<a id="encas-energie"></a>
+### Encas énergie
 
 150g de noix, amandes, cacahuètes et autre graines  
 100g pruneaux, datte mouiller ou autre…  
@@ -776,18 +765,21 @@ Cuire 30min à 180°C
 Du liquide pour la consistance **ou huile ?**  
 Cuire bien 30min
 
-## Poivron façon Peperoni con bagna caoda
+<a id="poivron-facon-peperoni-con-bagna-caoda"></a>
+### Poivron façon Peperoni con bagna caoda
 
 Lavez et essuyez les poivrons, les huiler et les saler légèrement. Disposez les dans un plat ou sur une plaque et les enfourner à 200°C pendant une heure (à juger).   
 Lorsque la cuisson est optimale les laisser refroidir, puis éliminer la queue, les peler, les couper en quartiers  et nettoyer les graines. 
 
-## Citrons confits
+<a id="citrons-confits"></a>
+### Citrons confits
 
 Citrons bio, nettoyé. Couper en quart mettre dans un bocal (sterilisé) et saler.  
 Après 3 jours, compléter le jus avec de l’eau stérilisé (bouillie/refroidie) pour recouvrir les citrons.  
 Attendre au moins 4 semaines. Secouer de temps en temps.
 
-## Limoncello
+<a id="limoncello"></a>
+### Limoncello
 
 50g zeste de citron sans le blanc (4 normaux ou 6 petits)  
 0.5L d’alcool 98%  
@@ -803,13 +795,16 @@ An ethanol content of **28-32% is considered optimal for Limoncello** \[[http://
 12.2016: 4.5 dl, 1l eau, 333g sucre  
 02.2017: 4.6 dl, 1l eau, 333g sucre \- Citrons Bio Sicile (livraison couple Yverdon)
 
-# Desserts
+<a id="desserts"></a>
+## Desserts
 
-## Choux
+<a id="choux"></a>
+### Choux
 
 2dl eau, pincée sel, 2cs sucre, 50g beurre, 100g farine. 2-3 œufs. 220°C 20min. 180°C 15min laisser refroidir four ouvert. 
 
-## Gelée au thé 
+<a id="gelee-au-the"></a>
+### Gelée au thé
 
 0.5g agar-agar  
 20g de sucre  
@@ -817,7 +812,8 @@ An ethanol content of **28-32% is considered optimal for Limoncello** \[[http://
 Faire bouillir puis laisser refroidir jusqu'à température d’infusion.   
 Ajouter le thé et laisser infuser jusqu'à passer sous les 50°C mettre dans moule. 
 
-## Pancakes
+<a id="pancakes"></a>
+### Pancakes
 
 Pour 3 personnes :
 
@@ -831,14 +827,16 @@ Pour 3 personnes :
 * 50 g de [beurre](http://cuisine.journaldesfemmes.com/encyclopedie/fiche_composant/287/beurre.shtml) fondu  
 * 
 
-* ## Panna Cotta
+<a id="panna-cotta"></a>
+### Panna Cotta
 
 * 4dl de crème  
 * 70g de choc blanc  
 * 1.5 feuille de gélatine  
 * faire bouillir lait et choc tout en remuant, couper le feu et ajouter feuille de gélatine ayant trempé dans l’eau tout en continuant à remuer. Verser et laisser reposer au frais un bon moment.
 
-## Fondants au chocolat noir
+<a id="fondants-au-chocolat-noir"></a>
+### Fondants au chocolat noir
 
 280g de choc noir (70% min) fondu  
 220 g de beurre fondu  
@@ -855,11 +853,13 @@ Astuces:
 \- avec la moitié de la recette on obtient environ 6 fondants  
 \- ne pas mettre la pâte au frais sous peine de se retrouver avec une mousse au choc (mais très bonne d'ailleurs...)
 
-## Mousse au choc au siphon
+<a id="mousse-au-choc-au-siphon"></a>
+### Mousse au choc au siphon
 
 Faire bouillir **100g de crème**, couper le feu y mettre **250g de choc 70%**, remuer en laissant fondre, vers les 70°C ajouter **3 jaunes**, toujours en remuant. Mélanger **6 blanc** d’oeufs avec une pincée de sel, ajouter en plusieurs fois dans le choc. Mettre le tout dans le siphon, une **cartouche de gaz** et ok pour le lendemain.
 
-## Crumble pommes
+<a id="crumble-pommes"></a>
+### Crumble pommes
 
 6 pommes (ex golden)  
 2 bananes  
@@ -879,12 +879,14 @@ Mettre le beurre, la farine, le sucre et les spéculoos dans un bol.
 Malaxer avec les doigts, en écrasant bien, les morceaux de beurre, jusqu'à ce que la poudre de gâteau, la farine et le sucre soient bien absorbés. Le résultat doit être assez granuleux.  
 Répartir ce mélange sur les fruits pour former une croûte. Quand le four a atteint la bonne température, y mettre le plat et laisser cuire environ 30 min. La croûte doit être bien dorée. Ne pas oublier de jeter un coup d'oeil de temps en temps pour vérifier que ca ne brunit pas trop... si c'est le cas baisser la température à 150 degrés.. si au bout de 20 min ce n'est toujours pas doré, augmenter la température à 210 degrés.
 
-## Riz au lait
+<a id="riz-au-lait"></a>
+### Riz au lait
 
 Plonger pendant 3min **100g de riz à risotto** dans 1l d'eau bouillante. Rincer l'amidon.  
 Ajoutez **600g de lait, 50g de sucre** et **vanille** et portez à frémissement. Cuire à feu doux 30-40min en remuant régulièrement (ça colle très vite).
 
-## Flan pâtissier sans pâte
+<a id="flan-patissier-sans-pate"></a>
+### Flan pâtissier sans pâte
 
 Pour un moule à manqué de 26cm de diamètre  
 \- 1 L de lait entier  
@@ -910,7 +912,8 @@ Mettre dans moule bien beurré
 beurre \!?  
 170°C \- 45min en bas avec chaleur de sole
 
-## Caramel liquide
+<a id="caramel-liquide"></a>
+### Caramel liquide
 
 sucre  
 ⅓ du poids en eau  
