@@ -2,6 +2,74 @@
 
 Guide familial pour **4 personnes** — cuisine maison, variée, saine et gourmande.
 
+## Table des recettes
+
+**Légende :** 🟢 **Quotidien** — à privilégier régulièrement · 🟠 **Gourmand** — à savourer plus occasionnellement.
+
+### Soupes et repas légers
+
+| Recette | Profil |
+|---|:---:|
+| [Velouté de légumes de saison](#r-veloute-legumes) | 🟢 |
+| [Potimarron et châtaignes](#r-potimarron-chataignes) | 🟢 |
+| [Butternut, coco et gingembre](#r-butternut-coco) | 🟢 |
+| [Chou-fleur et haricots blancs](#r-chou-fleur-haricots) | 🟢 |
+| [Lentilles corail, tomate et cumin](#r-lentilles-corail) | 🟢 |
+| [Gaspacho andalou](#r-gaspacho) | 🟢 |
+| [Soupe froide courgette, chèvre et menthe](#r-soupe-courgette) | 🟢 |
+| [Ajo blanco](#r-ajo-blanco) | 🟠 |
+
+### Tartinades, sauces et accompagnements
+
+| Recette | Profil |
+|---|:---:|
+| [Houmous crémeux](#r-houmous) | 🟢 |
+| [Tartinade de haricots blancs au romarin](#r-tartinade-haricots) | 🟢 |
+| [Baba ganoush](#r-baba-ganoush) | 🟢 |
+| [Romesco](#r-romesco) | 🟢 |
+| [Pesto de basilic](#r-pesto) | 🟠 |
+| [Chimichurri](#r-chimichurri) | 🟢 |
+| [Sauce cacahuète et citron vert](#r-sauce-cacahuete) | 🟠 |
+| [Mayonnaise maison](#r-mayonnaise) | 🟠 |
+| [Sauce tomate rôtie](#r-sauce-tomate) | 🟢 |
+
+### Pâtes et appareils
+
+| Recette | Profil |
+|---|:---:|
+| [Pâte à crêpes](#r-crepes) | 🟠 |
+| [Blinis au yaourt](#r-blinis) | 🟠 |
+| [Pancakes au yogourt](#r-pancakes) | 🟠 |
+| [Gaufres peu sucrées](#r-gaufres) | 🟠 |
+| [Clafoutis aux fruits](#r-clafoutis) | 🟠 |
+| [Quiche sans pâte aux légumes](#r-quiche) | 🟢 |
+| [Appareil à muffins](#r-muffins) | 🟠 |
+
+### Petits-déjeuners et boissons
+
+| Recette | Profil |
+|---|:---:|
+| [Smoothie vert doux](#r-smoothie-vert) | 🟢 |
+| [Smoothie fruits rouges, avoine et yaourt](#r-smoothie-fruits-rouges) | 🟢 |
+| [Smoothie café, banane et cacao](#r-smoothie-cafe) | 🟠 |
+| [Boisson à l’avoine](#r-boisson-avoine) | 🟢 |
+| [Boisson aux amandes](#r-boisson-amandes) | 🟢 |
+| [Lait d’or](#r-lait-or) | 🟠 |
+| [Café froid mousseux](#r-cafe-froid) | 🟠 |
+
+### Desserts et goûters
+
+| Recette | Profil |
+|---|:---:|
+| [Sorbet mangue et citron vert](#r-sorbet-mangue) | 🟢 |
+| [Nice cream banane-cacahuète](#r-nice-cream) | 🟠 |
+| [Granité café ou citron](#r-granite) | 🟠 |
+| [Mousse chocolat et tofu soyeux](#r-mousse-chocolat) | 🟠 |
+| [Crème chocolat-noisette](#r-creme-chocolat) | 🟠 |
+| [Lemon curd](#r-lemon-curd) | 🟠 |
+| [Pâte à tartiner chocolat-noisette](#r-pate-tartiner) | 🟠 |
+| [Compote pomme-poire](#r-compote) | 🟢 |
+
 > [!IMPORTANT]
 > Ce document complète la notice Magimix, mais ne la remplace pas. Les capacités et les règles de sécurité ci-dessous ont été vérifiées le **2 septembre 2026** dans la documentation officielle du Blender Power.
 
@@ -105,7 +173,7 @@ Un smoothie, une soupe ou un houmous peut contribuer à un bon repas, mais aucun
 - les huiles d’olive, de colza et de noix en quantité raisonnable ;
 - l’eau comme boisson principale.
 
-Les recettes très sucrées, très salées ou riches en beurre, crème ou fromage sont signalées **Gourmand** et sont à alterner avec les recettes **Quotidien**.
+Les recettes très sucrées, très salées ou riches en beurre, crème ou fromage sont signalées 🟠 **Gourmand** et sont à alterner avec les recettes 🟢 **Quotidien**.
 
 ### Formule simple pour un repas familial
 
@@ -120,7 +188,10 @@ Les recettes très sucrées, très salées ou riches en beurre, crème ou fromag
 
 Toutes les recettes font environ 4 bols. Pour une soupe chaude, laisser les ingrédients redescendre à **60 °C ou moins** avant de mixer.
 
-### 1. Velouté de légumes de saison — Quotidien
+<a id="r-veloute-legumes"></a>
+### Velouté de légumes de saison · 🟢 Quotidien
+
+Une base souple pour transformer les légumes disponibles en soupe familiale onctueuse.
 
 **Ingrédients**
 
@@ -135,7 +206,10 @@ Toutes les recettes font environ 4 bols. Pour une soupe chaude, laisser les ingr
 2. Lancer `SOUP`.
 3. Ajouter un peu de bouillon si nécessaire et mixer brièvement en vitesse lente.
 
-### 2. Potimarron et châtaignes — Quotidien
+<a id="r-potimarron-chataignes"></a>
+### Potimarron et châtaignes · 🟢 Quotidien
+
+Un velouté automnal doux et généreux, relevé de muscade.
 
 **Ingrédients**
 
@@ -149,7 +223,10 @@ Toutes les recettes font environ 4 bols. Pour une soupe chaude, laisser les ingr
 
 Mixer avec `SOUP`. Une peau dure, abîmée ou fibreuse doit être retirée ; le blender ne rend pas comestible une partie qui ne l’est pas.
 
-### 3. Butternut, coco et gingembre — Quotidien
+<a id="r-butternut-coco"></a>
+### Butternut, coco et gingembre · 🟢 Quotidien
+
+Une soupe veloutée aux notes chaudes, fraîches et légèrement exotiques.
 
 **Ingrédients**
 
@@ -163,7 +240,10 @@ Mixer avec `SOUP`. Une peau dure, abîmée ou fibreuse doit être retirée ; le 
 
 Mixer tous les ingrédients sauf le citron vert avec `SOUP`. Ajouter le jus après mixage et rectifier l’assaisonnement.
 
-### 4. Chou-fleur et haricots blancs — Quotidien
+<a id="r-chou-fleur-haricots"></a>
+### Chou-fleur et haricots blancs · 🟢 Quotidien
+
+Les haricots blancs rendent ce velouté nourrissant et crémeux sans excès de crème.
 
 **Ingrédients**
 
@@ -177,7 +257,10 @@ Mixer tous les ingrédients sauf le citron vert avec `SOUP`. Ajouter le jus apr�
 
 Mixer avec `SOUP`. Les haricots apportent du corps, des fibres et des protéines végétales sans nécessiter beaucoup de crème.
 
-### 5. Lentilles corail, tomate et cumin — Quotidien
+<a id="r-lentilles-corail"></a>
+### Lentilles corail, tomate et cumin · 🟢 Quotidien
+
+Une soupe complète et parfumée qui met les légumineuses au menu simplement.
 
 **Ingrédients**
 
@@ -192,7 +275,10 @@ Mixer avec `SOUP`. Les haricots apportent du corps, des fibres et des protéines
 
 Mixer avec `SOUP`. Servir avec du pain complet et une cuillerée de yaourt nature.
 
-### 6. Gaspacho andalou — Quotidien
+<a id="r-gaspacho"></a>
+### Gaspacho andalou · 🟢 Quotidien
+
+Une soupe froide vive et rafraîchissante pour profiter des tomates bien mûres.
 
 **Ingrédients**
 
@@ -211,7 +297,10 @@ Mixer avec `SOUP`. Servir avec du pain complet et une cuillerée de yaourt natur
 2. Lancer `SOUP` ou `SMOOTHIE` pour une texture très fine.
 3. Réfrigérer au moins 2 heures. Ajuster avec un peu d’eau froide si nécessaire.
 
-### 7. Soupe froide courgette, chèvre et menthe — Quotidien
+<a id="r-soupe-courgette"></a>
+### Soupe froide courgette, chèvre et menthe · 🟢 Quotidien
+
+Une entrée estivale fraîche où le chèvre apporte juste assez d’onctuosité.
 
 **Ingrédients**
 
@@ -226,7 +315,10 @@ Mixer avec `SOUP`. Servir avec du pain complet et une cuillerée de yaourt natur
 
 Mixer avec `SMOOTHIE`, puis réfrigérer. Goûter avant de saler : le fromage l’est déjà.
 
-### 8. Ajo blanco — Gourmand
+<a id="r-ajo-blanco"></a>
+### Ajo blanco · 🟠 Gourmand
+
+Une soupe froide andalouse riche et soyeuse à base d’amandes et de pain.
 
 **Ingrédients**
 
@@ -248,7 +340,10 @@ Mixer avec `SOUP` ou en V4 pendant 45 à 60 secondes. Réfrigérer et servir en 
 
 Les sauces sont volontairement proposées en quantités compatibles avec le grand bol. Pour une demi-recette, le mini-bol est généralement plus adapté.
 
-### 9. Houmous crémeux — Quotidien
+<a id="r-houmous"></a>
+### Houmous crémeux · 🟢 Quotidien
+
+Une tartinade de pois chiches citronnée, idéale avec des crudités et du pain complet.
 
 **Ingrédients**
 
@@ -266,7 +361,10 @@ Les sauces sont volontairement proposées en quantités compatibles avec le gran
 2. Ajouter le reste et mixer en V3, puis V4, sans dépasser 60 secondes en continu.
 3. Utiliser la spatule et ajouter un peu d’eau si nécessaire.
 
-### 10. Tartinade de haricots blancs au romarin — Quotidien
+<a id="r-tartinade-haricots"></a>
+### Tartinade de haricots blancs au romarin · 🟢 Quotidien
+
+Une alternative douce au houmous, fraîche et riche en légumineuses.
 
 **Ingrédients**
 
@@ -282,7 +380,10 @@ Les sauces sont volontairement proposées en quantités compatibles avec le gran
 
 Mixer en V2 à V3 pendant 30 à 45 secondes. Servir avec des crudités et du pain complet.
 
-### 11. Baba ganoush (aubergine) — Quotidien
+<a id="r-baba-ganoush"></a>
+### Baba ganoush (aubergine) · 🟢 Quotidien
+
+Une crème d’aubergine rôtie au goût fumé, citronné et légèrement relevé.
 
 **Ingrédients**
 
@@ -297,7 +398,10 @@ Mixer en V2 à V3 pendant 30 à 45 secondes. Servir avec des crudités et du pai
 
 Mixer par impulsions courtes pour garder un peu de texture. Ne jamais carboniser les aliments ; rechercher une chair rôtie et fumée, non brûlée.
 
-### 13. Romesco — Quotidien
+<a id="r-romesco"></a>
+### Romesco · 🟢 Quotidien
+
+Une sauce catalane aux poivrons rôtis et aux amandes, parfaite avec légumes ou poisson.
 
 **Ingrédients**
 
@@ -313,7 +417,10 @@ Mixer par impulsions courtes pour garder un peu de texture. Ne jamais carboniser
 
 Mixer en V3 pendant 25 à 35 secondes. La sauce doit rester légèrement granuleuse.
 
-### 14. Pesto de basilic — Gourmand
+<a id="r-pesto"></a>
+### Pesto de basilic · 🟠 Gourmand
+
+Une sauce très parfumée à employer en petite quantité sur pâtes, légumes ou tartines.
 
 **Ingrédients**
 
@@ -328,7 +435,10 @@ Mixer en V3 pendant 25 à 35 secondes. La sauce doit rester légèrement granule
 
 Mixer par impulsions courtes, puis 10 à 15 secondes en V2. Arrêter dès que la texture convient afin de limiter l’échauffement. Goûter avant de saler.
 
-### 15. Chimichurri — Quotidien
+<a id="r-chimichurri"></a>
+### Chimichurri · 🟢 Quotidien
+
+Un condiment herbacé et acidulé qui réveille légumes grillés, viandes ou poissons.
 
 **Ingrédients**
 
@@ -343,7 +453,10 @@ Mixer par impulsions courtes, puis 10 à 15 secondes en V2. Arrêter dès que la
 
 Donner 5 à 7 impulsions : le résultat doit rester haché, non réduit en purée.
 
-### 16. Sauce cacahuète et citron vert — Gourmand
+<a id="r-sauce-cacahuete"></a>
+### Sauce cacahuète et citron vert · 🟠 Gourmand
+
+Une sauce crémeuse d’inspiration asiatique pour bols de céréales, légumes ou brochettes.
 
 **Ingrédients**
 
@@ -357,7 +470,10 @@ Donner 5 à 7 impulsions : le résultat doit rester haché, non réduit en puré
 
 Mixer en V3 pendant 30 secondes. Allonger avec un peu d’eau selon l’usage.
 
-### 17. Mayonnaise maison — Gourmand
+<a id="r-mayonnaise"></a>
+### Mayonnaise maison · 🟠 Gourmand
+
+Une émulsion classique à préparer fraîche et à servir sans attendre.
 
 **Ingrédients**
 
@@ -374,7 +490,10 @@ Mixer en V3 pendant 30 secondes. Allonger avec un peu d’eau selon l’usage.
 2. Verser l’huile en filet par l’ouverture en V3, puis V4, jusqu’à émulsion.
 3. Réfrigérer immédiatement et consommer le jour même ; jeter les restes. Pour les personnes vulnérables, utiliser des œufs pasteurisés.
 
-### 18. Sauce tomate rôtie — Quotidien
+<a id="r-sauce-tomate"></a>
+### Sauce tomate rôtie · 🟢 Quotidien
+
+Une sauce polyvalente au goût concentré pour pâtes, légumes, pizza ou gratins.
 
 **Ingrédients**
 
@@ -394,7 +513,10 @@ Rôtir ou mijoter tous les ingrédients, laisser redescendre à 60 °C maximum, 
 
 Pour éviter de développer trop de gluten, mixer juste assez pour incorporer la farine. Les petits grumeaux des pancakes et muffins sont normaux.
 
-### 19. Pâte à crêpes — Gourmand
+<a id="r-crepes"></a>
+### Pâte à crêpes · 🟠 Gourmand
+
+Une pâte rapide et lisse pour un repas salé, un goûter ou un dessert familial.
 
 **Ingrédients**
 
@@ -409,7 +531,10 @@ Pour éviter de développer trop de gluten, mixer juste assez pour incorporer la
 
 Verser le lait, les œufs et la matière grasse, puis ajouter la farine. Mixer 10 secondes en V3 puis 20 secondes en V4. Laisser reposer 30 minutes si possible.
 
-### 20. Blinis au yaourt — Gourmand
+<a id="r-blinis"></a>
+### Blinis au yaourt · 🟠 Gourmand
+
+De petits blinis moelleux à garnir de fromage frais, poisson ou légumes.
 
 **Ingrédients**
 
@@ -423,12 +548,16 @@ Verser le lait, les œufs et la matière grasse, puis ajouter la farine. Mixer 1
 
 Mixer le yaourt et les œufs en V2, ajouter la farine, la levure et le sel, puis mixer 10 à 15 secondes seulement. Cuire sans attendre.
 
-### 21. Pancakes au lait fermenté — Gourmand
+<a id="r-pancakes"></a>
+### Pancakes au yogourt · 🟠 Gourmand
+
+Des pancakes épais et moelleux préparés avec du yogourt nature facile à trouver en Suisse.
 
 **Ingrédients**
 
 - 2 œufs
-- 300 ml de lait fermenté
+- 200 g de yogourt nature
+- 100 ml de lait
 - 220 g de farine
 - 30 g de beurre fondu
 - 20 g de sucre
@@ -439,7 +568,10 @@ Mixer le yaourt et les œufs en V2, ajouter la farine, la levure et le sel, puis
 
 Mixer les liquides en V2. Ajouter les poudres et donner 4 à 5 impulsions courtes. Laisser reposer 10 minutes.
 
-### 22. Gaufres peu sucrées — Gourmand
+<a id="r-gaufres"></a>
+### Gaufres peu sucrées · 🟠 Gourmand
+
+Des gaufres légères en sucre, à compléter de fruits frais plutôt que de nappages très sucrés.
 
 **Ingrédients**
 
@@ -455,7 +587,10 @@ Mixer les liquides en V2. Ajouter les poudres et donner 4 à 5 impulsions courte
 
 Mixer 20 à 30 secondes en V3. Laisser reposer 20 minutes avant cuisson.
 
-### 23. Clafoutis aux fruits — Gourmand
+<a id="r-clafoutis"></a>
+### Clafoutis aux fruits · 🟠 Gourmand
+
+Un dessert simple où une pâte légère met en valeur les fruits de saison.
 
 **Ingrédients**
 
@@ -471,7 +606,10 @@ Mixer 20 à 30 secondes en V3. Laisser reposer 20 minutes avant cuisson.
 
 Mixer l’appareil 30 secondes en V3. Verser sur les fruits dans un plat beurré et cuire environ 35 minutes à 180 °C, selon le four et le fruit.
 
-### 24. Quiche sans pâte aux légumes — Quotidien
+<a id="r-quiche"></a>
+### Quiche sans pâte aux légumes · 🟢 Quotidien
+
+Un plat familial pratique pour associer œufs, lait, fromage et légumes déjà cuits.
 
 **Ingrédients**
 
@@ -486,7 +624,10 @@ Mixer l’appareil 30 secondes en V3. Verser sur les fruits dans un plat beurré
 
 Mixer les cinq premiers ingrédients 25 secondes en V3. Verser sur les légumes et cuire 35 à 45 minutes à 180 °C, jusqu’à prise complète.
 
-### 25. Appareil à muffins — Gourmand
+<a id="r-muffins"></a>
+### Appareil à muffins · 🟠 Gourmand
+
+Une base peu sucrée à personnaliser avec des fruits sans trop travailler la pâte.
 
 **Ingrédients**
 
@@ -507,7 +648,10 @@ Mixer les liquides en V2. Ajouter les poudres et donner 4 à 5 impulsions seulem
 
 ## 7. Petits-déjeuners et boissons
 
-### 26. Smoothie vert doux — Quotidien
+<a id="r-smoothie-vert"></a>
+### Smoothie vert doux · 🟢 Quotidien
+
+Un smoothie frais et végétal dont la banane adoucit naturellement les épinards.
 
 **Ingrédients**
 
@@ -523,7 +667,10 @@ Mixer les liquides en V2. Ajouter les poudres et donner 4 à 5 impulsions seulem
 
 Lancer `SMOOTHIE`. Le mixage conserve l’essentiel des fibres présentes dans les ingrédients, mais ne transforme pas la boisson en équivalent parfait d’un fruit entier. Ne pas mixer les trognons ni les pépins de pomme.
 
-### 27. Smoothie fruits rouges, avoine et yaourt — Quotidien
+<a id="r-smoothie-fruits-rouges"></a>
+### Smoothie fruits rouges, avoine et yaourt · 🟢 Quotidien
+
+Une boisson épaisse et rassasiante, adaptée au petit-déjeuner ou au goûter.
 
 **Ingrédients**
 
@@ -537,7 +684,10 @@ Lancer `SMOOTHIE`. Le mixage conserve l’essentiel des fibres présentes dans l
 
 Mettre le liquide et le yaourt en premier, puis le reste. Lancer `SMOOTHIE`. Servir en quatre portions ; aucun sucre ajouté n’est généralement nécessaire.
 
-### 28. Smoothie café, banane et cacao — Gourmand
+<a id="r-smoothie-cafe"></a>
+### Smoothie café, banane et cacao · 🟠 Gourmand
+
+Une boisson glacée énergisante réservée aux adultes amateurs de café.
 
 **Ingrédients**
 
@@ -551,7 +701,10 @@ Mettre le liquide et le yaourt en premier, puis le reste. Lancer `SMOOTHIE`. Ser
 
 Lancer `SMOOTHIE`. Réserver aux adultes et tenir compte de la caféine consommée dans la journée.
 
-### 29. Boisson à l’avoine — Quotidien
+<a id="r-boisson-avoine"></a>
+### Boisson à l’avoine · 🟢 Quotidien
+
+Une boisson végétale maison économique, douce et rapide à filtrer.
 
 **Ingrédients**
 
@@ -564,7 +717,10 @@ Lancer `SMOOTHIE`. Réserver aux adultes et tenir compte de la caféine consomm�
 
 Mixer en V4 pendant 20 à 30 secondes, puis filtrer. Réfrigérer dans un récipient propre et consommer rapidement. Cette boisson maison n’est généralement pas enrichie en calcium, iode ou vitamines comme peuvent l’être certains produits du commerce ; elle ne remplace pas une préparation infantile.
 
-### 30. Boisson aux amandes — Quotidien
+<a id="r-boisson-amandes"></a>
+### Boisson aux amandes · 🟢 Quotidien
+
+Une boisson végétale délicate obtenue avec des amandes trempées puis filtrées.
 
 **Ingrédients**
 
@@ -577,7 +733,10 @@ Mixer en V4 pendant 20 à 30 secondes, puis filtrer. Réfrigérer dans un récip
 
 Jeter l’eau de trempage, rincer les amandes, puis mixer avec l’eau propre en V4 pendant 60 secondes. Filtrer, réfrigérer immédiatement et consommer rapidement. Même remarque nutritionnelle que pour la boisson à l’avoine.
 
-### 31. Lait d’or — Gourmand
+<a id="r-lait-or"></a>
+### Lait d’or · 🟠 Gourmand
+
+Une boisson chaude et épicée aux notes de curcuma, gingembre et cannelle.
 
 **Ingrédients**
 
@@ -591,7 +750,10 @@ Jeter l’eau de trempage, rincer les amandes, puis mixer avec l’eau propre en
 
 Mixer en V1 puis augmenter jusqu’à V4 pendant 30 secondes, sans `PULSE`. Cette boisson est aromatique ; elle ne doit pas être présentée comme un traitement médical.
 
-### 32. Café froid mousseux — Gourmand
+<a id="r-cafe-froid"></a>
+### Café froid mousseux · 🟠 Gourmand
+
+Un café glacé aéré, rafraîchissant et simple, sans prétendre être un véritable nitro.
 
 **Ingrédients**
 
@@ -607,7 +769,10 @@ Mixer en V4 pendant 20 à 30 secondes. Le résultat est un café froid aéré et
 
 ## 8. Desserts et goûters
 
-### 33. Sorbet mangue et citron vert — Quotidien
+<a id="r-sorbet-mangue"></a>
+### Sorbet mangue et citron vert · 🟢 Quotidien
+
+Un dessert minute fruité et acidulé, généralement assez doux sans sucre ajouté.
 
 **Ingrédients**
 
@@ -620,7 +785,10 @@ Mixer en V4 pendant 20 à 30 secondes. Le résultat est un café froid aéré et
 
 Lancer `DESSERT` en utilisant la spatule. Ajouter juste assez d’eau pour entraîner les morceaux. Servir immédiatement.
 
-### 34. Nice cream banane-cacahuète — Gourmand
+<a id="r-nice-cream"></a>
+### Nice cream banane-cacahuète · 🟠 Gourmand
+
+Une glace minute crémeuse où la banane rencontre la richesse de la cacahuète.
 
 **Ingrédients**
 
@@ -633,7 +801,10 @@ Lancer `DESSERT` en utilisant la spatule. Ajouter juste assez d’eau pour entra
 
 Lancer `DESSERT` avec la spatule. La capacité officielle est de 300 g de fruits surgelés ; ne pas mettre 400 ou 500 g en une seule fois.
 
-### 35. Granité café ou citron — Gourmand
+<a id="r-granite"></a>
+### Granité café ou citron · 🟠 Gourmand
+
+Des cristaux glacés et rafraîchissants à parfumer au café ou au citron.
 
 **Ingrédients**
 
@@ -644,7 +815,10 @@ Lancer `DESSERT` avec la spatule. La capacité officielle est de 300 g de fruits
 
 Utiliser `ICE` pour une neige fine. Pour des cristaux plus grossiers, travailler 100 à 150 g à la fois avec de courtes impulsions `PULSE`.
 
-### 36. Mousse chocolat et tofu soyeux — Gourmand
+<a id="r-mousse-chocolat"></a>
+### Mousse chocolat et tofu soyeux · 🟠 Gourmand
+
+Une crème chocolatée ferme et soyeuse, sans œufs ni crème.
 
 **Ingrédients**
 
@@ -657,7 +831,10 @@ Utiliser `ICE` pour une neige fine. Pour des cristaux plus grossiers, travailler
 
 Mixer 30 à 45 secondes en V4, répartir dans quatre ramequins et réfrigérer au moins 3 heures. La texture dépend du tofu et du chocolat : elle sera crémeuse et ferme, pas nécessairement identique à une mousse aux œufs.
 
-### 37. Crème chocolat-noisette — Gourmand
+<a id="r-creme-chocolat"></a>
+### Crème chocolat-noisette · 🟠 Gourmand
+
+Une crème dessert onctueuse au chocolat noir et à la purée de noisette.
 
 **Ingrédients**
 
@@ -673,7 +850,10 @@ Mixer 30 à 45 secondes en V4, répartir dans quatre ramequins et réfrigérer a
 2. Transférer dans une casserole et porter doucement à épaississement en remuant.
 3. Hors du feu, ajouter le chocolat et la purée de noisette. Mélanger au fouet.
 
-### 38. Lemon curd — Gourmand
+<a id="r-lemon-curd"></a>
+### Lemon curd · 🟠 Gourmand
+
+Une crème au citron vive et beurrée pour tartines, crêpes ou fonds de tarte.
 
 **Ingrédients**
 
@@ -687,7 +867,10 @@ Mixer 30 à 45 secondes en V4, répartir dans quatre ramequins et réfrigérer a
 
 Mixer les œufs, le sucre, le jus et les zestes 20 secondes en V3. Cuire en casserole à feu doux en remuant jusqu’à épaississement, sans cesser de surveiller. Hors du feu, incorporer le beurre au fouet. Réfrigérer rapidement dans un récipient propre.
 
-### 39. Pâte à tartiner chocolat-noisette — Gourmand
+<a id="r-pate-tartiner"></a>
+### Pâte à tartiner chocolat-noisette · 🟠 Gourmand
+
+Une pâte maison intense, moins sucrée que de nombreuses versions industrielles.
 
 **Ingrédients**
 
@@ -700,7 +883,10 @@ Mixer les œufs, le sucre, le jus et les zestes 20 secondes en V3. Cuire en cass
 
 Mixer 15 à 20 secondes en V2. L’emploi d’une purée déjà prête évite de faire travailler longuement le moteur avec une masse très dense. Ne pas verser de chocolat à plus de 60 °C.
 
-### 40. Compote pomme-poire — Quotidien
+<a id="r-compote"></a>
+### Compote pomme-poire · 🟢 Quotidien
+
+Une compote douce sans sucre ajouté, à mixer plus ou moins finement selon les goûts.
 
 **Ingrédients**
 
