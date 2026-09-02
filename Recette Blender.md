@@ -4,7 +4,7 @@ Guide familial pour **4 personnes** — cuisine maison, variée, saine et gourma
 
 ## Table des recettes
 
-**Légende :** 🟢 **Quotidien** — à privilégier régulièrement · 🟠 **Gourmand** — à savourer plus occasionnellement.
+**Légende :** 🟢 **Quotidien** — à privilégier régulièrement · 🟠 **Gourmand** — à savourer plus occasionnellement · 🔵 **Endurance** — usage lié à l’entraînement.
 
 ### Soupes et repas légers
 
@@ -78,6 +78,17 @@ Guide familial pour **4 personnes** — cuisine maison, variée, saine et gourma
 | [Compote pomme-poire](#r-compote) | 🟢 |
 | [Frozen yogourt aux fruits rouges](#r-frozen-yogourt) | 🟠 |
 
+### Préparations pour sportifs d’endurance
+
+| Recette | Profil et moment conseillé |
+|---|:---:|
+| [Crème de riz, banane et vanille](#r-creme-riz-sport) | 🟢 🔵 Avant |
+| [Smoothie pré-effort mangue-banane](#r-smoothie-pre-effort) | 🟢 🔵 Avant |
+| [Purée énergétique pomme-banane-érable](#r-puree-energetique) | 🟠 🔵 Pendant |
+| [Smoothie de récupération cacao-banane](#r-smoothie-recuperation) | 🟢 🔵 Après |
+| [Velouté de récupération patate douce, maïs et haricots blancs](#r-veloute-recuperation) | 🟢 🔵 Après |
+| [Shake énergétique avoine, banane et cacahuète](#r-shake-energetique) | 🟠 🔵 Charge élevée |
+
 > [!IMPORTANT]
 > Ce document complète la notice Magimix, mais ne la remplace pas. Les capacités et les règles de sécurité ci-dessous ont été vérifiées le **2 septembre 2026** dans la documentation officielle du Blender Power.
 
@@ -91,8 +102,9 @@ Guide familial pour **4 personnes** — cuisine maison, variée, saine et gourma
 6. [Pâtes et appareils](#6-pâtes-et-appareils)
 7. [Petits-déjeuners et boissons](#7-petits-déjeuners-et-boissons)
 8. [Desserts et goûters](#8-desserts-et-goûters)
-9. [Nettoyage et dépannage](#9-nettoyage-et-dépannage)
-10. [Sources et contrôle de véracité](#10-sources-et-contrôle-de-véracité)
+9. [Préparations pour sportifs d’endurance](#9-préparations-pour-sportifs-dendurance)
+10. [Nettoyage et dépannage](#10-nettoyage-et-dépannage)
+11. [Sources et contrôle de véracité](#11-sources-et-contrôle-de-véracité)
 
 ---
 
@@ -1077,7 +1089,140 @@ Un dessert glacé acidulé et crémeux qui exploite pleinement le programme auto
 
 ---
 
-## 9. Nettoyage et dépannage
+## 9. Préparations pour sportifs d’endurance
+
+Ces recettes donnent **4 portions**, mais une portion sportive n’est jamais une dose universelle : elle dépend du gabarit, de la durée et de l’intensité de l’effort, du délai avant la séance et de la tolérance digestive.
+
+- Tester toute stratégie à l’entraînement avant de l’utiliser en compétition.
+- Pour une séance courte, une alimentation habituelle équilibrée et de l’eau suffisent généralement.
+- Pendant un effort long, répartir les apports plutôt que d’avaler une grande portion d’un coup.
+- Boire selon la soif et le plan testé à l’entraînement ; boire excessivement peut être dangereux.
+- En cas de diabète, de maladie rénale, de troubles digestifs ou de suivi médical, demander un conseil individualisé.
+
+<a id="r-creme-riz-sport"></a>
+### Crème de riz, banane et vanille · 🟢 Quotidien · 🔵 Avant l’effort
+
+Une préparation douce et pauvre en graisse pour faire le plein de glucides avant une longue séance.
+
+**Ingrédients**
+
+- 500 g de riz blanc bien cuit et refroidi
+- 3 bananes mûres
+- 600 ml de boisson au riz ou de lait, selon la tolérance
+- 1 c. à c. d’extrait de vanille
+- Cannelle, facultatif
+- 1 à 2 c. à s. de miel, facultatif selon les besoins
+
+**Préparation**
+
+1. Verser la boisson dans le bol, puis ajouter le riz, les bananes et les arômes.
+2. Mixer en V1 puis en V3 pendant 30 à 45 secondes, jusqu’à obtenir une crème fluide.
+3. Consommer environ 2 à 3 heures avant l’effort, en adaptant la portion à l’appétit et à la tolérance.
+
+<a id="r-smoothie-pre-effort"></a>
+### Smoothie pré-effort mangue-banane · 🟢 Quotidien · 🔵 Avant l’effort
+
+Un smoothie riche en glucides et peu gras pour les jours où un repas solide passe moins bien.
+
+**Ingrédients**
+
+- 400 g de mangue fraîche ou décongelée
+- 3 bananes mûres
+- 600 ml de boisson au riz
+- 200 ml d’eau froide
+- 1 pincée de sel
+- Jus de 1/2 citron vert, facultatif
+
+**Préparation**
+
+1. Verser les liquides dans le bol, puis ajouter les fruits en morceaux.
+2. Lancer `SMOOTHIE` et répartir en quatre portions.
+3. Consommer 1 à 2 heures avant l’effort seulement si cette texture et cette quantité ont déjà été bien tolérées à l’entraînement.
+
+<a id="r-puree-energetique"></a>
+### Purée énergétique pomme-banane-érable · 🟠 Gourmand · 🔵 Pendant l’effort
+
+Une purée souple à transporter en flasque alimentaire pendant une sortie prolongée.
+
+**Ingrédients**
+
+- 600 g de compote de pommes sans sucre ajouté
+- 2 bananes mûres
+- 80 ml de sirop d’érable
+- 30 ml de jus de citron
+- 1 petite pincée de sel, facultative
+
+**Préparation**
+
+1. Mixer tous les ingrédients en V3 pendant 30 secondes.
+2. Répartir dans quatre flasques alimentaires propres et réfrigérer immédiatement.
+3. Transporter au frais et consommer le jour même. Tester d’abord une petite quantité pendant l’entraînement et compléter avec d’autres aliments selon le plan prévu.
+
+<a id="r-smoothie-recuperation"></a>
+### Smoothie de récupération cacao-banane · 🟢 Quotidien · 🔵 Après l’effort
+
+Une grande boisson associant glucides, protéines et liquide après une séance exigeante.
+
+**Ingrédients**
+
+- 4 bananes mûres
+- 600 g de skyr ou de séré maigre nature
+- 400 ml de lait, éventuellement sans lactose
+- 30 g de cacao non sucré
+- 1 à 2 c. à s. de miel, facultatif si la récupération doit être rapide
+- 1 pincée de sel
+
+**Préparation**
+
+1. Verser le lait et le skyr dans le bol, puis ajouter le reste des ingrédients.
+2. Lancer `SMOOTHIE` et répartir en quatre portions.
+3. Consommer après l’effort, particulièrement lorsqu’un repas complet n’est pas prévu rapidement.
+
+<a id="r-veloute-recuperation"></a>
+### Velouté de récupération patate douce, maïs et haricots blancs · 🟢 Quotidien · 🔵 Après l’effort
+
+Un vrai repas liquide réunissant féculent, légumineuses, légumes et bouillon.
+
+**Ingrédients**
+
+- 500 g de patate douce cuite
+- 250 g de grains de maïs cuits
+- 240 g de haricots blancs cuits, rincés et égouttés
+- 450 ml de bouillon
+- 1 c. à s. d’huile d’olive
+- 1/2 c. à c. de paprika fumé
+- Jus de 1/2 citron vert
+- Poivre
+
+**Préparation**
+
+1. Laisser les ingrédients et le bouillon redescendre à 60 °C maximum.
+2. Verser le bouillon dans le bol, ajouter les ingrédients sauf le citron, puis lancer `SOUP`.
+3. Ajouter le citron après mixage. Servir avec du pain si la séance a été longue ou particulièrement exigeante.
+
+<a id="r-shake-energetique"></a>
+### Shake énergétique avoine, banane et cacahuète · 🟠 Gourmand · 🔵 Charge élevée
+
+Une collation dense pour les périodes où le volume d’entraînement rend les besoins difficiles à couvrir.
+
+**Ingrédients**
+
+- 3 bananes mûres
+- 100 g de flocons d’avoine
+- 600 ml de lait ou de boisson au soja
+- 400 g de yogourt nature
+- 80 g de purée de cacahuète sans sucre ajouté
+- Cannelle ou cacao non sucré, facultatif
+
+**Préparation**
+
+1. Verser les liquides dans le bol, puis ajouter les autres ingrédients.
+2. Lancer `SMOOTHIE` et répartir en quatre portions.
+3. Réserver aux journées très actives ou à la récupération ; sa richesse en graisse et en fibres le rend moins adapté juste avant un effort intense.
+
+---
+
+## 10. Nettoyage et dépannage
 
 ### Rinçage immédiat
 
@@ -1110,7 +1255,7 @@ Mettre le sélecteur sur 0, débrancher l’appareil et attendre environ 30 minu
 
 ---
 
-## 10. Sources et contrôle de véracité
+## 11. Sources et contrôle de véracité
 
 ### Sources principales
 
@@ -1118,6 +1263,9 @@ Mettre le sélecteur sur 0, débrancher l’appareil et attendre environ 30 minu
 2. [Magimix — Blender Power 4](https://www.magimix.fr/295-blender-power-3519280116303.html) : puissance de 1 300 W, capacité utile de 1,8 L, bol en verre borosilicate et capacités maximales.
 3. [Santé publique France — Recommandations alimentaires pour les adultes](https://www.mangerbouger.fr/manger-mieux/a-tout-age-et-a-chaque-etape-de-la-vie/les-recommandations-alimentaires-pour-les-adultes) : place des végétaux, légumes secs, fruits à coque, fait maison et limitation des produits gras, sucrés et salés.
 4. [Office fédéral de la sécurité alimentaire suisse — Bactéries dans les aliments](https://www.blv.admin.ch/fr/bacteries-dans-les-aliments) : réfrigérer les préparations à base d’œufs crus, les consommer le jour même et éliminer les restes.
+5. [Academy of Nutrition and Dietetics, Dietitians of Canada et ACSM — Nutrition and Athletic Performance](https://pubmed.ncbi.nlm.nih.gov/26891166/) : adaptation des apports avant, pendant et après l’exercice aux besoins et à la tolérance de l’athlète.
+6. [Comité international olympique — Consensus sur les aliments et compléments sportifs](https://pmc.ncbi.nlm.nih.gov/articles/PMC5867441/) : rôle des aliments riches en glucides et en protéines autour des efforts prolongés.
+7. [Hoffman et Stuempfle — Hydratation pendant l’ultra-endurance](https://pubmed.ncbi.nlm.nih.gov/30601394/) : prévention de la déshydratation comme de la surhydratation et intérêt d’une stratégie individualisée.
 
 ### Principales corrections apportées au document d’origine
 
@@ -1136,4 +1284,4 @@ Mettre le sélecteur sur 0, débrancher l’appareil et attendre environ 30 minu
 
 ### Portée des recettes
 
-Les capacités et les règles d’utilisation sont issues de Magimix. Les recettes de ce guide sont des formulations familiales cohérentes avec ces limites, mais elles ne sont pas toutes des recettes officielles Magimix. Le rendement varie selon la taille, la maturité et la teneur en eau des ingrédients. Goûter, ajuster l’assaisonnement et ne jamais dépasser les repères du bol.
+Les capacités et les règles d’utilisation sont issues de Magimix. Les recettes de ce guide sont des formulations familiales cohérentes avec ces limites, mais elles ne sont pas toutes des recettes officielles Magimix. Le rendement varie selon la taille, la maturité et la teneur en eau des ingrédients. Goûter, ajuster l’assaisonnement et ne jamais dépasser les repères du bol. Les recettes d’endurance donnent des idées alimentaires, pas une prescription : les besoins en énergie, glucides, protéines, eau et sodium sont individuels.
