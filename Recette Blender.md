@@ -18,6 +18,8 @@ Guide familial pour **4 personnes** — cuisine maison, variée, saine et gourma
 | [Gaspacho andalou](#r-gaspacho) | 🟢 |
 | [Soupe froide courgette, chèvre et menthe](#r-soupe-courgette) | 🟢 |
 | [Ajo blanco](#r-ajo-blanco) | 🟠 |
+| [Velouté de petits pois, menthe et citron](#r-veloute-petits-pois) | 🟢 |
+| [Crème de champignons et haricots blancs](#r-creme-champignons) | 🟢 |
 
 ### Tartinades, sauces et accompagnements
 
@@ -32,6 +34,9 @@ Guide familial pour **4 personnes** — cuisine maison, variée, saine et gourma
 | [Sauce cacahuète et citron vert](#r-sauce-cacahuete) | 🟠 |
 | [Mayonnaise maison](#r-mayonnaise) | 🟠 |
 | [Sauce tomate rôtie](#r-sauce-tomate) | 🟢 |
+| [Sauce tomate aux légumes et lentilles](#r-sauce-tomate-lentilles) | 🟢 |
+| [Sauce curry aux noix de cajou](#r-sauce-curry-cajou) | 🟠 |
+| [Crème de poivrons rôtis et féta](#r-creme-poivrons-feta) | 🟠 |
 
 ### Pâtes et appareils
 
@@ -44,6 +49,8 @@ Guide familial pour **4 personnes** — cuisine maison, variée, saine et gourma
 | [Clafoutis aux fruits](#r-clafoutis) | 🟠 |
 | [Quiche sans pâte aux légumes](#r-quiche) | 🟢 |
 | [Appareil à muffins](#r-muffins) | 🟠 |
+| [Galettes de lentilles corail](#r-galettes-lentilles) | 🟢 |
+| [Pancakes banane, avoine et yogourt](#r-pancakes-banane) | 🟢 |
 
 ### Petits-déjeuners et boissons
 
@@ -69,6 +76,7 @@ Guide familial pour **4 personnes** — cuisine maison, variée, saine et gourma
 | [Lemon curd](#r-lemon-curd) | 🟠 |
 | [Pâte à tartiner chocolat-noisette](#r-pate-tartiner) | 🟠 |
 | [Compote pomme-poire](#r-compote) | 🟢 |
+| [Frozen yogourt aux fruits rouges](#r-frozen-yogourt) | 🟠 |
 
 > [!IMPORTANT]
 > Ce document complète la notice Magimix, mais ne la remplace pas. Les capacités et les règles de sécurité ci-dessous ont été vérifiées le **2 septembre 2026** dans la documentation officielle du Blender Power.
@@ -334,6 +342,49 @@ Une soupe froide andalouse riche et soyeuse à base d’amandes et de pain.
 
 Mixer avec `SOUP` ou en V4 pendant 45 à 60 secondes. Réfrigérer et servir en petite portion avec du raisin ou du concombre.
 
+<a id="r-veloute-petits-pois"></a>
+### Velouté de petits pois, menthe et citron · 🟢 Quotidien
+
+Un velouté vert et frais dont le mixage puissant affine la peau des petits pois.
+
+**Ingrédients**
+
+- 600 g de petits pois frais ou surgelés
+- 1 échalote émincée
+- 500 ml de bouillon peu salé
+- 80 g de yogourt nature
+- 12 feuilles de menthe
+- Zeste fin et jus de 1/2 citron
+- 1 c. à s. d’huile d’olive
+- Poivre et sel avec modération
+
+**Préparation**
+
+1. Cuire les petits pois et l’échalote dans le bouillon pendant 8 à 10 minutes, puis laisser redescendre à 60 °C maximum.
+2. Verser le bouillon, les petits pois et la menthe dans le bol, puis lancer `SOUP`.
+3. Ajouter le yogourt, le citron et l’huile, puis mixer 15 secondes en V2. Servir chaud ou froid.
+
+<a id="r-creme-champignons"></a>
+### Crème de champignons et haricots blancs · 🟢 Quotidien
+
+Une soupe très onctueuse où les haricots blancs remplacent avantageusement la crème.
+
+**Ingrédients**
+
+- 600 g de champignons de Paris ou bruns, émincés
+- 240 g de haricots blancs cuits, rincés et égouttés
+- 1 oignon émincé
+- 450 ml de bouillon peu salé
+- 1 c. à s. d’huile d’olive
+- 1 c. à c. de thym
+- Poivre et jus de citron
+
+**Préparation**
+
+1. Faire revenir l’oignon et les champignons dans l’huile jusqu’à évaporation de leur eau, puis ajouter le bouillon et les haricots.
+2. Laisser mijoter 5 minutes et refroidir jusqu’à 60 °C maximum.
+3. Mixer avec `SOUP`, puis relever de poivre et de quelques gouttes de citron.
+
 ---
 
 ## 5. Tartinades, sauces et accompagnements
@@ -507,6 +558,67 @@ Une sauce polyvalente au goût concentré pour pâtes, légumes, pizza ou gratin
 
 Rôtir ou mijoter tous les ingrédients, laisser redescendre à 60 °C maximum, puis mixer en V2 à V4 selon la texture souhaitée. Refaire bouillir en casserole avant une mise en bocaux ; ce guide ne fournit pas de procédé de stérilisation.
 
+<a id="r-sauce-tomate-lentilles"></a>
+### Sauce tomate aux légumes et lentilles · 🟢 Quotidien
+
+Une sauce pour les pâtes, riche en légumes et légumineuses mais parfaitement lisse.
+
+**Ingrédients**
+
+- 700 g de tomates concassées
+- 200 g de lentilles corail cuites
+- 1 courgette d’environ 200 g, coupée en dés
+- 1 carotte coupée en rondelles
+- 1 oignon émincé
+- 1 c. à s. d’huile d’olive
+- 1 c. à c. d’origan ou de basilic séché
+- Poivre et sel avec modération
+
+**Préparation**
+
+1. Faire revenir l’oignon dans l’huile, ajouter les légumes et les tomates, puis mijoter 20 minutes.
+2. Ajouter les lentilles et laisser redescendre à 60 °C maximum.
+3. Mixer avec `SOUP` ou en augmentant progressivement de V1 à V4. Réchauffer en casserole avant de servir.
+
+<a id="r-sauce-curry-cajou"></a>
+### Sauce curry aux noix de cajou · 🟠 Gourmand
+
+Une sauce très lisse et parfumée pour accompagner légumes, tofu, poulet ou riz.
+
+**Ingrédients**
+
+- 150 g de noix de cajou non salées
+- 300 ml d’eau ou de lait de coco léger
+- 1 petit oignon cuit et refroidi
+- 1 c. à s. de pâte de curry ou 2 c. à c. de curry en poudre
+- 10 g de gingembre frais
+- Jus de 1/2 citron vert
+- Sel avec modération
+
+**Préparation**
+
+1. Faire tremper les noix de cajou au réfrigérateur pendant 4 heures, puis les rincer et les égoutter.
+2. Mixer tous les ingrédients en V4 pendant 45 à 60 secondes, avec la spatule si nécessaire.
+3. Verser dans une casserole et laisser frémir 5 minutes avant de servir.
+
+<a id="r-creme-poivrons-feta"></a>
+### Crème de poivrons rôtis et féta · 🟠 Gourmand
+
+Une sauce colorée, douce et salée à servir avec pâtes, légumes ou pain grillé.
+
+**Ingrédients**
+
+- 400 g de poivrons rouges rôtis, pelés et bien égouttés
+- 200 g de féta
+- 80 g de yogourt nature
+- 1 c. à s. d’huile d’olive
+- 1 petite gousse d’ail
+- Paprika fumé et poivre
+
+**Préparation**
+
+Mixer 30 à 40 secondes en V3, avec la spatule si nécessaire. Goûter avant de saler : la féta est déjà très salée.
+
 ---
 
 ## 6. Pâtes et appareils
@@ -643,6 +755,51 @@ Une base peu sucrée à personnaliser avec des fruits sans trop travailler la p�
 **Préparation**
 
 Mixer les liquides en V2. Ajouter les poudres et donner 4 à 5 impulsions seulement. Incorporer les fruits à la spatule, hors du blender. Cuire 18 à 22 minutes à 180 °C.
+
+<a id="r-galettes-lentilles"></a>
+### Galettes de lentilles corail · 🟢 Quotidien
+
+Des galettes riches en légumineuses, préparées directement à partir de lentilles trempées.
+
+**Ingrédients**
+
+- 300 g de lentilles corail sèches
+- 180 à 220 ml d’eau
+- 2 c. à s. d’huile d’olive, plus un peu pour la cuisson
+- 1 c. à c. de cumin
+- 1/2 c. à c. de paprika fumé
+- 1 petite gousse d’ail
+- 2 c. à s. de persil ou de coriandre haché
+- 1/2 c. à c. de sel
+
+**Préparation**
+
+1. Faire tremper les lentilles dans beaucoup d’eau au réfrigérateur pendant 3 à 4 heures, puis les rincer et les égoutter.
+2. Verser 180 ml d’eau dans le bol, ajouter les lentilles, l’huile, les épices et l’ail, puis mixer de V1 à V4 pendant 45 à 60 secondes avec la spatule.
+3. Ajuster avec un peu d’eau : la pâte doit rester épaisse mais coulante. Incorporer les herbes hors du blender.
+4. Cuire de petites galettes huilées 3 à 4 minutes par face, jusqu’à ce que le centre soit entièrement cuit.
+
+<a id="r-pancakes-banane"></a>
+### Pancakes banane, avoine et yogourt · 🟢 Quotidien
+
+Des pancakes sans sucre ajouté où le blender transforme les flocons en pâte homogène.
+
+**Ingrédients**
+
+- 2 bananes mûres
+- 2 œufs
+- 250 g de yogourt nature
+- 180 g de flocons d’avoine
+- 100 ml de lait
+- 11 g de poudre à lever
+- 1 pincée de sel
+- Cannelle ou vanille, facultatif
+
+**Préparation**
+
+1. Verser le lait, le yogourt et les œufs dans le bol, puis ajouter les bananes et les ingrédients secs.
+2. Mixer 30 à 40 secondes en V3 et laisser reposer 10 minutes pour que l’avoine absorbe le liquide.
+3. Cuire à feu moyen 2 à 3 minutes par face.
 
 ---
 
@@ -898,6 +1055,25 @@ Une compote douce sans sucre ajouté, à mixer plus ou moins finement selon les 
 **Préparation**
 
 Mixer en V1 puis V3, avec la spatule, jusqu’à la texture voulue. Aucun sucre ajouté n’est généralement nécessaire. Procéder en deux fois si le mélange dépasse le repère maximal du bol.
+
+<a id="r-frozen-yogourt"></a>
+### Frozen yogourt aux fruits rouges · 🟠 Gourmand
+
+Un dessert glacé acidulé et crémeux qui exploite pleinement le programme automatique dédié.
+
+**Ingrédients**
+
+- 300 g de fruits rouges surgelés séparés, en morceaux de 2 cm maximum
+- 250 g de yogourt grec nature bien froid
+- 1 à 2 c. à s. de miel ou de sirop d’érable, facultatif
+- 1 c. à s. de jus de citron
+- Vanille, facultatif
+
+**Préparation**
+
+1. Verser le yogourt et le citron dans le bol, puis ajouter les fruits surgelés et le miel éventuel.
+2. Lancer `DESSERT` en utilisant la spatule Magimix.
+3. Servir immédiatement pour une texture souple, ou placer 20 à 30 minutes au congélateur pour la raffermir.
 
 ---
 
