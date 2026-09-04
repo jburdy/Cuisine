@@ -44,7 +44,7 @@ Guide familial pour **4 personnes** — cuisine maison, variée, saine et gourma
 |---|:---:|
 | [Pâte à crêpes](#r-crepes) | 🟠 |
 | [Blinis au yaourt](#r-blinis) | 🟠 |
-| [Pancakes au yogourt](#r-pancakes) | 🟠 |
+| [Pancakes familiaux](#r-pancakes) | 🟠 |
 | [Gaufres peu sucrées](#r-gaufres) | 🟠 |
 | [Clafoutis aux fruits](#r-clafoutis) | 🟠 |
 | [Quiche sans pâte aux légumes](#r-quiche) | 🟢 |
@@ -454,33 +454,32 @@ Une tartinade citronnée inspirée de la recette familiale : une base très liss
 
 *Pour les pois chiches*
 
-- 200 g de pois chiches secs (environ 480 g une fois cuits), ou 480 g de pois chiches déjà cuits
+- 150 g de pois chiches secs
 - Eau pour le trempage et la cuisson
 
-*Pour le tahini maison — ou 80 g de tahini prêt à l’emploi*
+*Pour le tahini maison*
 
-- 60 g de graines de sésame
-- 2 à 3 c. à s. d’huile d’olive
+- 15 g de graines de sésame
+- Huile d’olive, juste assez pour obtenir une pâte
 
 *Pour le mixage, dans cet ordre*
 
-- 80 à 120 ml d’eau de cuisson des pois chiches, refroidie
-- 60 ml de jus de citron
-- Tout le tahini maison obtenu, ou 80 g de tahini prêt à l’emploi
+- Eau de cuisson des pois chiches refroidie, selon la consistance
+- Jus de citron, selon le goût
+- Tout le tahini maison
 - 1 petite gousse d’ail
 
 *Pour la finition*
 
-- 1 c. à c. de cumin
-- Sel avec modération
+- Assaisonnement selon le goût
 
 **Préparation**
 
-1. Avec des pois chiches secs, les faire tremper 12 heures au réfrigérateur, les rincer, puis les cuire dans une eau propre jusqu’à ce qu’ils soient très tendres. Réserver 120 ml d’eau de cuisson et laisser refroidir. Avec des pois chiches déjà cuits, utiliser de l’eau froide à la place.
-2. Pour un tahini maison, griller les graines de sésame à sec jusqu’à ce qu’elles soient bien dorées, sans les brûler. Les laisser refroidir, puis les mixer avec l’huile dans le mini-bol jusqu’à obtenir une pâte. Cette étape peut être remplacée par 80 g de tahini prêt à l’emploi.
-3. Retirer la peau d’environ un quart des pois chiches et les réserver. Verser 80 ml d’eau de cuisson refroidie, le jus de citron, le tahini et l’ail dans le grand bol. Ajouter le reste des pois chiches, puis mixer 20 secondes en V3 et jusqu’à 40 secondes en V4, avec la spatule si nécessaire.
-4. Ajuster la texture avec un peu d’eau de cuisson. Ajouter les pois chiches pelés réservés et donner 2 à 4 impulsions courtes pour les écraser grossièrement sans les réduire en purée.
-5. Couvrir et laisser reposer 24 heures au réfrigérateur. Ajouter le cumin, goûter, puis saler et rectifier le citron si nécessaire.
+1. Faire tremper les pois chiches 12 heures au réfrigérateur, les rincer, puis les cuire dans une eau propre jusqu’à ce qu’ils soient très tendres. Garder l’eau de cuisson et laisser refroidir.
+2. Griller fortement les graines de sésame à sec, sans les brûler. Les laisser refroidir, puis les mixer avec juste assez d’huile d’olive dans le mini-bol pour obtenir un tahini.
+3. Retirer la peau du plus grand nombre possible de pois chiches et réserver ceux qui sont pelés. Verser un peu d’eau de cuisson refroidie, le jus de citron, le tahini et l’ail dans le grand bol. Ajouter les pois chiches non pelés, puis mixer 20 secondes en V3 et jusqu’à 40 secondes en V4, avec la spatule si nécessaire. Ajouter progressivement de l’eau de cuisson jusqu’à la consistance souhaitée.
+4. Ajouter les pois chiches pelés réservés et donner 2 à 4 impulsions courtes pour les écraser grossièrement sans les réduire en purée.
+5. Couvrir et laisser reposer 24 heures au réfrigérateur, puis goûter et assaisonner si nécessaire.
 
 <a id="r-tartinade-haricots"></a>
 ### Tartinade de haricots blancs au romarin
@@ -545,16 +544,20 @@ Une sauce très parfumée à employer en petite quantité sur pâtes, légumes o
 
 **Ingrédients**
 
+*À griller*
+
+- 50 g de pignons
+
+*Pour le mixage*
+
 - 120 ml d’huile d’olive
-- 50 g de pignons ou de noix
-- 1 petite gousse d’ail
 - 60 g de parmesan râpé
-- Poivre
 - 80 g de feuilles de basilic lavées et bien séchées
 
 **Préparation**
 
-Mixer par impulsions courtes, puis 10 à 15 secondes en V2. Arrêter dès que la texture convient afin de limiter l’échauffement. Goûter avant de saler.
+1. Griller les pignons à sec, puis les laisser refroidir.
+2. Verser l’huile dans le bol, puis ajouter les pignons, le parmesan et le basilic. Mixer par impulsions courtes, puis 10 à 15 secondes en V2. Arrêter dès que la texture convient afin de limiter l’échauffement.
 
 <a id="r-chimichurri"></a>
 ### Chimichurri
@@ -712,16 +715,16 @@ Une pâte rapide et lisse pour un repas salé, un goûter ou un dessert familial
 
 **Ingrédients**
 
-- 500 ml de lait
-- 4 œufs
-- 30 g de beurre fondu ou 2 c. à s. d’huile neutre
-- 250 g de farine, blanche ou semi-complète
-- 1 pincée de sel
-- Vanille ou zeste d’orange, facultatif
+- 500 ml d’un mélange de lait et d’eau
+- 5 œufs
+- 1 c. à s. d’huile neutre
+- 40 g de beurre fondu
+- 300 g de farine
+- 1 c. à s. de sucre
 
 **Préparation**
 
-Verser le lait, les œufs et la matière grasse, puis ajouter la farine. Mixer 10 secondes en V3 puis 20 secondes en V4. Laisser reposer 30 minutes si possible.
+Verser le mélange de lait et d’eau, les œufs, l’huile et le beurre fondu dans le bol, puis ajouter la farine et le sucre. Mixer 10 secondes en V3 puis 20 secondes en V4. Cette inversion de l’ordre familial — liquides avant farine — est l’adaptation nécessaire au blender.
 
 <a id="r-blinis"></a>
 ### Blinis au yaourt
@@ -741,24 +744,23 @@ De petits blinis moelleux à garnir de fromage frais, poisson ou légumes.
 Mixer le yaourt et les œufs en V2, ajouter la farine, la levure et le sel, puis mixer 10 à 15 secondes seulement. Cuire sans attendre.
 
 <a id="r-pancakes"></a>
-### Pancakes au yogourt
+### Pancakes familiaux
 
-Des pancakes épais et moelleux préparés avec du yogourt nature facile à trouver en Suisse.
+L’adaptation au blender de la recette familiale éprouvée, pour environ 10 pancakes et 3 personnes.
 
 **Ingrédients**
 
-- 100 ml de lait
-- 200 g de yogourt nature
+- 250 ml de lait
 - 2 œufs
-- 30 g de beurre fondu
-- 220 g de farine
-- 20 g de sucre
-- 11 g de levure chimique
+- 50 g de beurre fondu
+- 185 g de farine
+- 2 c. à c. de levure chimique
+- 2 c. à s. de sucre
 - 1 pincée de sel
 
 **Préparation**
 
-Mixer les liquides en V2. Ajouter les poudres et donner 4 à 5 impulsions courtes. Laisser reposer 10 minutes.
+Verser le lait, les œufs et le beurre fondu dans le bol, puis ajouter la farine, la levure, le sucre et le sel. Mixer en V2, puis donner 4 à 5 impulsions courtes, juste assez pour obtenir une pâte homogène.
 
 <a id="r-gaufres"></a>
 ### Gaufres peu sucrées
