@@ -1024,8 +1024,11 @@ Pour 2-3 litres
 1. Faire macérer 4-6 semaines puis filtrer.
 2. 350 g de sucre, 1 l d’eau, faire bouillir, laisser refroidir, mélanger avec alcool de la macération.
 
-![][image1]
-![][image2]
+**Repère de dilution** : volume d’eau à ajouter = volume d’alcool × (degré initial ÷ degré visé − 1).
+
+- 0,425 l d’alcool à 96 % ramené à 30 % : ajouter environ 0,935 l d’eau.
+- 0,25 l d’alcool à 98 % ramené à 32 % : ajouter environ 0,516 l d’eau.
+
 Un **sirop léger se fait avec 250 g de [sucre](https://fr.wikipedia.org/wiki/Sucre) par litre d'eau**, un sirop concentré peut aller jusqu'à poids pour poids de sucre et d'eau. [https://fr.wikipedia.org/wiki/Sirop]
 
 An ethanol content of **28-32 % is considered optimal for Limoncello** [[http://homedistiller.org/distill/dilute/calc](http://homedistiller.org/distill/dilute/calc)]
@@ -1192,7 +1195,3 @@ beurre !?
 1. Cuire doucement, juste avant que couleur ok, mettre casserole dans eau froide.
 2. Ajouter ⅓ du poids en eau/lait/…
 3. Recuire le tout.
-
-[image1]: images/limoncello-1.png
-
-[image2]: images/limoncello-2.png
