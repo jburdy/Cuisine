@@ -2,7 +2,15 @@
 
 Guide familial pour **4 personnes** — cuisine maison, variée, saine et gourmande.
 
-## Table des recettes
+## Navigation
+
+### Mode d’emploi et repères
+
+- [Repères fiables pour le Blender Power 4](#1-repères-fiables-pour-le-blender-power-4)
+- [Bien utiliser le blender](#2-bien-utiliser-le-blender)
+- [Composer des repas équilibrés](#3-composer-des-repas-équilibrés)
+- [Nettoyage et dépannage](#11-nettoyage-et-dépannage)
+- [Sources et contrôle de véracité](#12-sources-et-contrôle-de-véracité)
 
 **Légende :** 🟢 **Quotidien** — à privilégier régulièrement · 🟠 **Gourmand** — à savourer plus occasionnellement · 🔵 **Endurance** — usage lié à l’entraînement.
 
@@ -101,21 +109,6 @@ Guide familial pour **4 personnes** — cuisine maison, variée, saine et gourma
 
 > [!IMPORTANT]
 > Ce document complète la notice Magimix, mais ne la remplace pas. Les capacités et les règles de sécurité ci-dessous ont été vérifiées le **2 septembre 2026** dans la documentation officielle du Blender Power.
-
-## Sommaire
-
-1. [Repères fiables pour le Blender Power 4](#1-repères-fiables-pour-le-blender-power-4)
-2. [Bien utiliser le blender](#2-bien-utiliser-le-blender)
-3. [Composer des repas équilibrés](#3-composer-des-repas-équilibrés)
-4. [Soupes et repas légers](#4-soupes-et-repas-légers)
-5. [Tartinades, sauces et accompagnements](#5-tartinades-sauces-et-accompagnements)
-6. [Pâtes et appareils](#6-pâtes-et-appareils)
-7. [Petits-déjeuners et boissons](#7-petits-déjeuners-et-boissons)
-8. [Desserts et goûters](#8-desserts-et-goûters)
-9. [Saveurs suisses](#9-saveurs-suisses)
-10. [Préparations pour sportifs d’endurance](#10-préparations-pour-sportifs-dendurance)
-11. [Nettoyage et dépannage](#11-nettoyage-et-dépannage)
-12. [Sources et contrôle de véracité](#12-sources-et-contrôle-de-véracité)
 
 ---
 

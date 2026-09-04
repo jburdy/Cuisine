@@ -2,7 +2,11 @@
 
 Carnet familial — recettes, proportions et repères de cuisine.
 
-## Table des recettes
+## Navigation
+
+### Repères
+
+- [Repères familiaux](#1-reperes-familiaux)
 
 ### Riz
 
@@ -17,7 +21,7 @@ Carnet familial — recettes, proportions et repères de cuisine.
 |---|---|
 | [Focaccia](#focaccia) | [À pâte](#a-pate) |
 | [À pizza](#a-pizza) | [À pizza de blé](#a-pizza-de-ble) |
-| [À crêpes (BBQ)](#a-crepes-bbq) | [À tortillas](#a-tortillas) |
+| [Pâte à crêpes (Blender)](./Recettes_Blender.md#r-crepes) | [À tortillas](#a-tortillas) |
 | [Feuilletée escargot](#feuilletee-escargot) | [Nouilles / Ramen](#nouilles-ramen) |
 
 ### Sauces et jus
@@ -25,7 +29,7 @@ Carnet familial — recettes, proportions et repères de cuisine.
 | Recette | Recette |
 |---|---|
 | [Bouillons](#bouillons) | [Au fromage](#au-fromage) |
-| [Pesto](#pesto) | [Cœur d’artichaut](#coeur-d-artichaut) |
+| [Pesto de basilic (Blender)](./Recettes_Blender.md#r-pesto) | [Cœur d’artichaut](#coeur-d-artichaut) |
 | [Citron](#citron) | [Béarnaise](#bearnaise) |
 | [À la carbonara](#a-la-carbonara) | [Caesar](#caesar) |
 | [Beurre d’ail (BBQ)](#beurre-d-ail-bbq) | [Marinade citron miel thym (BBQ)](#marinade-citron-miel-thym-bbq) |
@@ -84,7 +88,7 @@ Carnet familial — recettes, proportions et repères de cuisine.
 |---|---|
 | [Tartare de tomate](#tartare-de-tomate) | [Sablés olives parmesan](#sables-olives-parmesan) |
 | [Mousse de thon au Mascarpone](#mousse-de-thon-au-mascarpone) | [Gougères](#gougeres) |
-| [Houmous](#houmous) | [Sangria blanche](#sangria-blanche) |
+| [Houmous crémeux (Blender)](./Recettes_Blender.md#r-houmous) | [Sangria blanche](#sangria-blanche) |
 | [Thin oatcakes](#thin-oatcakes) | [Encas énergie](#encas-energie) |
 | [Poivron façon Peperoni con bagna caoda](#poivron-facon-peperoni-con-bagna-caoda) | [Citrons confits](#citrons-confits) |
 | [Limoncello](#limoncello) |  |
@@ -94,25 +98,10 @@ Carnet familial — recettes, proportions et repères de cuisine.
 | Recette | Recette |
 |---|---|
 | [Choux](#choux) | [Gelée au thé](#gelee-au-the) |
-| [Pancakes](#pancakes) | [Panna Cotta](#panna-cotta) |
+| [Pancakes familiaux (Blender)](./Recettes_Blender.md#r-pancakes) | [Panna Cotta](#panna-cotta) |
 | [Fondants au chocolat noir](#fondants-au-chocolat-noir) | [Mousse au choc au siphon](#mousse-au-choc-au-siphon) |
 | [Crumble pommes](#crumble-pommes) | [Riz au lait](#riz-au-lait) |
 | [Flan pâtissier sans pâte](#flan-patissier-sans-pate) | [Caramel liquide](#caramel-liquide) |
-
-## Sommaire
-
-1. [Repères familiaux](#1-reperes-familiaux)
-2. [Riz](#2-riz)
-3. [Pâtes et préparations de base](#3-pates-et-preparations-de-base)
-4. [Sauces et jus](#4-sauces-et-jus)
-5. [Pains et accompagnements](#5-pains-et-accompagnements)
-6. [Soupes](#6-soupes)
-7. [Volailles](#7-volailles)
-8. [Plats principaux](#8-plats-principaux)
-9. [Terrines](#9-terrines)
-10. [Cakes salés](#10-cakes-sales)
-11. [Apéritifs](#11-aperitifs)
-12. [Desserts](#12-desserts)
 
 ---
 
@@ -285,23 +274,6 @@ Pour 100 g de riz,
 
 1. Faire bouillir l’eau salée, verser la semoule en remuant...
 
-<a id="a-crepes-bbq"></a>
-### À crêpes (BBQ)
-
-*rectifiée le 26.05.2013 pour faire un mix avec cette de CM. Quantité OK pour famille.*
-
-**Ingrédients**
-
-- **300 g de farine**
-- **5 œufs**
-- **1 c. à s. sucre**
-- **1 c. à s. huile**
-- **40 g beurre fondu**
-
-**Préparation**
-
-1. Mélanger en ajoutant progressivement **5 dl de liquide** (lait-eau).
-
 <a id="a-tortillas"></a>
 ### À tortillas
 
@@ -372,13 +344,6 @@ Pour 2 œufs ⅛ cup soja et ⅛ cup mirin → 12 h - Cuisson 5-6 min
 **Préparation**
 
 1. Dissoudre le citrate dans l’eau froide puis faire bouillir. Ajouter petit à petit le fromage en mixant (mixeur plongeur).
-
-<a id="pesto"></a>
-### Pesto
-
-**Préparation**
-
-1. Griller 50 g de pignons, parmesan, basilic, huile d’olive.
 
 <a id="coeur-d-artichaut"></a>
 ### Cœur d’artichaut
@@ -937,16 +902,6 @@ Mascarpone/œuf pour la farce fine, génial...
 
 Four à 220 °C, ébullition 100 g de beurre et 2.5 dl d’eau, 150 g de farine d’un coup, couper le feu, bien sécher (sur le feu), quand pâte ok,  ajouter 4-5 œuf un par un... poivrer/saler ajouter 150 g de fromage, 30 min au four, laisser refroidir porte ouverte.
 
-<a id="houmous"></a>
-### Houmous
-
-**Préparation**
-
-1. Griller fortement des graine de sésame (15 g)  puis les mixer avec de l’huile d’olive (tahiné). Faire tremper longtemps les pois-chiche (150 g), rincer l’eau puis faire cuire longtemps.
-2. Garder l’eau de cuisson, enlever la peau d’un max de pois, puis mixer les autres en ajoutant ce qu’il faut de jus de cuisson et le tahiné, jus de citron et une gousse d’ail.
-3. Ajouter les pois sans peau et écraser grossièrement.
-4. Laisser reposer 24 h puis assaisonner si besoin.
-
 <a id="sangria-blanche"></a>
 ### Sangria blanche
 
@@ -1057,22 +1012,6 @@ An ethanol content of **28-32 % is considered optimal for Limoncello** [[http://
 
 1. Faire bouillir puis laisser refroidir jusqu'à température d’infusion.
 2. Ajouter le thé et laisser infuser jusqu'à passer sous les 50 °C mettre dans moule.
-
-<a id="pancakes"></a>
-### Pancakes
-
-Pour 3 personnes :
-
-**Ingrédients**
-
-- Pour 10 pancakes
-- 185 g de [farine](http://cuisine.journaldesfemmes.com/encyclopedie/fiche_composant/289/farine.shtml)
-- 2 cuillères à café de levure chimique
-- 2 cuillères à soupe [sucre](http://cuisine.journaldesfemmes.com/encyclopedie/fiche_composant/285/sucre.shtml) en poudre
-- 1 pincée de [sel](http://cuisine.journaldesfemmes.com/encyclopedie/fiche_composant/284/sel.shtml)
-- 2 [œufs](http://cuisine.journaldesfemmes.com/encyclopedie/fiche_composant/226/oeuf.shtml)
-- 250 ml [lait](http://cuisine.journaldesfemmes.com/encyclopedie/fiche_composant/286/lait.shtml)
-- 50 g de [beurre](http://cuisine.journaldesfemmes.com/encyclopedie/fiche_composant/287/beurre.shtml) fondu
 
 <a id="panna-cotta"></a>
 ### Panna Cotta
