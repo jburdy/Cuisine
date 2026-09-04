@@ -169,6 +169,8 @@ Ces indications pratiques ne sont pas des capacités minimales officielles.
 4. Fruits et légumes frais.
 5. Ingrédients collants ou surgelés : banane, avocat, miel, glaçons.
 
+Dans les recettes ci-dessous, les ingrédients sont présentés dans leur ordre d’utilisation. Lorsqu’une recette comporte plusieurs opérations distinctes, ils sont regroupés par étape.
+
 Couper les ingrédients en morceaux d’environ **2 cm**. Pour une préparation épaisse, commencer lentement et utiliser uniquement la spatule fournie, couvercle en place. Si les lames se bloquent, arrêter et débrancher l’appareil avant d’intervenir.
 
 ### Choisir le bon réglage
@@ -226,16 +228,23 @@ Une base souple pour transformer les légumes disponibles en soupe familiale onc
 
 **Ingrédients**
 
+*Pour le premier mixage*
+
+- 450 ml de bouillon peu salé
+- 1 c. à s. d’huile d’olive, facultatif
 - 750 g de légumes cuits : carotte, courge, poireau, courgette ou brocoli
-- 450 à 550 ml de bouillon peu salé
-- 1 c. à s. d’huile d’olive ou 30 g de fromage frais
 - Poivre, herbes et épices au choix
+
+*Après le premier mixage*
+
+- Jusqu’à 100 ml de bouillon supplémentaire, si nécessaire
+- 30 g de fromage frais à la place de l’huile, facultatif
 
 **Préparation**
 
-1. Verser 450 ml de bouillon, puis ajouter les légumes et l’assaisonnement.
+1. Verser 450 ml de bouillon et l’huile éventuelle, puis ajouter les légumes et l’assaisonnement.
 2. Lancer `SOUP`.
-3. Ajouter un peu de bouillon si nécessaire et mixer brièvement en vitesse lente.
+3. Ajouter un peu de bouillon si nécessaire ou le fromage frais éventuel, puis mixer brièvement en vitesse lente.
 
 <a id="r-potimarron-chataignes"></a>
 ### Potimarron et châtaignes
@@ -244,10 +253,10 @@ Un velouté automnal doux et généreux, relevé de muscade.
 
 **Ingrédients**
 
-- 650 g de potimarron rôti ou cuit, peau tendre comprise
-- 120 g de châtaignes cuites
 - 400 ml de bouillon
 - 50 ml de crème légère ou 1 c. à s. d’huile d’olive
+- 120 g de châtaignes cuites
+- 650 g de potimarron rôti ou cuit, peau tendre comprise
 - Muscade et poivre
 
 **Préparation**
@@ -261,10 +270,15 @@ Une soupe veloutée aux notes chaudes, fraîches et légèrement exotiques.
 
 **Ingrédients**
 
-- 650 g de courge butternut cuite
+*Pour le mixage*
+
 - 250 ml de lait de coco
 - 300 ml de bouillon
 - 10 g de gingembre frais râpé
+- 650 g de courge butternut cuite
+
+*Après le mixage*
+
 - Jus de 1/2 citron vert
 
 **Préparation**
@@ -278,15 +292,21 @@ Les haricots blancs rendent ce velouté nourrissant et crémeux sans excès de c
 
 **Ingrédients**
 
-- 600 g de chou-fleur cuit
-- 240 g de haricots blancs cuits et rincés
+*Pour le mixage*
+
 - 450 ml de bouillon
 - 1 c. à s. d’huile d’olive
-- Muscade, poivre et jus de citron
+- 600 g de chou-fleur cuit
+- 240 g de haricots blancs cuits et rincés
+- Muscade et poivre
+
+*Après le mixage*
+
+- Jus de citron
 
 **Préparation**
 
-Mixer avec `SOUP`. Les haricots apportent du corps, des fibres et des protéines végétales sans nécessiter beaucoup de crème.
+Mixer les ingrédients du premier groupe avec `SOUP`, puis ajouter le jus de citron. Les haricots apportent du corps, des fibres et des protéines végétales sans nécessiter beaucoup de crème.
 
 <a id="r-lentilles-corail"></a>
 ### Lentilles corail, tomate et cumin
@@ -295,12 +315,12 @@ Une soupe complète et parfumée qui met les légumineuses au menu simplement.
 
 **Ingrédients**
 
-- 300 g de lentilles corail cuites
-- 400 g de tomates concassées cuites
 - 350 ml de bouillon
-- 1 petite carotte cuite
-- 1 c. à c. de cumin
 - 1 c. à s. d’huile d’olive
+- 400 g de tomates concassées cuites
+- 1 petite carotte cuite
+- 300 g de lentilles corail cuites
+- 1 c. à c. de cumin
 
 **Préparation**
 
@@ -313,18 +333,18 @@ Une soupe froide vive et rafraîchissante pour profiter des tomates bien mûres.
 
 **Ingrédients**
 
+- 20 ml de vinaigre de Xérès
+- 40 ml d’huile d’olive
+- 1 petite gousse d’ail dégermée
+- 40 g de pain rassis
 - 900 g de tomates très mûres
 - 120 g de concombre
 - 100 g de poivron rouge
-- 40 g de pain rassis
-- 1 petite gousse d’ail dégermée
-- 40 ml d’huile d’olive
-- 20 ml de vinaigre de Xérès
 - Sel avec modération
 
 **Préparation**
 
-1. Mettre les ingrédients dans l’ordre conseillé.
+1. Mettre les ingrédients dans le bol dans l’ordre de la liste.
 2. Lancer `SOUP` ou `SMOOTHIE` pour une texture très fine.
 3. Réfrigérer au moins 2 heures. Ajuster avec un peu d’eau froide si nécessaire.
 
@@ -335,11 +355,11 @@ Une entrée estivale fraîche où le chèvre apporte juste assez d’onctuosité
 
 **Ingrédients**
 
+- 200 ml d’eau de cuisson froide
+- 1 c. à s. d’huile d’olive
+- 15 feuilles de menthe
 - 700 g de courgettes cuites et complètement refroidies
 - 120 g de chèvre frais
-- 200 ml d’eau de cuisson froide
-- 15 feuilles de menthe
-- 1 c. à s. d’huile d’olive
 - Poivre
 
 **Préparation**
@@ -353,12 +373,12 @@ Une soupe froide andalouse riche et soyeuse à base d’amandes et de pain.
 
 **Ingrédients**
 
-- 180 g d’amandes mondées
-- 80 g de mie de pain trempée puis essorée
-- 1 petite gousse d’ail dégermée
-- 70 ml d’huile d’olive
-- 25 ml de vinaigre de Xérès
 - 500 ml d’eau glacée
+- 25 ml de vinaigre de Xérès
+- 70 ml d’huile d’olive
+- 180 g d’amandes mondées
+- 1 petite gousse d’ail dégermée
+- 80 g de mie de pain trempée puis essorée
 - Sel
 
 **Préparation**
@@ -372,11 +392,16 @@ Un velouté vert et frais dont le mixage puissant affine la peau des petits pois
 
 **Ingrédients**
 
+*Pour la cuisson*
+
+- 500 ml de bouillon peu salé
 - 600 g de petits pois frais ou surgelés
 - 1 échalote émincée
-- 500 ml de bouillon peu salé
-- 80 g de yogourt nature
+
+*Pour le mixage et la finition*
+
 - 12 feuilles de menthe
+- 80 g de yogourt nature
 - Zeste fin et jus de 1/2 citron
 - 1 c. à s. d’huile d’olive
 - Poivre et sel avec modération
@@ -394,17 +419,23 @@ Une soupe très onctueuse où les haricots blancs remplacent avantageusement la 
 
 **Ingrédients**
 
-- 600 g de champignons de Paris ou bruns, émincés
-- 240 g de haricots blancs cuits, rincés et égouttés
-- 1 oignon émincé
-- 450 ml de bouillon peu salé
+*Pour la cuisson et le mixage*
+
 - 1 c. à s. d’huile d’olive
+- 1 oignon émincé
+- 600 g de champignons de Paris ou bruns, émincés
 - 1 c. à c. de thym
-- Poivre et jus de citron
+- 450 ml de bouillon peu salé
+- 240 g de haricots blancs cuits, rincés et égouttés
+
+*Après le mixage*
+
+- Poivre
+- Jus de citron
 
 **Préparation**
 
-1. Faire revenir l’oignon et les champignons dans l’huile jusqu’à évaporation de leur eau, puis ajouter le bouillon et les haricots.
+1. Faire revenir l’oignon et les champignons dans l’huile jusqu’à évaporation de leur eau, puis ajouter le thym, le bouillon et les haricots.
 2. Laisser mijoter 5 minutes et refroidir jusqu’à 60 °C maximum.
 3. Mixer avec `SOUP`, puis relever de poivre et de quelques gouttes de citron.
 
@@ -417,23 +448,39 @@ Les sauces sont volontairement proposées en quantités compatibles avec le gran
 <a id="r-houmous"></a>
 ### Houmous crémeux
 
-Une tartinade de pois chiches citronnée, idéale avec des crudités et du pain complet.
+Une tartinade citronnée inspirée de la recette familiale : une base très lisse, quelques pois chiches écrasés plus grossièrement et un repos qui arrondit les saveurs.
 
 **Ingrédients**
 
-- 480 g de pois chiches cuits, rincés et égouttés
-- 80 g de tahini
+*Pour les pois chiches*
+
+- 200 g de pois chiches secs (environ 480 g une fois cuits), ou 480 g de pois chiches déjà cuits
+- Eau pour le trempage et la cuisson
+
+*Pour le tahini maison — ou 80 g de tahini prêt à l’emploi*
+
+- 60 g de graines de sésame
+- 2 à 3 c. à s. d’huile d’olive
+
+*Pour le mixage, dans cet ordre*
+
+- 80 à 120 ml d’eau de cuisson des pois chiches, refroidie
 - 60 ml de jus de citron
-- 80 à 120 ml d’eau glacée
+- Tout le tahini maison obtenu, ou 80 g de tahini prêt à l’emploi
 - 1 petite gousse d’ail
+
+*Pour la finition*
+
 - 1 c. à c. de cumin
 - Sel avec modération
 
 **Préparation**
 
-1. Mixer le tahini, le citron et 80 ml d’eau en V3 pendant 20 secondes.
-2. Ajouter le reste et mixer en V3, puis V4, sans dépasser 60 secondes en continu.
-3. Utiliser la spatule et ajouter un peu d’eau si nécessaire.
+1. Avec des pois chiches secs, les faire tremper 12 heures au réfrigérateur, les rincer, puis les cuire dans une eau propre jusqu’à ce qu’ils soient très tendres. Réserver 120 ml d’eau de cuisson et laisser refroidir. Avec des pois chiches déjà cuits, utiliser de l’eau froide à la place.
+2. Pour un tahini maison, griller les graines de sésame à sec jusqu’à ce qu’elles soient bien dorées, sans les brûler. Les laisser refroidir, puis les mixer avec l’huile dans le mini-bol jusqu’à obtenir une pâte. Cette étape peut être remplacée par 80 g de tahini prêt à l’emploi.
+3. Retirer la peau d’environ un quart des pois chiches et les réserver. Verser 80 ml d’eau de cuisson refroidie, le jus de citron, le tahini et l’ail dans le grand bol. Ajouter le reste des pois chiches, puis mixer 20 secondes en V3 et jusqu’à 40 secondes en V4, avec la spatule si nécessaire.
+4. Ajuster la texture avec un peu d’eau de cuisson. Ajouter les pois chiches pelés réservés et donner 2 à 4 impulsions courtes pour les écraser grossièrement sans les réduire en purée.
+5. Couvrir et laisser reposer 24 heures au réfrigérateur. Ajouter le cumin, goûter, puis saler et rectifier le citron si nécessaire.
 
 <a id="r-tartinade-haricots"></a>
 ### Tartinade de haricots blancs au romarin
@@ -442,12 +489,12 @@ Une alternative douce au houmous, fraîche et riche en légumineuses.
 
 **Ingrédients**
 
-- 480 g de haricots blancs cuits, rincés et égouttés
-- 40 ml d’huile d’olive
 - 50 ml d’eau
 - Jus de 1 citron
+- 40 ml d’huile d’olive
 - 1 petite gousse d’ail
 - 1 c. à c. de romarin haché
+- 480 g de haricots blancs cuits, rincés et égouttés
 - Poivre
 
 **Préparation**
@@ -461,12 +508,12 @@ Une crème d’aubergine rôtie au goût fumé, citronné et légèrement relev�
 
 **Ingrédients**
 
+- 35 ml de jus de citron
+- 1 c. à s. d’huile d’olive
+- 1 petite gousse d’ail
+- Cumin, paprika fumé et sel
 - 500 g de chair d’aubergine rôtie et refroidie
 - 50 g de tahini
-- 35 ml de jus de citron
-- 1 petite gousse d’ail
-- 1 c. à s. d’huile d’olive
-- Cumin, paprika fumé et sel
 
 **Préparation**
 
@@ -479,13 +526,13 @@ Une sauce catalane aux poivrons rôtis et aux amandes, parfaite avec légumes ou
 
 **Ingrédients**
 
-- 2 poivrons rouges rôtis et pelés
+- 30 ml de vinaigre de Xérès
+- 80 ml d’huile d’olive
 - 80 g d’amandes ou de noisettes grillées
 - 40 g de pain grillé
 - 1 petite gousse d’ail
-- 30 ml de vinaigre de Xérès
-- 80 ml d’huile d’olive
 - 1 c. à c. de paprika fumé
+- 2 poivrons rouges rôtis et pelés
 
 **Préparation**
 
@@ -498,12 +545,12 @@ Une sauce très parfumée à employer en petite quantité sur pâtes, légumes o
 
 **Ingrédients**
 
-- 80 g de feuilles de basilic lavées et bien séchées
-- 50 g de pignons ou de noix
-- 60 g de parmesan râpé
-- 1 petite gousse d’ail
 - 120 ml d’huile d’olive
+- 50 g de pignons ou de noix
+- 1 petite gousse d’ail
+- 60 g de parmesan râpé
 - Poivre
+- 80 g de feuilles de basilic lavées et bien séchées
 
 **Préparation**
 
@@ -516,12 +563,12 @@ Un condiment herbacé et acidulé qui réveille légumes grillés, viandes ou po
 
 **Ingrédients**
 
-- 2 bouquets de persil plat, feuilles et tiges tendres
-- 2 gousses d’ail
-- 1 c. à s. d’origan séché
 - 150 ml d’huile d’olive
 - 50 ml de vinaigre de vin rouge
+- 1 c. à s. d’origan séché
 - Piment, sel et poivre
+- 2 gousses d’ail
+- 2 bouquets de persil plat, feuilles et tiges tendres
 
 **Préparation**
 
@@ -534,11 +581,11 @@ Une sauce crémeuse d’inspiration asiatique pour bols de céréales, légumes 
 
 **Ingrédients**
 
-- 180 g de purée de cacahuète sans sucre ajouté
 - 200 ml de lait de coco léger ou d’eau chaude redescendue sous 60 °C
 - 30 ml de sauce soja réduite en sel
 - 30 ml de jus de citron vert
 - Gingembre et piment au goût
+- 180 g de purée de cacahuète sans sucre ajouté
 
 **Préparation**
 
@@ -551,16 +598,21 @@ Une émulsion classique à préparer fraîche et à servir sans attendre.
 
 **Ingrédients**
 
+*Pour la base*
+
 - 1 œuf entier très frais ou pasteurisé
 - 1 jaune d’œuf très frais ou pasteurisé
 - 1 c. à s. de moutarde
 - 1 c. à s. de jus de citron ou de vinaigre
-- 250 ml d’huile neutre
 - Sel et poivre
+
+*Pour l’émulsion*
+
+- 250 ml d’huile neutre
 
 **Préparation**
 
-1. Mixer l’œuf, le jaune, la moutarde et l’acide en V2 pendant 10 secondes.
+1. Mixer l’œuf, le jaune, la moutarde, l’acide et l’assaisonnement en V2 pendant 10 secondes.
 2. Verser l’huile en filet par l’ouverture en V3, puis V4, jusqu’à émulsion.
 3. Réfrigérer immédiatement et consommer le jour même ; jeter les restes. Pour les personnes vulnérables, utiliser des œufs pasteurisés.
 
@@ -571,10 +623,10 @@ Une sauce polyvalente au goût concentré pour pâtes, légumes, pizza ou gratin
 
 **Ingrédients**
 
-- 1 kg de tomates ou 800 g de tomates en boîte
+- 2 c. à s. d’huile d’olive
 - 1 oignon
 - 2 gousses d’ail
-- 2 c. à s. d’huile d’olive
+- 1 kg de tomates ou 800 g de tomates en boîte
 - Herbes de Provence, poivre et sel
 
 **Préparation**
@@ -588,13 +640,13 @@ Une sauce pour les pâtes, riche en légumes et légumineuses mais parfaitement 
 
 **Ingrédients**
 
-- 700 g de tomates concassées
-- 200 g de lentilles corail cuites
+- 1 c. à s. d’huile d’olive
+- 1 oignon émincé
 - 1 courgette d’environ 200 g, coupée en dés
 - 1 carotte coupée en rondelles
-- 1 oignon émincé
-- 1 c. à s. d’huile d’olive
+- 700 g de tomates concassées
 - 1 c. à c. d’origan ou de basilic séché
+- 200 g de lentilles corail cuites
 - Poivre et sel avec modération
 
 **Préparation**
@@ -610,18 +662,23 @@ Une sauce très lisse et parfumée pour accompagner légumes, tofu, poulet ou ri
 
 **Ingrédients**
 
+*Pour le trempage*
+
 - 150 g de noix de cajou non salées
+
+*Pour le mixage, dans cet ordre*
+
 - 300 ml d’eau ou de lait de coco léger
-- 1 petit oignon cuit et refroidi
-- 1 c. à s. de pâte de curry ou 2 c. à c. de curry en poudre
-- 10 g de gingembre frais
 - Jus de 1/2 citron vert
+- 1 c. à s. de pâte de curry ou 2 c. à c. de curry en poudre
 - Sel avec modération
+- 10 g de gingembre frais
+- 1 petit oignon cuit et refroidi
 
 **Préparation**
 
 1. Faire tremper les noix de cajou au réfrigérateur pendant 4 heures, puis les rincer et les égoutter.
-2. Mixer tous les ingrédients en V4 pendant 45 à 60 secondes, avec la spatule si nécessaire.
+2. Mettre les ingrédients de mixage dans le bol dans l’ordre indiqué, ajouter les noix de cajou, puis mixer en V4 pendant 45 à 60 secondes, avec la spatule si nécessaire.
 3. Verser dans une casserole et laisser frémir 5 minutes avant de servir.
 
 <a id="r-creme-poivrons-feta"></a>
@@ -631,12 +688,12 @@ Une sauce colorée, douce et salée à servir avec pâtes, légumes ou pain gril
 
 **Ingrédients**
 
-- 400 g de poivrons rouges rôtis, pelés et bien égouttés
-- 200 g de féta
 - 80 g de yogourt nature
 - 1 c. à s. d’huile d’olive
 - 1 petite gousse d’ail
 - Paprika fumé et poivre
+- 400 g de poivrons rouges rôtis, pelés et bien égouttés
+- 200 g de féta
 
 **Préparation**
 
@@ -655,10 +712,10 @@ Une pâte rapide et lisse pour un repas salé, un goûter ou un dessert familial
 
 **Ingrédients**
 
-- 4 œufs
 - 500 ml de lait
-- 250 g de farine, blanche ou semi-complète
+- 4 œufs
 - 30 g de beurre fondu ou 2 c. à s. d’huile neutre
+- 250 g de farine, blanche ou semi-complète
 - 1 pincée de sel
 - Vanille ou zeste d’orange, facultatif
 
@@ -690,11 +747,11 @@ Des pancakes épais et moelleux préparés avec du yogourt nature facile à trou
 
 **Ingrédients**
 
-- 2 œufs
-- 200 g de yogourt nature
 - 100 ml de lait
-- 220 g de farine
+- 200 g de yogourt nature
+- 2 œufs
 - 30 g de beurre fondu
+- 220 g de farine
 - 20 g de sucre
 - 11 g de levure chimique
 - 1 pincée de sel
@@ -710,17 +767,17 @@ Des gaufres légères en sucre, à compléter de fruits frais plutôt que de nap
 
 **Ingrédients**
 
-- 3 œufs
 - 400 ml de lait
-- 250 g de farine
+- 3 œufs
 - 70 g de beurre fondu ou 50 ml d’huile neutre
+- 250 g de farine
 - 11 g de levure chimique
 - 15 g de sucre
 - 1 pincée de sel
 
 **Préparation**
 
-Mixer 20 à 30 secondes en V3. Laisser reposer 20 minutes avant cuisson.
+Verser le lait, les œufs et la matière grasse dans le bol, puis ajouter la farine, la levure, le sucre et le sel. Mixer 20 à 30 secondes en V3. Laisser reposer 20 minutes avant cuisson.
 
 <a id="r-clafoutis"></a>
 ### Clafoutis aux fruits
@@ -729,12 +786,17 @@ Un dessert simple où une pâte légère met en valeur les fruits de saison.
 
 **Ingrédients**
 
-- 4 œufs
+*Pour l’appareil*
+
 - 300 ml de lait
+- 4 œufs
+- 30 g de beurre fondu
 - 100 g de farine
 - 60 g de sucre
-- 30 g de beurre fondu
 - Vanille et 1 pincée de sel
+
+*Pour le plat*
+
 - 500 g de cerises, prunes, poires ou abricots
 
 **Préparation**
@@ -748,11 +810,16 @@ Un plat familial pratique pour associer œufs, lait, fromage et légumes déjà 
 
 **Ingrédients**
 
-- 4 œufs
+*Pour l’appareil*
+
 - 400 ml de lait
+- 4 œufs
 - 80 g de farine
 - 80 g de fromage râpé
 - Muscade, poivre et peu de sel
+
+*Pour le plat*
+
 - 500 g de légumes déjà cuits et bien égouttés
 
 **Préparation**
@@ -766,13 +833,21 @@ Une base peu sucrée à personnaliser avec des fruits sans trop travailler la p�
 
 **Ingrédients**
 
+*Pour l’appareil liquide*
+
+- 180 ml de lait
 - 2 œufs
 - 100 ml d’huile neutre
-- 180 ml de lait
+
+*Pour les ingrédients secs*
+
 - 240 g de farine
 - 80 g de sucre
 - 11 g de levure chimique
 - 1 pincée de sel
+
+*À incorporer après le mixage*
+
 - 150 g de fruits frais ou surgelés
 
 **Préparation**
@@ -786,14 +861,22 @@ Des galettes riches en légumineuses, préparées directement à partir de lenti
 
 **Ingrédients**
 
+*Pour le trempage*
+
 - 300 g de lentilles corail sèches
+
+*Pour le mixage*
+
 - 180 à 220 ml d’eau
 - 2 c. à s. d’huile d’olive, plus un peu pour la cuisson
 - 1 c. à c. de cumin
 - 1/2 c. à c. de paprika fumé
 - 1 petite gousse d’ail
-- 2 c. à s. de persil ou de coriandre haché
 - 1/2 c. à c. de sel
+
+*À incorporer après le mixage*
+
+- 2 c. à s. de persil ou de coriandre haché
 
 **Préparation**
 
@@ -809,11 +892,11 @@ Des pancakes sans sucre ajouté où le blender transforme les flocons en pâte h
 
 **Ingrédients**
 
-- 2 bananes mûres
-- 2 œufs
-- 250 g de yogourt nature
-- 180 g de flocons d’avoine
 - 100 ml de lait
+- 250 g de yogourt nature
+- 2 œufs
+- 2 bananes mûres
+- 180 g de flocons d’avoine
 - 11 g de poudre à lever
 - 1 pincée de sel
 - Cannelle ou vanille, facultatif
@@ -835,17 +918,17 @@ Un smoothie frais et végétal dont la banane adoucit naturellement les épinard
 
 **Ingrédients**
 
-- 2 pommes évidées et coupées en morceaux
-- 1 banane
-- 100 g de pousses d’épinards
-- 1/2 concombre
-- Jus de 1 citron
 - 400 ml d’eau froide
+- Jus de 1 citron
+- 100 g de pousses d’épinards
+- 2 pommes évidées et coupées en morceaux
+- 1/2 concombre
+- 1 banane
 - 4 glaçons
 
 **Préparation**
 
-Lancer `SMOOTHIE`. Le mixage conserve l’essentiel des fibres présentes dans les ingrédients, mais ne transforme pas la boisson en équivalent parfait d’un fruit entier. Ne pas mixer les trognons ni les pépins de pomme.
+Mettre les ingrédients dans le bol dans l’ordre de la liste, puis lancer `SMOOTHIE`. Le mixage conserve l’essentiel des fibres présentes dans les ingrédients, mais ne transforme pas la boisson en équivalent parfait d’un fruit entier. Ne pas mixer les trognons ni les pépins de pomme.
 
 <a id="r-smoothie-fruits-rouges"></a>
 ### Smoothie fruits rouges, avoine et yaourt
@@ -854,11 +937,11 @@ Une boisson épaisse et rassasiante, adaptée au petit-déjeuner ou au goûter.
 
 **Ingrédients**
 
-- 400 g de fruits rouges frais ou surgelés
-- 2 bananes
+- 250 ml d’eau ou de lait
 - 400 g de yaourt nature
 - 60 g de flocons d’avoine
-- 250 ml d’eau ou de lait
+- 2 bananes
+- 400 g de fruits rouges frais ou surgelés
 
 **Préparation**
 
@@ -872,9 +955,9 @@ Une boisson glacée énergisante réservée aux adultes amateurs de café.
 **Ingrédients**
 
 - 3 expressos refroidis
-- 3 bananes congelées en morceaux de 2 cm
 - 450 ml de lait ou de boisson végétale
 - 2 c. à s. de cacao non sucré
+- 3 bananes congelées en morceaux de 2 cm
 - 4 glaçons
 
 **Préparation**
@@ -888,8 +971,8 @@ Une boisson végétale maison économique, douce et rapide à filtrer.
 
 **Ingrédients**
 
-- 100 g de flocons d’avoine
 - 1 L d’eau très froide
+- 100 g de flocons d’avoine
 - 1 pincée de sel
 - Vanille, facultatif
 
@@ -904,14 +987,19 @@ Une boisson végétale délicate obtenue avec des amandes trempées puis filtré
 
 **Ingrédients**
 
+*Pour le trempage*
+
 - 130 g d’amandes trempées au réfrigérateur pendant 8 heures
+
+*Pour le mixage*
+
 - 1 L d’eau
 - 1 pincée de sel
 - 1 datte dénoyautée, facultatif
 
 **Préparation**
 
-Jeter l’eau de trempage, rincer les amandes, puis mixer avec l’eau propre en V4 pendant 60 secondes. Filtrer, réfrigérer immédiatement et consommer rapidement. Même remarque nutritionnelle que pour la boisson à l’avoine.
+Jeter l’eau de trempage et rincer les amandes. Verser l’eau propre dans le bol, puis ajouter le sel, les amandes et la datte éventuelle dans l’ordre de la liste. Mixer en V4 pendant 60 secondes. Filtrer, réfrigérer immédiatement et consommer rapidement. Même remarque nutritionnelle que pour la boisson à l’avoine.
 
 <a id="r-lait-or"></a>
 ### Lait d’or
@@ -938,8 +1026,8 @@ Un café glacé aéré, rafraîchissant et simple, sans prétendre être un vér
 **Ingrédients**
 
 - 600 ml de café extrait à froid
-- 8 à 10 glaçons
 - Lait au goût, facultatif
+- 8 à 10 glaçons
 
 **Préparation**
 
@@ -956,9 +1044,9 @@ Un dessert minute fruité et acidulé, généralement assez doux sans sucre ajou
 
 **Ingrédients**
 
-- 300 g de mangue surgelée en cubes de 2 cm
 - 50 à 80 ml d’eau froide
 - Jus de 1 citron vert
+- 300 g de mangue surgelée en cubes de 2 cm
 - 1 c. à s. de miel ou de sirop, facultatif
 
 **Préparation**
@@ -972,10 +1060,10 @@ Une glace minute crémeuse où la banane rencontre la richesse de la cacahuète.
 
 **Ingrédients**
 
-- 300 g de banane congelée en rondelles
-- 60 g de purée de cacahuète sans sucre ajouté
 - 80 à 120 ml de lait ou de boisson végétale
 - Vanille
+- 300 g de banane congelée en rondelles
+- 60 g de purée de cacahuète sans sucre ajouté
 
 **Préparation**
 
@@ -988,8 +1076,8 @@ Des cristaux glacés et rafraîchissants à parfumer au café ou au citron.
 
 **Ingrédients**
 
-- 300 g de glaçons de café, ou de glaçons d’eau avec jus de citron
 - 30 à 50 ml de sirop de sucre
+- 300 g de glaçons de café, ou de glaçons d’eau avec jus de citron
 
 **Préparation**
 
@@ -1002,10 +1090,10 @@ Une crème chocolatée ferme et soyeuse, sans œufs ni crème.
 
 **Ingrédients**
 
-- 250 g de chocolat noir fondu puis tiédi
 - 400 g de tofu soyeux égoutté
 - 1 à 2 c. à s. de sirop d’érable, facultatif
 - 1 pincée de sel
+- 250 g de chocolat noir fondu puis tiédi
 
 **Préparation**
 
@@ -1018,9 +1106,14 @@ Une crème dessert onctueuse au chocolat noir et à la purée de noisette.
 
 **Ingrédients**
 
+*Pour la base à cuire*
+
 - 500 ml de lait
 - 35 g de fécule de maïs
 - 40 g de sucre
+
+*À incorporer hors du feu*
+
 - 100 g de chocolat noir
 - 30 g de purée de noisette
 
@@ -1037,10 +1130,15 @@ Une crème au citron vive et beurrée pour tartines, crêpes ou fonds de tarte.
 
 **Ingrédients**
 
+*Pour la crème au citron*
+
 - 4 œufs
+- 130 g de sucre
 - 150 ml de jus de citron
 - Zeste fin de 2 citrons non traités
-- 130 g de sucre
+
+*À incorporer hors du feu*
+
 - 100 g de beurre froid en dés
 
 **Préparation**
@@ -1054,10 +1152,10 @@ Une pâte maison intense, moins sucrée que de nombreuses versions industrielles
 
 **Ingrédients**
 
-- 300 g de purée de noisette lisse déjà préparée
 - 150 g de chocolat noir fondu et tiédi
 - 30 à 50 g de sucre glace, selon le goût
 - 1 pincée de sel
+- 300 g de purée de noisette lisse déjà préparée
 
 **Préparation**
 
@@ -1070,10 +1168,10 @@ Une compote douce sans sucre ajouté, à mixer plus ou moins finement selon les 
 
 **Ingrédients**
 
+- Jus de citron
+- Cannelle ou vanille
 - 500 g de pommes cuites et refroidies
 - 500 g de poires cuites et refroidies
-- Cannelle ou vanille
-- Jus de citron
 
 **Préparation**
 
@@ -1086,11 +1184,11 @@ Un dessert glacé acidulé et crémeux qui exploite pleinement le programme auto
 
 **Ingrédients**
 
-- 300 g de fruits rouges surgelés séparés, en morceaux de 2 cm maximum
 - 250 g de yogourt grec nature bien froid
-- 1 à 2 c. à s. de miel ou de sirop d’érable, facultatif
 - 1 c. à s. de jus de citron
 - Vanille, facultatif
+- 300 g de fruits rouges surgelés séparés, en morceaux de 2 cm maximum
+- 1 à 2 c. à s. de miel ou de sirop d’érable, facultatif
 
 **Préparation**
 
@@ -1111,13 +1209,18 @@ Une crème dessert inspirée de la tourte aux châtaignes du Val Bregaglia, spé
 
 **Ingrédients**
 
-- 400 g de châtaignes pelées, cuites et refroidies
+*Pour la crème*
+
 - 450 ml de lait
 - 150 ml de crème entière
+- 400 g de châtaignes pelées, cuites et refroidies
 - 50 à 70 g de sucre, selon le goût
 - 1 c. à c. d’extrait de vanille
 - 1 pincée de sel
-- Cacao non sucré ou chocolat râpé pour servir, facultatif
+
+*Pour servir*
+
+- Cacao non sucré ou chocolat râpé, facultatif
 
 **Préparation**
 
@@ -1134,15 +1237,22 @@ Un dessert minute qui met en valeur l’acidité des abricots valaisans et le pa
 
 **Ingrédients**
 
-- 300 g d’abricots du Valais dénoyautés, congelés en morceaux de 2 cm
+*Pour l’infusion*
+
+- 100 ml d’eau
+- 1 petit brin de romarin
+
+*Pour le sorbet*
+
 - 100 g de yogourt nature bien froid
 - 40 à 60 ml d’infusion de romarin froide
 - 1 c. à s. de jus de citron
+- 300 g d’abricots du Valais dénoyautés, congelés en morceaux de 2 cm
 - 1 c. à s. de miel, facultatif
 
 **Préparation**
 
-1. Préparer une infusion légère avec un petit brin de romarin, puis la laisser refroidir complètement.
+1. Porter l’eau à frémissement, ajouter le romarin hors du feu, laisser infuser 5 minutes, filtrer, puis laisser refroidir complètement.
 2. Verser le yogourt, 40 ml d’infusion et le citron dans le bol, puis ajouter les abricots et le miel éventuel.
 3. Lancer `DESSERT` avec la spatule. Ajouter un peu d’infusion si la masse ne circule pas et servir immédiatement.
 
@@ -1155,17 +1265,17 @@ Une création d’inspiration vaudoise où le fromage d’alpage apporte profond
 
 **Ingrédients**
 
+- 450 ml de bouillon peu salé
+- 1 c. à s. d’huile de colza ou de beurre fondu
 - 650 g de poireaux cuits et bien égouttés
 - 200 g de haricots blancs cuits, rincés et égouttés
-- 450 ml de bouillon peu salé
 - 80 g de L’Etivaz AOP fraîchement râpé
-- 1 c. à s. d’huile de colza ou de beurre
 - Muscade et poivre
 
 **Préparation**
 
 1. Laisser les poireaux et le bouillon redescendre à 60 °C maximum.
-2. Verser le bouillon dans le bol, puis ajouter les poireaux, les haricots, le fromage et l’assaisonnement.
+2. Verser le bouillon et la matière grasse dans le bol, puis ajouter les poireaux, les haricots, le fromage et l’assaisonnement.
 3. Lancer `SOUP`, puis réchauffer doucement en casserole sans faire bouillir. Goûter avant de saler.
 
 > **Origine :** création pour le blender autour de L’Etivaz AOP ; elle ne doit pas être confondue avec une recette vaudoise traditionnelle.
@@ -1177,16 +1287,16 @@ Un dessert fribourgeois d’inspiration contemporaine, fruité et doucement épi
 
 **Ingrédients**
 
-- 600 g de Poires à Botzi AOP cuites, froides et égouttées
 - 250 g de yogourt nature
 - 40 à 60 ml de vin cuit
 - 1 c. à s. de jus de citron
+- 600 g de Poires à Botzi AOP cuites, froides et égouttées
 - 1 pincée de cannelle
 - 80 ml de jus de cuisson des poires ou d’eau, si nécessaire
 
 **Préparation**
 
-1. Mettre le yogourt, 40 ml de vin cuit, le citron et les poires dans le bol.
+1. Mettre le yogourt, 40 ml de vin cuit, le citron, les poires et la cannelle dans le bol.
 2. Mixer en V3 pendant 30 à 40 secondes. Ajouter un peu de jus de cuisson si la crème est trop épaisse.
 3. Goûter avant d’ajouter davantage de vin cuit, puis réfrigérer et servir en verrines.
 
@@ -1199,17 +1309,17 @@ Un velouté hivernal qui exploite la puissance du blender pour affiner ce légum
 
 **Ingrédients**
 
-- 600 g de cardon épineux genevois AOP déjà cuit, rincé et égoutté
-- 240 g de haricots blancs cuits, rincés et égouttés
 - 450 ml de bouillon peu salé
 - 100 ml de lait
 - 1 c. à s. d’huile d’olive
+- 600 g de cardon épineux genevois AOP déjà cuit, rincé et égoutté
+- 240 g de haricots blancs cuits, rincés et égouttés
 - Muscade et poivre
 
 **Préparation**
 
 1. Laisser tous les ingrédients redescendre à 60 °C maximum.
-2. Verser le bouillon et le lait dans le bol, puis ajouter le cardon, les haricots et l’assaisonnement.
+2. Verser le bouillon, le lait et l’huile dans le bol, puis ajouter le cardon, les haricots et l’assaisonnement.
 3. Lancer `SOUP`. Si des fibres restent perceptibles, passer le velouté au tamis fin avant de le réchauffer en casserole.
 
 > **Origine :** le cardon est un produit emblématique de Genève et son usage en velouté est attesté ; cette formulation précise est adaptée au Blender Power 4.
@@ -1233,9 +1343,9 @@ Une préparation douce et pauvre en graisse pour faire le plein de glucides avan
 
 **Ingrédients**
 
+- 600 ml de boisson au riz ou de lait, selon la tolérance
 - 500 g de riz blanc bien cuit et refroidi
 - 3 bananes mûres
-- 600 ml de boisson au riz ou de lait, selon la tolérance
 - 1 c. à c. d’extrait de vanille
 - Cannelle, facultatif
 - 1 à 2 c. à s. de miel, facultatif selon les besoins
@@ -1253,12 +1363,12 @@ Un smoothie riche en glucides et peu gras pour les jours où un repas solide pas
 
 **Ingrédients**
 
-- 400 g de mangue fraîche ou décongelée
-- 3 bananes mûres
 - 600 ml de boisson au riz
 - 200 ml d’eau froide
-- 1 pincée de sel
 - Jus de 1/2 citron vert, facultatif
+- 1 pincée de sel
+- 400 g de mangue fraîche ou décongelée
+- 3 bananes mûres
 
 **Préparation**
 
@@ -1273,11 +1383,11 @@ Une purée souple à transporter en flasque alimentaire pendant une sortie prolo
 
 **Ingrédients**
 
-- 600 g de compote de pommes sans sucre ajouté
-- 2 bananes mûres
 - 80 ml de sirop d’érable
 - 30 ml de jus de citron
 - 1 petite pincée de sel, facultative
+- 600 g de compote de pommes sans sucre ajouté
+- 2 bananes mûres
 
 **Préparation**
 
@@ -1292,10 +1402,10 @@ Une grande boisson associant glucides, protéines et liquide après une séance 
 
 **Ingrédients**
 
-- 4 bananes mûres
-- 600 g de skyr ou de séré maigre nature
 - 400 ml de lait, éventuellement sans lactose
+- 600 g de skyr ou de séré maigre nature
 - 30 g de cacao non sucré
+- 4 bananes mûres
 - 1 à 2 c. à s. de miel, facultatif si la récupération doit être rapide
 - 1 pincée de sel
 
@@ -1312,14 +1422,19 @@ Un vrai repas liquide réunissant féculent, légumineuses, légumes et bouillon
 
 **Ingrédients**
 
-- 500 g de patate douce cuite
-- 250 g de grains de maïs cuits
-- 240 g de haricots blancs cuits, rincés et égouttés
+*Pour le mixage*
+
 - 450 ml de bouillon
 - 1 c. à s. d’huile d’olive
 - 1/2 c. à c. de paprika fumé
-- Jus de 1/2 citron vert
+- 500 g de patate douce cuite
+- 250 g de grains de maïs cuits
+- 240 g de haricots blancs cuits, rincés et égouttés
 - Poivre
+
+*Après le mixage*
+
+- Jus de 1/2 citron vert
 
 **Préparation**
 
@@ -1334,10 +1449,10 @@ Une collation dense pour les périodes où le volume d’entraînement rend les 
 
 **Ingrédients**
 
-- 3 bananes mûres
-- 100 g de flocons d’avoine
 - 600 ml de lait ou de boisson au soja
 - 400 g de yogourt nature
+- 100 g de flocons d’avoine
+- 3 bananes mûres
 - 80 g de purée de cacahuète sans sucre ajouté
 - Cannelle ou cacao non sucré, facultatif
 
