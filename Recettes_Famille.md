@@ -124,6 +124,7 @@ Carnet familial — recettes, proportions et repères de cuisine.
 | Doseur Tup jaune 1 l | 180 g |
 | Transparent couvercle rouge 0.5 l (sans couvercle) | 70 g |
 | Transparent 350 ml | 36 g |
+| Bol du blender | 2 kg |
 
 <a id="proportions"></a>
 ### Proportions

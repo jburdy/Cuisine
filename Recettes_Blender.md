@@ -65,6 +65,7 @@ Guide familial pour **4 personnes** — cuisine maison, variée, saine et gourma
 | Recette | Profil |
 |---|:---:|
 | [Smoothie vert doux](#r-smoothie-vert) | 🟢 |
+| [Smoothie crémeux avocat et banane](#r-smoothie-avocat) | 🟢 |
 | [Smoothie fruits rouges, avoine et yaourt](#r-smoothie-fruits-rouges) | 🟢 |
 | [Smoothie café, banane et cacao](#r-smoothie-cafe) | 🟠 |
 | [Boisson à l’avoine](#r-boisson-avoine) | 🟢 |
@@ -450,16 +451,11 @@ Une tartinade citronnée inspirée de la recette familiale : une base très liss
 - 150 g de pois chiches secs
 - Eau pour le trempage et la cuisson
 
-*Pour le tahini maison*
-
-- 15 g de graines de sésame
-- Huile d’olive, juste assez pour obtenir une pâte
-
 *Pour le mixage, dans cet ordre*
 
 - Eau de cuisson des pois chiches refroidie, selon la consistance
 - Jus de citron, selon le goût
-- Tout le tahini maison
+- 40 g de tahini
 - 1 petite gousse d’ail
 
 *Pour la finition*
@@ -469,10 +465,9 @@ Une tartinade citronnée inspirée de la recette familiale : une base très liss
 **Préparation**
 
 1. Faire tremper les pois chiches 12 heures au réfrigérateur, les rincer, puis les cuire dans une eau propre jusqu’à ce qu’ils soient très tendres. Garder l’eau de cuisson et laisser refroidir.
-2. Griller fortement les graines de sésame à sec, sans les brûler. Les laisser refroidir, puis les mixer avec juste assez d’huile d’olive dans le mini-bol pour obtenir un tahini.
-3. Retirer la peau du plus grand nombre possible de pois chiches et réserver ceux qui sont pelés. Verser un peu d’eau de cuisson refroidie, le jus de citron, le tahini et l’ail dans le grand bol. Ajouter les pois chiches non pelés, puis mixer 20 secondes en V3 et jusqu’à 40 secondes en V4, avec la spatule si nécessaire. Ajouter progressivement de l’eau de cuisson jusqu’à la consistance souhaitée.
-4. Ajouter les pois chiches pelés réservés et donner 2 à 4 impulsions courtes pour les écraser grossièrement sans les réduire en purée.
-5. Couvrir et laisser reposer 24 heures au réfrigérateur, puis goûter et assaisonner si nécessaire.
+2. Retirer la peau du plus grand nombre possible de pois chiches et réserver ceux qui sont pelés. Verser un peu d’eau de cuisson refroidie, le jus de citron, le tahini et l’ail dans le grand bol. Ajouter les pois chiches non pelés, puis mixer 20 secondes en V3 et jusqu’à 40 secondes en V4, avec la spatule si nécessaire. Ajouter progressivement de l’eau de cuisson jusqu’à la consistance souhaitée.
+3. Ajouter les pois chiches pelés réservés et donner 2 à 4 impulsions courtes pour les écraser grossièrement sans les réduire en purée.
+4. Couvrir et laisser reposer 24 heures au réfrigérateur, puis goûter et assaisonner si nécessaire.
 
 <a id="r-tartinade-haricots"></a>
 ### Tartinade de haricots blancs au romarin
@@ -924,6 +919,23 @@ Un smoothie frais et végétal dont la banane adoucit naturellement les épinard
 **Préparation**
 
 Mettre les ingrédients dans le bol dans l’ordre de la liste, puis lancer `SMOOTHIE`. Le mixage conserve l’essentiel des fibres présentes dans les ingrédients, mais ne transforme pas la boisson en équivalent parfait d’un fruit entier. Ne pas mixer les trognons ni les pépins de pomme.
+
+<a id="r-smoothie-avocat"></a>
+### Smoothie crémeux avocat et banane
+
+Une boisson veloutée et nourrissante où la banane apporte une douceur naturelle et le citron vert une touche de fraîcheur.
+
+**Ingrédients**
+
+- 400 ml de lait ou de boisson végétale (amande, avoine)
+- Jus de 1/2 citron vert
+- 2 bananes
+- 1 avocat bien mûr
+- 4 glaçons
+
+**Préparation**
+
+Mettre les ingrédients dans le bol dans l’ordre de la liste, puis lancer `SMOOTHIE`. Servir aussitôt en quatre verres ; l’avocat apporte une texture très onctueuse sans ajout de matière grasse ni de sucre.
 
 <a id="r-smoothie-fruits-rouges"></a>
 ### Smoothie fruits rouges, avoine et yaourt
