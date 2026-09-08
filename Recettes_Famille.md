@@ -47,6 +47,7 @@ Carnet familial — recettes, proportions et repères de cuisine.
 |---|---|
 | [Soupe à la tomate](#soupe-a-la-tomate) | [Soupe du Chalet](#soupe-du-chalet) |
 | [Soupe de lentilles & Co façon JB](#soupe-de-lentilles-co-facon-jb) |  |
+| [Idées de rotations automne-hiver](#idees-de-rotations-automne-hiver) |  |
 
 ### Volailles
 
@@ -485,6 +486,40 @@ Huile de colza, 1 jaune d'œuf, 1/2 jus de citron, 1 cuillère à café de mouta
 
 <a id="6-soupes"></a>
 ## 6. Soupes
+
+<a id="idees-de-rotations-automne-hiver"></a>
+### Idées de rotations automne-hiver
+
+Des associations simples de légumes de saison en Suisse romande. Compter un oignon ou une échalote, du bouillon, puis ajuster avec une pomme de terre ou des haricots blancs pour une texture plus liée.
+
+| Petit nom | Légumes à réunir | Accent possible |
+|---|---|---|
+| **La Courge du verger** | Courge (butternut ou potimarron), carotte, oignon | Pomme, thym, noisettes grillées |
+| **Le Poireau des Préalpes** | Poireau, pomme de terre, céleri-rave | Gruyère ou séré, muscade |
+| **La Racine douce** | Carotte, panais, oignon | Gingembre, orange, graines de courge |
+| **Le Velours de terre** | Topinambour, pomme de terre, poireau | Crème, huile de noisette, persil |
+| **Le Blanc du marché** | Chou-fleur, pomme de terre, oignon | Curry doux, pomme, amandes |
+| **La Verte d'hiver** | Chou frisé (kale ou chou plume), poireau, pomme de terre | Haricots blancs, citron, huile d'olive |
+| **La Rouge du Léman** | Betterave, carotte, oignon | Pomme, raifort ou yogourt nature |
+| **La Paysanne** | Rutabaga, navet, carotte, poireau | Thym, laurier, croûtons au fromage |
+| **La Douce Savoyarde** | Courge, poireau, pomme de terre | Sauge, beaufort ou gruyère, poivre noir |
+| **Le Céleri qui pique** | Céleri-rave, pomme de terre, oignon | Moutarde à l'ancienne, pomme, persil |
+| **La Chouette** | Chou blanc, carotte, poireau | Cumin, lardons ou haricots blancs |
+| **La Frisée du potager** | Scarole ou endive cuite, pomme de terre, oignon | Noix, bleu ou crème, muscade |
+| **L'Orangerie** | Carotte, courge, patate douce | Curcuma, lait de coco, citron vert |
+| **La Forêt sous terre** | Panais, céleri-rave, topinambour | Champignons poêlés, thym, huile de noix |
+| **La Verte du Léman** | Épinards, poireau, pomme de terre | Séré, ail, citron |
+| **La Boréale** | Chou rouge, pomme, oignon | Vinaigre de cidre, cumin, crème fraîche |
+| **Le Jardin givré** | Poireau, fenouil, pomme de terre | Aneth, citron, saumon fumé en finition |
+| **La Vaudoise rustique** | Cardon, pomme de terre, poireau | Crème, citron, parmesan ou gruyère |
+| **La Légumineuse** | Carotte, poireau, céleri-rave, lentilles corail | Cumin, coriandre, yogourt nature |
+| **La Ronde dorée** | Courge, carotte, lentilles corail | Curry doux, lait de coco, coriandre |
+| **Le Navet citronné** | Navet, pomme de terre, poireau | Citron, estragon, noisettes |
+| **La Mijotée du marché** | Chou de Bruxelles, pomme de terre, oignon | Bacon, muscade, crème ou lait |
+| **La Blanche des bois** | Pomme de terre, poireau, champignons | Thym, ail, persil, crème |
+| **La Terre et mer** | Poireau, carotte, céleri-rave | Safran, pommes de terre, poisson fumé en finition |
+
+Pour une rotation facile : alterner une soupe de courge, une soupe de poireaux, une soupe de racines et une soupe de chou. Les courges se prêtent surtout à l'automne ; poireaux, racines et choux prennent naturellement le relais tout l'hiver.
 
 <a id="soupe-a-la-tomate"></a>
 ### Soupe à la tomate
