@@ -67,6 +67,7 @@ Guide familial pour **4 personnes** — cuisine maison, variée, saine et gourma
 | [Smoothie vert doux](#r-smoothie-vert) | 🟢 |
 | [Smoothie crémeux avocat et banane](#r-smoothie-avocat) | 🟢 |
 | [Smoothie fruits rouges, avoine et yaourt](#r-smoothie-fruits-rouges) | 🟢 |
+| [Smoothie banane et avoine](#r-smoothie-banane-avoine) | 🟢 |
 | [Smoothie café, banane et cacao](#r-smoothie-cafe) | 🟠 |
 | [Boisson à l’avoine](#r-boisson-avoine) | 🟢 |
 | [Boisson aux amandes](#r-boisson-amandes) | 🟢 |
@@ -953,6 +954,27 @@ Une boisson épaisse et rassasiante, adaptée au petit-déjeuner ou au goûter.
 **Préparation**
 
 Mettre le liquide et le yaourt en premier, puis le reste. Lancer `SMOOTHIE`. Servir en quatre portions ; aucun sucre ajouté n’est généralement nécessaire.
+
+<a id="r-smoothie-banane-avoine"></a>
+### Smoothie banane et avoine
+
+Un verre unique, simple et rassasiant : l’avoine réduite en poudre rend la texture particulièrement onctueuse.
+
+**Ingrédients**
+
+*Pour 1 verre*
+
+- 50 g de flocons d’avoine
+- 200 ml de lait ou d’eau
+- 1 banane
+- 1 pincée de sel
+- 1 c. à s. de sirop d’érable, facultatif
+
+**Préparation**
+
+1. Mixer les flocons à sec par impulsions `PULSE` jusqu’à obtenir une poudre fine.
+2. Ajouter le lait ou l’eau, la banane, le sel et le sirop d’érable éventuel.
+3. Lancer `SMOOTHIE` et servir aussitôt.
 
 <a id="r-smoothie-cafe"></a>
 ### Smoothie café, banane et cacao
